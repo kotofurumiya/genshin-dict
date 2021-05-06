@@ -9,7 +9,7 @@
 
 ## ダウンロード
 
-以下のページより `default.zip` をダウンロードしてください。
+以下のページより `genshin-dictionary.zip` をダウンロードしてください。
 zipファイルを展開するとそれぞれの環境用のファイルが入っています。
 
 https://github.com/kotofurumiya/genshin-dict/releases/latest

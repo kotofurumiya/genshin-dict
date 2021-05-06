@@ -13,6 +13,8 @@ export const stuff: PartialDictItem[] = [
   { hiragana: 'ぼふうのまっしゅるーむ', word: '慕風のマッシュルーム' },
   { hiragana: 'せきはく', word: '石珀' },
   { hiragana: 'げいしょうばな', word: '霓裳花' },
+  { hiragana: 'せいら', word: '星螺' },
+  { hiragana: 'よどまりいし', word: '夜泊石' },
   { hiragana: 'しょうとう', word: '霄灯' },
   { hiragana: 'じんかつぼ', word: '塵歌壺' },
 ];

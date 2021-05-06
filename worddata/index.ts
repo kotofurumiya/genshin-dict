@@ -38,6 +38,7 @@ const itemDict = toDict(item, toNoun);
 
 const combined = [
   ...worldDict.teyvat,
+  ...worldDict.enemy,
   ...personDict.mond,
   ...personDict.riyue,
   ...personDict.inazuma,

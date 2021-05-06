@@ -28,6 +28,42 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>宝盗団</string>
+  <key>shortcut</key>
+  <string>ほうとうだん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>雷蛍術師</string>
+  <key>shortcut</key>
+  <string>らいけいじゅつし</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>氷蛍術士</string>
+  <key>shortcut</key>
+  <string>ひょうけいじゅつし</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>爆炎樹</string>
+  <key>shortcut</key>
+  <string>ばくえんじゅ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>急凍樹</string>
+  <key>shortcut</key>
+  <string>きゅうとうじゅ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>若陀龍王</string>
+  <key>shortcut</key>
+  <string>じゃくだりゅうおう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アンバー</string>
   <key>shortcut</key>
   <string>あんばー</string>
@@ -670,6 +706,36 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>層岩巨淵</string>
+  <key>shortcut</key>
+  <string>そうがんきょえん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>鳴神島</string>
+  <key>shortcut</key>
+  <string>なるかみじま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヤシオリ島</string>
+  <key>shortcut</key>
+  <string>やしおりとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>神無塚</string>
+  <key>shortcut</key>
+  <string>かんなづか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>御影炉心</string>
+  <key>shortcut</key>
+  <string>みかげろしん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>スネージナヤ</string>
   <key>shortcut</key>
   <string>すねーじなや</string>
@@ -691,6 +757,12 @@
   <string>深境螺旋</string>
   <key>shortcut</key>
   <string>しんきょうらせん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>淵月螺旋</string>
+  <key>shortcut</key>
+  <string>えんげつらせん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -739,6 +811,18 @@
   <string>霓裳花</string>
   <key>shortcut</key>
   <string>げいしょうばな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>星螺</string>
+  <key>shortcut</key>
+  <string>せいら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>夜泊石</string>
+  <key>shortcut</key>
+  <string>よどまりいし</string>
 </dict>
 <dict>
   <key>phrase</key>

@@ -68,9 +68,14 @@ export const riyue: PartialDictItem[] = [
   { hiragana: 'ふぼくろ', word: '不卜盧' },
   { hiragana: 'おうじょうどう', word: '往生堂' },
   { hiragana: 'ぐんぎょくかく', word: '群玉閣' },
+  { hiragana: 'そうがんきょえん', word: '層岩巨淵' },
 ];
 
 export const inazuma: PartialDictItem[] = [
+  { hiragana: 'なるかみじま', word: '鳴神島' },
+  { hiragana: 'やしおりとう', word: 'ヤシオリ島' },
+  { hiragana: 'かんなづか', word: '神無塚' },
+  { hiragana: 'みかげろしん', word: '御影炉心' },
 ];
 
 export const snezhnaya: PartialDictItem[] = [
@@ -84,6 +89,7 @@ export const khaenriah: PartialDictItem[] = [
 export const other: PartialDictItem[] = [
   { hiragana: 'ていわっと', word: 'テイワット' },
   { hiragana: 'しんきょうらせん', word: '深境螺旋' },
+  { hiragana: 'えんげつらせん', word: '淵月螺旋' },
   { hiragana: 'じんじゃくかい', word: '燼寂海' },
   { hiragana: 'せれすてぃあ', word: 'セレスティア' },
 ];

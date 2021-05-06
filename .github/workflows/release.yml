@@ -16,11 +16,11 @@ jobs:
       - run: npm ci
       - run: npm run build
       - name: Zip files
-        run: zip -r "辞書データ.zip" "辞書データ"
+        run: zip -r genshin-dictionary.zip genshin-dictionary
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
-          files: 辞書データ.zip
+          files: genshin-dictionary.zip
           body_path: .github/workflows/RELEASE_NOTE.md
           fail_on_unmatched_files: true
         env:

@@ -67,7 +67,10 @@ const createIndexPage = (pages: Page[]): Page => {
 };
 
 export const generateDocs = () => {
-  const world: DictMeta[] = [{ title: 'テイワット', items: dict.world.teyvat }];
+  const world: DictMeta[] = [
+    { title: 'テイワット', items: dict.world.teyvat },
+    { title: 'エネミー', items: dict.world.enemy },
+  ];
 
   const person: DictMeta[] = [
     { title: 'モンド', items: dict.person.mond },

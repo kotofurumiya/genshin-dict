@@ -6,7 +6,7 @@ import { toKotoeriDict, toMacUserDict, toWindowsImeDict } from './lib/platform';
 import { generateDocs } from './lib/docgen';
 
 const docDir = path.join(__dirname, '..', 'docs');
-const distDir = path.join(__dirname, '..', '辞書データ');
+const distDir = path.join(__dirname, '..', 'genshin-dictionary');
 const winDictFile = path.join(distDir, '原神辞書_Windows.txt');
 const macDictFile = path.join(distDir, '原神辞書_macOS.txt');
 const macUserDictFile = path.join(distDir, '原神辞書_macOS_ユーザ辞書.plist');
