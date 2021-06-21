@@ -34,6 +34,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>バドルドー</string>
+  <key>shortcut</key>
+  <string>ばどるどー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>雷蛍術師</string>
   <key>shortcut</key>
   <string>らいけいじゅつし</string>
@@ -61,6 +67,12 @@
   <string>若陀龍王</string>
   <key>shortcut</key>
   <string>じゃくだりゅうおう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>魔偶剣鬼</string>
+  <key>shortcut</key>
+  <string>まぐうけんき</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -310,9 +322,51 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>神里</string>
+  <key>shortcut</key>
+  <string>かみさと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>綾華</string>
+  <key>shortcut</key>
+  <string>あやか</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>神里綾華</string>
   <key>shortcut</key>
   <string>かみさとあやか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>楓原</string>
+  <key>shortcut</key>
+  <string>かえではら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>万葉</string>
+  <key>shortcut</key>
+  <string>かずは</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>楓原万葉</string>
+  <key>shortcut</key>
+  <string>かえではらかずは</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>早柚</string>
+  <key>shortcut</key>
+  <string>さゆ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>宵宮</string>
+  <key>shortcut</key>
+  <string>よいみや</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -835,6 +889,12 @@
   <string>塵歌壺</string>
   <key>shortcut</key>
   <string>じんかつぼ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>魔偶の芯</string>
+  <key>shortcut</key>
+  <string>まぐうのしん</string>
 </dict>
 </array>
 </plist>
