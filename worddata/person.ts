@@ -15,6 +15,7 @@ export const mond: PartialDictItem[] = [
   { hiragana: 'もな', word: 'モナ' },
   { hiragana: 'うぇんてぃ', word: 'ウェンティ' },
   { hiragana: 'くれー', word: 'クレー' },
+  { hiragana: 'どどこ', word: 'ドドコ' },
   { hiragana: 'ありす', word: 'アリス' },
   { hiragana: 'でぃおな', word: 'ディオナ' },
   { hiragana: 'あるべど', word: 'アルベド' },
@@ -45,6 +46,7 @@ export const riyue: PartialDictItem[] = [
   { hiragana: 'ごほうやしゃ', word: '護法夜叉' },
   { hiragana: 'ふーたお', word: '胡桃' },
   { hiragana: 'えんひ', word: '煙緋' },
+  { hiragana: 'あつこ', word: '竺子' },
 ];
 
 export const inazuma: PartialDictItem[] = [
@@ -56,6 +58,15 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'かえではらかずは', word: '楓原万葉' },
   { hiragana: 'さゆ', word: '早柚' },
   { hiragana: 'よいみや', word: '宵宮' },
+  { hiragana: 'らいでんしょうぐん', word: '雷電将軍' },
+  { hiragana: 'さら', word: '裟羅' },
+  { hiragana: 'くじょうさら', word: '九条裟羅' },
+  { hiragana: 'さんごのみや', word: '珊瑚宮' },
+  { hiragana: 'ここみ', word: '心海' },
+  { hiragana: 'さんごのみやここみ', word: '珊瑚宮心海' },
+  { hiragana: 'とーま', word: 'トーマ' },
+  { hiragana: 'ごろー', word: 'ゴロー' },
+  { hiragana: 'やえみこ', word: '八重神子' },
 ];
 
 export const snezhnaya: PartialDictItem[] = [

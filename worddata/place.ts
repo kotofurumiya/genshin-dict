@@ -73,9 +73,11 @@ export const riyue: PartialDictItem[] = [
 
 export const inazuma: PartialDictItem[] = [
   { hiragana: 'なるかみじま', word: '鳴神島' },
-  { hiragana: 'やしおりとう', word: 'ヤシオリ島' },
+  { hiragana: 'なるかみおおやしろ', word: '鳴神大社' },
+  { hiragana: 'やしおりじま', word: 'ヤシオリ島' },
   { hiragana: 'かんなづか', word: '神無塚' },
   { hiragana: 'みかげろしん', word: '御影炉心' },
+  { hiragana: 'こんだむら', word: '紺田村' },
 ];
 
 export const snezhnaya: PartialDictItem[] = [

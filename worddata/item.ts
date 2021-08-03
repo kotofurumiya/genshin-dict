@@ -10,7 +10,10 @@ export const food: PartialDictItem[] = [
 ];
 
 export const stuff: PartialDictItem[] = [
+  { hiragana: 'ふうしゃあすたー', word: '風車アスター' },
   { hiragana: 'ぼふうのまっしゅるーむ', word: '慕風のマッシュルーム' },
+  { hiragana: 'どどりあん', word: 'ドドリアン' },
+  { hiragana: 'ぐぐぷらむ', word: 'ググプラム' },
   { hiragana: 'せきはく', word: '石珀' },
   { hiragana: 'げいしょうばな', word: '霓裳花' },
   { hiragana: 'せいら', word: '星螺' },
@@ -18,4 +21,9 @@ export const stuff: PartialDictItem[] = [
   { hiragana: 'しょうとう', word: '霄灯' },
   { hiragana: 'じんかつぼ', word: '塵歌壺' },
   { hiragana: 'まぐうのしん', word: '魔偶の芯' },
+  { hiragana: 'さんりょうぶっしつへんかき', word: '参量物質変化器' },
+  { hiragana: 'ひおうきゅう', word: '緋櫻毬' },
+  { hiragana: 'なぐさ', word: '鳴草' },
+  { hiragana: 'しょうかこつずい', word: '晶化骨髄' },
+  { hiragana: 'うみれいし', word: 'ウミレイシ' },
 ];
