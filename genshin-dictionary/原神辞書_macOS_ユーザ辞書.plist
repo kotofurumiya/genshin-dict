@@ -100,6 +100,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>無相の水</string>
+  <key>shortcut</key>
+  <string>むそうのみず</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>爆炎樹</string>
   <key>shortcut</key>
   <string>ばくえんじゅ</string>
@@ -157,6 +163,24 @@
   <string>海乱鬼</string>
   <key>shortcut</key>
   <string>かいらぎ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>遺跡機兵</string>
+  <key>shortcut</key>
+  <string>いせききへい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フライム</string>
+  <key>shortcut</key>
+  <string>ふらいむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>雷音権現</string>
+  <key>shortcut</key>
+  <string>らいおんごんげん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -469,6 +493,12 @@
   <string>雷電将軍</string>
   <key>shortcut</key>
   <string>らいでんしょうぐん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>雷電影</string>
+  <key>shortcut</key>
+  <string>らいでんえい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -949,6 +979,24 @@
   <string>紺田村</string>
   <key>shortcut</key>
   <string>こんだむら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>たたら砂</string>
+  <key>shortcut</key>
+  <string>たたらすな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>海祇島</string>
+  <key>shortcut</key>
+  <string>わたつみじま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>セイライ島</string>
+  <key>shortcut</key>
+  <string>せいらいじま</string>
 </dict>
 <dict>
   <key>phrase</key>

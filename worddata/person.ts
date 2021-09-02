@@ -59,6 +59,7 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'さゆ', word: '早柚' },
   { hiragana: 'よいみや', word: '宵宮' },
   { hiragana: 'らいでんしょうぐん', word: '雷電将軍' },
+  { hiragana: 'らいでんえい', word: '雷電影' },
   { hiragana: 'さら', word: '裟羅' },
   { hiragana: 'くじょうさら', word: '九条裟羅' },
   { hiragana: 'さんごのみや', word: '珊瑚宮' },
@@ -67,6 +68,10 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'とーま', word: 'トーマ' },
   { hiragana: 'ごろー', word: 'ゴロー' },
   { hiragana: 'やえみこ', word: '八重神子' },
+];
+
+export const sumeru: PartialDictItem[] = [
+  { hiragana: 'くらくさなりでび', word: 'クラクサナリデビ' },
 ];
 
 export const snezhnaya: PartialDictItem[] = [

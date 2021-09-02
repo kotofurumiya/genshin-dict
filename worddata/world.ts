@@ -20,6 +20,7 @@ export const enemy: PartialDictItem[] = [
   { hiragana: 'むそうのこおり', word: '無相の氷' },
   { hiragana: 'むそうのいわ', word: '無相の岩' },
   { hiragana: 'むそうのほのお', word: '無相の炎' },
+  { hiragana: 'むそうのみず', word: '無相の水' },
   { hiragana: 'ばくえんじゅ', word: '爆炎樹' },
   { hiragana: 'きゅうとうじゅ', word: '急凍樹' },
   { hiragana: 'じゅんすいせいれい', word: '純水精霊' },
@@ -30,4 +31,7 @@ export const enemy: PartialDictItem[] = [
   { hiragana: 'あびすのしと', word: 'アビスの使徒' },
   { hiragana: 'まぐうけんき', word: '魔偶剣鬼' },
   { hiragana: 'かいらぎ', word: '海乱鬼' },
+  { hiragana: 'いせききへい', word: '遺跡機兵' },
+  { hiragana: 'ふらいむ', word: 'フライム' },
+  { hiragana: 'らいおんごんげん', word: '雷音権現' },
 ];
