@@ -26,6 +26,7 @@ export const mond: PartialDictItem[] = [
 
 export const riyue: PartialDictItem[] = [
   { hiragana: 'しゃんりん', word: '香菱' },
+  { hiragana: 'ぐぅおぱぁー', word: 'グゥオパァー' },
   { hiragana: 'ほくと', word: '北斗' },
   { hiragana: 'ゆくあき', word: '行秋' },
   { hiragana: 'ぎょうこう', word: '凝光' },
@@ -47,6 +48,10 @@ export const riyue: PartialDictItem[] = [
   { hiragana: 'ふーたお', word: '胡桃' },
   { hiragana: 'えんひ', word: '煙緋' },
   { hiragana: 'あつこ', word: '竺子' },
+  { hiragana: 'げんしょう', word: '言笑' },
+  { hiragana: 'こうせつ', word: '江雪' },
+  { hiragana: 'ぴんばあや', word: 'ピンばあや' },
+  { hiragana: 'ほうじ', word: '宝児' },
 ];
 
 export const inazuma: PartialDictItem[] = [
@@ -68,6 +73,8 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'とーま', word: 'トーマ' },
   { hiragana: 'ごろー', word: 'ゴロー' },
   { hiragana: 'やえみこ', word: '八重神子' },
+  { hiragana: 'きつねさいぐう', word: '狐斎宮' },
+  { hiragana: 'かざり', word: '花散里' },
 ];
 
 export const sumeru: PartialDictItem[] = [

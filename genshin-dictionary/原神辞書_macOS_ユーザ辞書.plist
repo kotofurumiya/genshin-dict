@@ -34,6 +34,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>海灯祭</string>
+  <key>shortcut</key>
+  <string>かいとうさい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>月逐い祭</string>
+  <key>shortcut</key>
+  <string>つきおいさい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>バドルドー</string>
   <key>shortcut</key>
   <string>ばどるどー</string>
@@ -184,6 +196,30 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>獣域</string>
+  <key>shortcut</key>
+  <string>じゅういき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ウェルプ</string>
+  <key>shortcut</key>
+  <string>うぇるぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>獣域ウェルプ</string>
+  <key>shortcut</key>
+  <string>じゅういきうぇるぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>獣域ハウンド</string>
+  <key>shortcut</key>
+  <string>じゅういきはうんど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アンバー</string>
   <key>shortcut</key>
   <string>あんばー</string>
@@ -316,6 +352,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>グゥオパァー</string>
+  <key>shortcut</key>
+  <string>ぐぅおぱぁー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>北斗</string>
   <key>shortcut</key>
   <string>ほくと</string>
@@ -442,6 +484,30 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>言笑</string>
+  <key>shortcut</key>
+  <string>げんしょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>江雪</string>
+  <key>shortcut</key>
+  <string>こうせつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ピンばあや</string>
+  <key>shortcut</key>
+  <string>ぴんばあや</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>宝児</string>
+  <key>shortcut</key>
+  <string>ほうじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>神里</string>
   <key>shortcut</key>
   <string>かみさと</string>
@@ -547,6 +613,18 @@
   <string>八重神子</string>
   <key>shortcut</key>
   <string>やえみこ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>狐斎宮</string>
+  <key>shortcut</key>
+  <string>きつねさいぐう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>花散里</string>
+  <key>shortcut</key>
+  <string>かざり</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -997,6 +1075,18 @@
   <string>セイライ島</string>
   <key>shortcut</key>
   <string>せいらいじま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>木漏茶屋</string>
+  <key>shortcut</key>
+  <string>こもれちゃや</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>鶴観</string>
+  <key>shortcut</key>
+  <string>つるみ</string>
 </dict>
 <dict>
   <key>phrase</key>

@@ -6,6 +6,8 @@ export const teyvat: PartialDictItem[] = [
   { hiragana: 'ここなっつひつじ', word: 'ココナッツヒツジ' },
   { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
   { hiragana: 'ほうとうだん', word: '宝盗団' },
+  { hiragana: 'かいとうさい', word: '海灯祭' },
+  { hiragana: 'つきおいさい', word: '月逐い祭' },
   { hiragana: 'ばどるどー', word: 'バドルドー' },
   { hiragana: 'かみのめ', word: '神の眼' },
   { hiragana: 'いのちのせいざ', word: '命ノ星座' },
@@ -34,4 +36,8 @@ export const enemy: PartialDictItem[] = [
   { hiragana: 'いせききへい', word: '遺跡機兵' },
   { hiragana: 'ふらいむ', word: 'フライム' },
   { hiragana: 'らいおんごんげん', word: '雷音権現' },
+  { hiragana: 'じゅういき', word: '獣域' },
+  { hiragana: 'うぇるぷ', word: 'ウェルプ' },
+  { hiragana: 'じゅういきうぇるぷ', word: '獣域ウェルプ' },
+  { hiragana: 'じゅういきはうんど', word: '獣域ハウンド' },
 ];

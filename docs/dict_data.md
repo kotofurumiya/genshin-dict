@@ -2,7 +2,7 @@
 
 |カテゴリ|登録数|
 |---|--:|
-|[ワールド](./dict/world.md)|30|
-|[人物](./dict/person.md)|65|
-|[場所](./dict/place.md)|74|
+|[ワールド](./dict/world.md)|36|
+|[人物](./dict/person.md)|72|
+|[場所](./dict/place.md)|76|
 |[もの](./dict/item.md)|19|
