@@ -70,6 +70,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>うんかんしゃ</string>
+  <key>shortcut</key>
+  <string>うんかんしゃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>雷蛍術師</string>
   <key>shortcut</key>
   <string>らいけいじゅつし</string>
@@ -505,6 +511,18 @@
   <string>宝児</string>
   <key>shortcut</key>
   <string>ほうじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>申鶴</string>
+  <key>shortcut</key>
+  <string>しんかく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>雲菫</string>
+  <key>shortcut</key>
+  <string>うんきん</string>
 </dict>
 <dict>
   <key>phrase</key>

@@ -52,6 +52,8 @@ export const riyue: PartialDictItem[] = [
   { hiragana: 'こうせつ', word: '江雪' },
   { hiragana: 'ぴんばあや', word: 'ピンばあや' },
   { hiragana: 'ほうじ', word: '宝児' },
+  { hiragana: 'しんかく', word: '申鶴' },
+  { hiragana: 'うんきん', word: '雲菫' },
 ];
 
 export const inazuma: PartialDictItem[] = [
@@ -75,6 +77,7 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'やえみこ', word: '八重神子' },
   { hiragana: 'きつねさいぐう', word: '狐斎宮' },
   { hiragana: 'かざり', word: '花散里' },
+  // { hiragana: 'あらたきいっと', word: '荒瀧一斗' },
 ];
 
 export const sumeru: PartialDictItem[] = [
