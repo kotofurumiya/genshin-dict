@@ -12,7 +12,7 @@ export const teyvat: PartialDictItem[] = [
   { hiragana: 'かみのめ', word: '神の眼' },
   { hiragana: 'いのちのせいざ', word: '命ノ星座' },
   { hiragana: 'かみさくら', word: '神櫻' },
-  { hiragana: 'うんかんしゃ', word: 'うんかんしゃ' },
+  { hiragana: 'うんかんしゃ', word: '雲翰社' },
 ];
 
 export const enemy: PartialDictItem[] = [
