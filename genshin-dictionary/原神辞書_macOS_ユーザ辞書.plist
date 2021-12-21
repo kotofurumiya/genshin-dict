@@ -10,6 +10,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>地霊壇</string>
+  <key>shortcut</key>
+  <string>ちれいだん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>仙霊</string>
   <key>shortcut</key>
   <string>せんれい</string>
@@ -223,6 +229,12 @@
   <string>獣域ハウンド</string>
   <key>shortcut</key>
   <string>じゅういきはうんど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>黄金王獣</string>
+  <key>shortcut</key>
+  <string>おうごんおうじゅう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1261,6 +1273,12 @@
   <string>ウミレイシ</string>
   <key>shortcut</key>
   <string>うみれいし</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>獣域王器</string>
+  <key>shortcut</key>
+  <string>じゅういきおうき</string>
 </dict>
 </array>
 </plist>

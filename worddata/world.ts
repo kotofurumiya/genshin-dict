@@ -2,6 +2,7 @@ import { PartialDictItem } from './dict';
 
 export const teyvat: PartialDictItem[] = [
   { hiragana: 'しちてんじんぞう', word: '七天神像' },
+  { hiragana: 'ちれいだん', word: '地霊壇' },
   { hiragana: 'せんれい', word: '仙霊' },
   { hiragana: 'ここなっつひつじ', word: 'ココナッツヒツジ' },
   { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
@@ -41,4 +42,5 @@ export const enemy: PartialDictItem[] = [
   { hiragana: 'うぇるぷ', word: 'ウェルプ' },
   { hiragana: 'じゅういきうぇるぷ', word: '獣域ウェルプ' },
   { hiragana: 'じゅういきはうんど', word: '獣域ハウンド' },
+  { hiragana: 'おうごんおうじゅう', word: '黄金王獣' },
 ];
