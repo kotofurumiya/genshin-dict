@@ -4,5 +4,5 @@
 |---|--:|
 |[ワールド](./dict/world.md)|39|
 |[人物](./dict/person.md)|74|
-|[場所](./dict/place.md)|76|
+|[場所](./dict/place.md)|77|
 |[もの](./dict/item.md)|20|

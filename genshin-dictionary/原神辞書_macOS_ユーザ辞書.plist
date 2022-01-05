@@ -1120,6 +1120,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>淵下宮</string>
+  <key>shortcut</key>
+  <string>えんかのみや</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>スネージナヤ</string>
   <key>shortcut</key>
   <string>すねーじなや</string>
