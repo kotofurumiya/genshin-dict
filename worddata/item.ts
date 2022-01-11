@@ -2,6 +2,8 @@ import { PartialDictItem } from './dict';
 
 export const weapon: PartialDictItem[] = [
   { hiragana: 'わはくえん', word: '和璞鳶' },
+  { hiragana: 'ひらい', word: '飛雷' },
+  { hiragana: 'ひらいのめいげん', word: '飛雷の鳴弦' },
 ];
 
 export const food: PartialDictItem[] = [

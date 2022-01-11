@@ -84,6 +84,8 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'こもれちゃや', word: '木漏茶屋' },
   { hiragana: 'つるみ', word: '鶴観' },
   { hiragana: 'えんかのみや', word: '淵下宮' },
+  { hiragana: 'だいにちみこし', word: '大日御輿' },
+  { hiragana: 'とこよれいびょう', word: '常夜霊廟' },
 ];
 
 export const snezhnaya: PartialDictItem[] = [

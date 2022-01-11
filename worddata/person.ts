@@ -78,6 +78,10 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'きつねさいぐう', word: '狐斎宮' },
   { hiragana: 'かざり', word: '花散里' },
   // { hiragana: 'あらたきいっと', word: '荒瀧一斗' },
+  { hiragana: 'まさのり', word: '公義' },
+  { hiragana: 'ねこ', word: '寝子' },
+  { hiragana: 'えんじょう', word: '淵上' },
+  { hiragana: 'ざんひょう', word: '散兵' },
 ];
 
 export const sumeru: PartialDictItem[] = [

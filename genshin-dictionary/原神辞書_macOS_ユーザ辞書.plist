@@ -82,6 +82,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>古華派</string>
+  <key>shortcut</key>
+  <string>こかは</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>終末番</string>
+  <key>shortcut</key>
+  <string>しゅうまつばん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>雷蛍術師</string>
   <key>shortcut</key>
   <string>らいけいじゅつし</string>
@@ -235,6 +247,18 @@
   <string>黄金王獣</string>
   <key>shortcut</key>
   <string>おうごんおうじゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アビサルヴィシャップ</string>
+  <key>shortcut</key>
+  <string>あびさるゔぃしゃっぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アビサルドラゴエア</string>
+  <key>shortcut</key>
+  <string>あびさるどらごえあ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -655,6 +679,30 @@
   <string>花散里</string>
   <key>shortcut</key>
   <string>かざり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>公義</string>
+  <key>shortcut</key>
+  <string>まさのり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>寝子</string>
+  <key>shortcut</key>
+  <string>ねこ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>淵上</string>
+  <key>shortcut</key>
+  <string>えんじょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>散兵</string>
+  <key>shortcut</key>
+  <string>ざんひょう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1126,6 +1174,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>大日御輿</string>
+  <key>shortcut</key>
+  <string>だいにちみこし</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>常夜霊廟</string>
+  <key>shortcut</key>
+  <string>とこよれいびょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>スネージナヤ</string>
   <key>shortcut</key>
   <string>すねーじなや</string>
@@ -1171,6 +1231,18 @@
   <string>和璞鳶</string>
   <key>shortcut</key>
   <string>わはくえん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>飛雷</string>
+  <key>shortcut</key>
+  <string>ひらい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>飛雷の鳴弦</string>
+  <key>shortcut</key>
+  <string>ひらいのめいげん</string>
 </dict>
 <dict>
   <key>phrase</key>
