@@ -21,7 +21,7 @@ export const teyvat: PartialDictItem[] = [
   { hiragana: 'みちあえのまつり', word: '道饗祭' },
   { hiragana: 'かぜのゆくえ', word: '風の行方' },
   { hiragana: 'かっつぇれいん', word: 'カッツェレイン', note: 'ドゥラフやディオナの一族' },
-  { hiragana: 'むらた人', word: 'ムラタ人' },
+  { hiragana: 'むらたじん', word: 'ムラタ人' },
 ];
 
 export const enemy: PartialDictItem[] = [
