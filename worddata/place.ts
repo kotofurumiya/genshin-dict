@@ -34,6 +34,8 @@ export const dragonspine: PartialDictItem[] = [
   { hiragana: 'せきそうのみやこ', word: '雪葬の都' },
   { hiragana: 'かんてんのくぎ', word: '寒天の釘' },
   { hiragana: 'せいけいのどうくつ', word: '星蛍の洞窟' },
+  { hiragana: 'ふぃんどにーる', word: 'フィンドニール' },
+  { hiragana: 'しゃーる・ふぃんどにーる', word: 'シャール・フィンドニール' },
 ];
 
 export const riyue: PartialDictItem[] = [
@@ -86,6 +88,7 @@ export const inazuma: PartialDictItem[] = [
   { hiragana: 'えんかのみや', word: '淵下宮' },
   { hiragana: 'だいにちみこし', word: '大日御輿' },
   { hiragana: 'とこよれいびょう', word: '常夜霊廟' },
+  { hiragana: 'ようごうざん', word: '影向山' },
 ];
 
 export const snezhnaya: PartialDictItem[] = [
@@ -102,4 +105,5 @@ export const other: PartialDictItem[] = [
   { hiragana: 'えんげつらせん', word: '淵月螺旋' },
   { hiragana: 'じんじゃくかい', word: '燼寂海' },
   { hiragana: 'せれすてぃあ', word: 'セレスティア' },
+  { hiragana: 'どうてん', word: '洞天' },
 ];

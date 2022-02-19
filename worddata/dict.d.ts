@@ -18,6 +18,7 @@ export type DictItem = {
   hiragana: string;
   word: string;
   hinshi: KotoeriHinshi;
+  note?: string;
 };
 
 export type PartialDictItem = Omit<DictItem, 'hinshi'>;

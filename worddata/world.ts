@@ -16,6 +16,12 @@ export const teyvat: PartialDictItem[] = [
   { hiragana: 'うんかんしゃ', word: '雲翰社' },
   { hiragana: 'こかは', word: '古華派' },
   { hiragana: 'しゅうまつばん', word: '終末番' },
+  { hiragana: 'さんかいみちあえのまつり', word: '三界道饗祭' },
+  { hiragana: 'さんかい', word: '三界' },
+  { hiragana: 'みちあえのまつり', word: '道饗祭' },
+  { hiragana: 'かぜのゆくえ', word: '風の行方' },
+  { hiragana: 'かっつぇれいん', word: 'カッツェレイン', note: 'ドゥラフやディオナの一族' },
+  { hiragana: 'むらた人', word: 'ムラタ人' },
 ];
 
 export const enemy: PartialDictItem[] = [
@@ -35,9 +41,11 @@ export const enemy: PartialDictItem[] = [
   { hiragana: 'えんしぇんとゔぃしゃっぷ', word: 'エンシェントヴィシャップ' },
   { hiragana: 'じゃくだりゅうおう', word: '若陀龍王' },
   { hiragana: 'あびすのしと', word: 'アビスの使徒' },
+  { hiragana: 'あびすのえいしょうしゃ', word: 'アビスの詠唱者' },
   { hiragana: 'まぐうけんき', word: '魔偶剣鬼' },
   { hiragana: 'かいらぎ', word: '海乱鬼' },
   { hiragana: 'いせききへい', word: '遺跡機兵' },
+  { hiragana: 'こうじょうからくりじんけい', word: '恒常からくり陣形' },
   { hiragana: 'ふらいむ', word: 'フライム' },
   { hiragana: 'らいおんごんげん', word: '雷音権現' },
   { hiragana: 'じゅういき', word: '獣域' },
@@ -47,4 +55,6 @@ export const enemy: PartialDictItem[] = [
   { hiragana: 'おうごんおうじゅう', word: '黄金王獣' },
   { hiragana: 'あびさるゔぃしゃっぷ', word: 'アビサルヴィシャップ' },
   { hiragana: 'あびさるどらごえあ', word: 'アビサルドラゴエア' },
+  { hiragana: 'しゃどうはすく', word: 'シャドウハスク' },
+  { hiragana: 'いせきさーぺんと', word: '遺跡サーペント' },
 ];

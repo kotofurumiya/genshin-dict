@@ -22,6 +22,7 @@ export const stuff: PartialDictItem[] = [
   { hiragana: 'よどまりいし', word: '夜泊石' },
   { hiragana: 'しょうとう', word: '霄灯' },
   { hiragana: 'じんかつぼ', word: '塵歌壺' },
+  { hiragana: 'どうてんほうせん', word: '洞天宝銭' },
   { hiragana: 'まぐうのしん', word: '魔偶の芯' },
   { hiragana: 'さんりょうぶっしつへんかき', word: '参量物質変化器' },
   { hiragana: 'ひおうきゅう', word: '緋櫻毬' },
@@ -29,4 +30,7 @@ export const stuff: PartialDictItem[] = [
   { hiragana: 'しょうかこつずい', word: '晶化骨髄' },
   { hiragana: 'うみれいし', word: 'ウミレイシ' },
   { hiragana: 'じゅういきおうき', word: '獣域王器' },
+  { hiragana: 'ぼくそのはこ', word: '睦疎の箱' },
+  { hiragana: 'えんかいこうせき', word: '淵海鉱石' },
+  { hiragana: 'とこよのさや', word: '常世の荚' },
 ];

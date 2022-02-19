@@ -1,4 +1,5 @@
 import { PartialDictItem, DictItem } from './dict';
+import * as system from './system';
 import * as world from './world';
 import * as person from './person';
 import * as place from './place';
@@ -31,12 +32,14 @@ const toDict = <T>(partial: PartialDictMap<T>, converter: DictItemBuilder) => {
   }), {} as DictMap<T>);
 }
 
+const systemDict = toDict(system, toNoun);
 const worldDict = toDict(world, toNoun);
 const personDict = toDict(person, toPersonName);
 const placeDict = toDict(place, toLocationName);
 const itemDict = toDict(item, toNoun);
 
 const combined = [
+  ...systemDict.system,
   ...worldDict.teyvat,
   ...worldDict.enemy,
   ...personDict.mond,
@@ -57,6 +60,7 @@ const combined = [
 ];
 
 export default {
+  system: systemDict,
   all: combined,
   world: worldDict,
   person: personDict,

@@ -2,11 +2,11 @@ import { DictItem } from '../../worddata/dict';
 import dict from '../../worddata';
 
 const createMdTable = (items: DictItem[]): string => {
-  const head = '|単語|読み|品詞|';
-  const sep = '|---|---|---|';
+  const head = '|単語|読み|品詞|備考|';
+  const sep = '|---|---|---|---|';
   const rows = items
-    .map(({ hiragana, word, hinshi }) => {
-      return `|${word}|${hiragana}|${hinshi}|`;
+    .map(({ hiragana, word, hinshi, note }) => {
+      return `|${word}|${hiragana}|${hinshi}|${note || ''}|`;
     })
     .join('\n');
   return [head, sep, rows].join('\n');
@@ -67,6 +67,8 @@ const createIndexPage = (pages: Page[]): Page => {
 };
 
 export const generateDocs = () => {
+  const system: DictMeta[] = [{ title: 'システム', items: dict.system.system }];
+
   const world: DictMeta[] = [
     { title: 'テイワット', items: dict.world.teyvat },
     { title: 'エネミー', items: dict.world.enemy },
@@ -97,6 +99,7 @@ export const generateDocs = () => {
   ];
 
   const pages = [
+    createPage('システム', 'dict/system', system),
     createPage('ワールド', 'dict/world', world),
     createPage('人物', 'dict/person', person),
     createPage('場所', 'dict/place', place),
