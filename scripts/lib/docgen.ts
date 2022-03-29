@@ -1,5 +1,4 @@
-import { DictItem } from '../../worddata/dict';
-import dict from '../../worddata';
+import { Dict, DictItem } from '../../worddata/dict';
 
 const createMdTable = (items: DictItem[]): string => {
   const head = '|単語|読み|品詞|備考|';
@@ -12,33 +11,25 @@ const createMdTable = (items: DictItem[]): string => {
   return [head, sep, rows].join('\n');
 };
 
-type DictMeta = {
-  title: string;
-  items: DictItem[];
-};
-
 type Page = {
+  category: string;
   title: string;
   slug: string;
   content: string;
   total: number;
 };
 
-const createPage = (title: string, slug: string, data: DictMeta[]): Page => {
-  const head = `# ${title}`;
+const createPage = (dict: Dict): Page => {
+  const head = `# ${dict.category} / ${dict.title}`;
 
-  const sections = data
-    .map(({ title, items }) => {
-      return `## ${title}\n\n` + createMdTable(items);
-    })
-    .join('\n\n');
-
-  const content = [head, sections].join('\n\n');
-  const total = data.reduce((prev, curr) => prev + curr.items.length, 0);
+  const section = `## 単語\n\n` + createMdTable(dict.items);
+  const content = [head, section].join('\n\n');
+  const total = dict.items.length;
 
   return {
-    title,
-    slug,
+    category: dict.category,
+    title: dict.title,
+    slug: dict.slug,
     content,
     total,
   };
@@ -50,8 +41,8 @@ const createIndexPage = (pages: Page[]): Page => {
   const thead = '|カテゴリ|登録数|';
   const sep = '|---|--:|';
   const rows = pages
-    .map(({ title, slug, total }) => {
-      return `|[${title}](./${slug}.md)|${total}|`;
+    .map(({ category, title, slug, total }) => {
+      return `|[${category}/${title}](./${slug}.md)|${total}|`;
     })
     .join('\n');
   const table = [thead, sep, rows].join('\n');
@@ -59,6 +50,7 @@ const createIndexPage = (pages: Page[]): Page => {
   const content = [head, table].join('\n\n');
 
   return {
+    category: 'index',
     title: '登録単語の一覧',
     slug: 'dict_data',
     content,
@@ -66,46 +58,8 @@ const createIndexPage = (pages: Page[]): Page => {
   };
 };
 
-export const generateDocs = () => {
-  const system: DictMeta[] = [{ title: 'システム', items: dict.system.system }];
-
-  const world: DictMeta[] = [
-    { title: 'テイワット', items: dict.world.teyvat },
-    { title: 'エネミー', items: dict.world.enemy },
-  ];
-
-  const person: DictMeta[] = [
-    { title: 'モンド', items: dict.person.mond },
-    { title: '璃月', items: dict.person.riyue },
-    { title: '稲妻', items: dict.person.inazuma },
-    { title: 'スネージナヤ', items: dict.person.snezhnaya },
-    { title: 'カーンルイア', items: dict.person.khaenriah },
-  ];
-
-  const place: DictMeta[] = [
-    { title: 'モンド', items: dict.place.mond },
-    { title: 'ドラゴンスパイン', items: dict.place.dragonspine },
-    { title: '璃月', items: dict.place.riyue },
-    { title: '稲妻', items: dict.place.inazuma },
-    { title: 'スネージナヤ', items: dict.place.snezhnaya },
-    { title: 'カーンルイア', items: dict.place.khaenriah },
-    { title: 'その他', items: dict.place.khaenriah },
-  ];
-
-  const item: DictMeta[] = [
-    { title: '武器', items: dict.item.weapon },
-    { title: '食べ物', items: dict.item.food },
-    { title: 'アイテム', items: dict.item.stuff },
-  ];
-
-  const pages = [
-    createPage('システム', 'dict/system', system),
-    createPage('ワールド', 'dict/world', world),
-    createPage('人物', 'dict/person', person),
-    createPage('場所', 'dict/place', place),
-    createPage('もの', 'dict/item', item),
-  ];
-
+export const generateDocs = (dictList: Dict[]) => {
+  const pages = dictList.map((d) => createPage(d));
   const indexPage = createIndexPage(pages);
 
   return [indexPage, ...pages];

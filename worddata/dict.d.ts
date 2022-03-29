@@ -22,3 +22,17 @@ export type DictItem = {
 };
 
 export type PartialDictItem = Omit<DictItem, 'hinshi'>;
+
+export type DictBase = {
+  category: string;
+  title: string;
+  hinshi: KotoeriHinshi;
+  items: PartialDictItem[];
+}
+
+export type Dict = {
+  category: string;
+  title: string;
+  slug: string;
+  items: DictItem[];
+}

@@ -1,24 +1,27 @@
 {
   "name": "genshin-dict",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "private": true,
   "scripts": {
     "format": "prettier --write \"scripts/**/*.ts\"",
-    "build": "ts-node scripts/build.ts",
+    "build": "node --loader ts-node/esm scripts/build.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Koto Furumiya <kotofurumiya@gmail.com>",
   "license": "Zlib",
   "devDependencies": {
-    "@types/node": "^17.0.2",
-    "prettier": "^2.5.1",
-    "ts-node": "^10.4.0",
-    "typescript": "^4.5.4"
+    "@types/glob": "^7.2.0",
+    "@types/node": "^17.0.23",
+    "prettier": "^2.6.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
   },
   "dependencies": {
+    "glob": "^7.2.0",
     "iconv-lite": "^0.6.3"
   }
 }

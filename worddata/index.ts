@@ -1,69 +1,25 @@
-import { PartialDictItem, DictItem } from './dict';
-import * as system from './system';
-import * as world from './world';
-import * as person from './person';
-import * as place from './place';
-import * as item from './item';
+import path from 'node:path';
+import url from "node:url";
+import glob from 'glob';
+import { Dict, DictBase } from './dict';
 
-type DictItemBuilder = (item: PartialDictItem) => DictItem;
+const filename = url.fileURLToPath(import.meta.url);
+const dirname = path.dirname(filename);
+const dictFilePathList = glob.sync(path.join(dirname, 'data', '**/*.ts'));
 
-const toNoun: DictItemBuilder = (item) => ({
-  ...item,
-  hinshi: '普通名詞'
-});
-
-const toPersonName: DictItemBuilder = (item) => ({
-  ...item,
-  hinshi: '人名'
-});
-
-const toLocationName: DictItemBuilder = (item) => ({
-  ...item,
-  hinshi: '地名'
-});
-
-type PartialDictMap<T> = Record<keyof T, PartialDictItem[]>;
-type DictMap<T> = Record<keyof T, DictItem[]>;
-
-const toDict = <T>(partial: PartialDictMap<T>, converter: DictItemBuilder) => {
-  return Object.entries<PartialDictItem[]>(partial).reduce((prev, [key, list]) => ({
-    ...prev,
-    [key]: list.map(converter),
-  }), {} as DictMap<T>);
-}
-
-const systemDict = toDict(system, toNoun);
-const worldDict = toDict(world, toNoun);
-const personDict = toDict(person, toPersonName);
-const placeDict = toDict(place, toLocationName);
-const itemDict = toDict(item, toNoun);
-
-const combined = [
-  ...systemDict.system,
-  ...worldDict.teyvat,
-  ...worldDict.enemy,
-  ...personDict.mond,
-  ...personDict.riyue,
-  ...personDict.inazuma,
-  ...personDict.snezhnaya,
-  ...personDict.khaenriah,
-  ...placeDict.mond,
-  ...placeDict.dragonspine,
-  ...placeDict.riyue,
-  ...placeDict.inazuma,
-  ...placeDict.snezhnaya,
-  ...placeDict.khaenriah,
-  ...placeDict.other,
-  ...itemDict.weapon,
-  ...itemDict.food,
-  ...itemDict.stuff,
-];
-
-export default {
-  system: systemDict,
-  all: combined,
-  world: worldDict,
-  person: personDict,
-  place: placeDict,
-  item: itemDict,
+export const loadDictList = async() => {
+  const dictList: Dict[] = [];
+  for(const dictPath of dictFilePathList) {
+    const dict: DictBase = (await import(dictPath)).default;
+    const items = dict.items.map((item) => ({...item, hinshi: dict.hinshi}));
+    const filePath = `dict/${path.dirname(dictPath).split('/').at(-1)}/${path.basename(dictPath, '.ts')}`;
+  
+    dictList.push({
+      category: dict.category,
+      title: dict.title,
+      slug: filePath,
+      items,
+    });
+  }
+  return dictList;
 };
