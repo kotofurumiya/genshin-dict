@@ -8,8 +8,8 @@
 |[アイテム/道具](./dict/item/tool.md)|5|
 |[アイテム/武器](./dict/item/weapon.md)|8|
 |[人物/稲妻](./dict/person/inazuma.md)|42|
-|[人物/カーンルイア](./dict/person/khaenriah.md)|1|
-|[人物/璃月](./dict/person/liyue.md)|36|
+|[人物/カーンルイア](./dict/person/khaenriah.md)|2|
+|[人物/璃月](./dict/person/liyue.md)|37|
 |[人物/モンド](./dict/person/mondstadt.md)|39|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|3|
 |[人物/スメール](./dict/person/sumeru.md)|3|
@@ -23,7 +23,7 @@
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|1|
 |[ワールド/ボスエネミー](./dict/world/boss.md)|17|
-|[ワールド/エネミー](./dict/world/enemy.md)|16|
+|[ワールド/エネミー](./dict/world/enemy.md)|17|
 |[ワールド/イベント](./dict/world/event.md)|7|
 |[ワールド/システム](./dict/world/system.md)|27|
-|[ワールド/テイワット](./dict/world/teyvat.md)|16|
+|[ワールド/テイワット](./dict/world/teyvat.md)|18|

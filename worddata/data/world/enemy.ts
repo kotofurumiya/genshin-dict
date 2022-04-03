@@ -21,5 +21,6 @@ export default {
     { hiragana: 'あびさるゔぃしゃっぷ', word: 'アビサルヴィシャップ' },
     { hiragana: 'あびさるどらごえあ', word: 'アビサルドラゴエア' },
     { hiragana: 'しゃどうはすく', word: 'シャドウハスク' },
+    { hiragana: 'こくじゃきし', word: '黒蛇騎士' },
   ]
 } as DictBase;

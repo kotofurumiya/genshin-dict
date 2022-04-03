@@ -502,6 +502,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ハールヴダン</string>
+  <key>shortcut</key>
+  <string>はーるゔだん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>香菱</string>
   <key>shortcut</key>
   <string>しゃんりん</string>
@@ -715,6 +721,12 @@
   <string>夜蘭</string>
   <key>shortcut</key>
   <string>いぇらん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>志璇</string>
+  <key>shortcut</key>
+  <string>しせん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1720,6 +1732,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>黒蛇騎士</string>
+  <key>shortcut</key>
+  <string>こくじゃきし</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>三界道饗祭</string>
   <key>shortcut</key>
   <string>さんかいみちあえのまつり</string>
@@ -2017,6 +2035,18 @@
   <string>ムラタ人</string>
   <key>shortcut</key>
   <string>むらたじん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>インテイワット</string>
+  <key>shortcut</key>
+  <string>いんていわっと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>黒災</string>
+  <key>shortcut</key>
+  <string>こくさい</string>
 </dict>
 </array>
 </plist>

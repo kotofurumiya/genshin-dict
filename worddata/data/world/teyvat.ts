@@ -21,5 +21,7 @@ export default {
     { hiragana: 'しゅうまつばん', word: '終末番' },
     { hiragana: 'かっつぇれいん', word: 'カッツェレイン', note: 'ドゥラフやディオナの一族' },
     { hiragana: 'むらたじん', word: 'ムラタ人' },
+    { hiragana: 'いんていわっと', word: 'インテイワット' },
+    { hiragana: 'こくさい', word: '黒災' },
   ]
 } as DictBase;

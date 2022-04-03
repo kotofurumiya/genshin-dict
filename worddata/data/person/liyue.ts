@@ -41,5 +41,6 @@ export default {
     { hiragana: 'へうりあ', word: 'ヘウリア' },
     { hiragana: 'まるこしあす', word: 'マルコシアス', note: '力を失う前のグゥオパァー' },
     { hiragana: 'いぇらん', word: '夜蘭' },
+    { hiragana: 'しせん', word: '志璇' },
   ]
 } as DictBase;

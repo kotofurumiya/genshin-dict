@@ -6,5 +6,6 @@ export default {
   hinshi: '人名',
   items: [
     { hiragana: 'だいんすれいゔ', word: 'ダインスレイヴ' },
+    { hiragana: 'はーるゔだん', word: 'ハールヴダン' },
   ]
 } as DictBase;
