@@ -1780,6 +1780,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>光華容彩祭</string>
+  <key>shortcut</key>
+  <string>こうかすがたのいろどりさい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>miHoYo</string>
   <key>shortcut</key>
   <string>みほよ</string>

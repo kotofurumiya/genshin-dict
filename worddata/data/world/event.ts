@@ -12,5 +12,6 @@ export default {
     { hiragana: 'かいとうさい', word: '海灯祭' },
     { hiragana: 'つきおいさい', word: '月逐い祭' },
     { hiragana: 'ひゃくにんいっき', word: '百人一揆' },
+    { hiragana: 'こうかすがたのいろどりさい', word: '光華容彩祭' },
   ]
 } as DictBase;
