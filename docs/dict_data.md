@@ -24,7 +24,7 @@
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|1|
 |[ワールド/ボスエネミー](./dict/world/boss.md)|17|
 |[ワールド/生き物](./dict/world/creature.md)|3|
-|[ワールド/エネミー](./dict/world/enemy.md)|17|
+|[ワールド/エネミー](./dict/world/enemy.md)|19|
 |[ワールド/イベント](./dict/world/event.md)|10|
 |[ワールド/システム](./dict/world/system.md)|27|
 |[ワールド/テイワット](./dict/world/teyvat.md)|18|

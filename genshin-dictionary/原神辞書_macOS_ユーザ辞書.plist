@@ -502,6 +502,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>キノコン</string>
+  <key>shortcut</key>
+  <string>きのこん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>キャッツテール</string>
   <key>shortcut</key>
   <string>きゃっつてーる</string>
@@ -1663,6 +1669,12 @@
   <string>風龍廃墟</string>
   <key>shortcut</key>
   <string>ふうりゅうはいきょ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>プカプカ水キノコン</string>
+  <key>shortcut</key>
+  <string>ぷかぷかみずきのこん</string>
 </dict>
 <dict>
   <key>phrase</key>
