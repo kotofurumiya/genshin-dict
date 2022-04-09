@@ -9,6 +9,7 @@ export default {
     { hiragana: 'ぐぅおぱぁー', word: 'グゥオパァー' },
     { hiragana: 'ほくと', word: '北斗' },
     { hiragana: 'ゆくあき', word: '行秋' },
+    { hiragana: 'ちんぎょく', word: '沈玉', note: '行秋のペンネーム' },
     { hiragana: 'ぎょうこう', word: '凝光' },
     { hiragana: 'ちょううん', word: '重雲' },
     { hiragana: 'なな', word: '七七' },

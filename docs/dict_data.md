@@ -9,7 +9,7 @@
 |[アイテム/武器](./dict/item/weapon.md)|8|
 |[人物/稲妻](./dict/person/inazuma.md)|42|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|2|
-|[人物/璃月](./dict/person/liyue.md)|37|
+|[人物/璃月](./dict/person/liyue.md)|38|
 |[人物/モンド](./dict/person/mondstadt.md)|39|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|3|
 |[人物/スメール](./dict/person/sumeru.md)|3|
@@ -25,6 +25,6 @@
 |[ワールド/ボスエネミー](./dict/world/boss.md)|17|
 |[ワールド/生き物](./dict/world/creature.md)|3|
 |[ワールド/エネミー](./dict/world/enemy.md)|17|
-|[ワールド/イベント](./dict/world/event.md)|9|
+|[ワールド/イベント](./dict/world/event.md)|10|
 |[ワールド/システム](./dict/world/system.md)|27|
 |[ワールド/テイワット](./dict/world/teyvat.md)|18|

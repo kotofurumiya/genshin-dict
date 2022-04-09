@@ -9,6 +9,7 @@ export default {
     { hiragana: 'さんかい', word: '三界' },
     { hiragana: 'みちあえのまつり', word: '道饗祭' },
     { hiragana: 'かぜのゆくえ', word: '風の行方' },
+    { hiragana: 'きかんきたん', word: '機関棋譚' },
     { hiragana: 'かいとうさい', word: '海灯祭' },
     { hiragana: 'つきおいさい', word: '月逐い祭' },
     { hiragana: 'ひゃくにんいっき', word: '百人一揆' },

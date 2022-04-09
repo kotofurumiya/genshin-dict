@@ -484,6 +484,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>機関棋譚</string>
+  <key>shortcut</key>
+  <string>きかんきたん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>帰終</string>
   <key>shortcut</key>
   <string>きしゅう</string>
@@ -1315,6 +1321,12 @@
   <string>地霊壇</string>
   <key>shortcut</key>
   <string>ちれいだん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>沈玉</string>
+  <key>shortcut</key>
+  <string>ちんぎょく</string>
 </dict>
 <dict>
   <key>phrase</key>
