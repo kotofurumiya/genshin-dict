@@ -20,7 +20,9 @@ console.log('辞書データを構築しています...');
 
 (async function main() {
   const dictList = await loadDictList();
-  const words = dictList.reduce<DictItem[]>((prev, curr) => [...prev, ...curr.items], []);
+  const words = dictList
+    .reduce<DictItem[]>((prev, curr) => [...prev, ...curr.items], [])
+    .sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja'));
 
   const winIme = toWindowsImeDict(words);
   const kotoeri = toKotoeriDict(words);

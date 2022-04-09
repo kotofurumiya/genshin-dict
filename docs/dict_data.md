@@ -4,8 +4,8 @@
 |---|--:|
 |[アイテム/聖遺物](./dict/item/artifact.md)|8|
 |[アイテム/食べ物](./dict/item/food.md)|2|
-|[アイテム/素材](./dict/item/material.md)|17|
-|[アイテム/道具](./dict/item/tool.md)|5|
+|[アイテム/素材](./dict/item/material.md)|39|
+|[アイテム/道具](./dict/item/tool.md)|6|
 |[アイテム/武器](./dict/item/weapon.md)|8|
 |[人物/稲妻](./dict/person/inazuma.md)|42|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|2|
@@ -23,7 +23,8 @@
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|1|
 |[ワールド/ボスエネミー](./dict/world/boss.md)|17|
+|[ワールド/生き物](./dict/world/creature.md)|3|
 |[ワールド/エネミー](./dict/world/enemy.md)|17|
-|[ワールド/イベント](./dict/world/event.md)|8|
+|[ワールド/イベント](./dict/world/event.md)|9|
 |[ワールド/システム](./dict/world/system.md)|27|
 |[ワールド/テイワット](./dict/world/teyvat.md)|18|
