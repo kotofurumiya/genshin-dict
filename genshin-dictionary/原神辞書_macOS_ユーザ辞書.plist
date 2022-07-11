@@ -100,6 +100,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アヤックス</string>
+  <key>shortcut</key>
+  <string>あやっくす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>綾人</string>
   <key>shortcut</key>
   <string>あやと</string>
@@ -220,6 +226,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ウサギ伯爵</string>
+  <key>shortcut</key>
+  <string>うさぎはくしゃく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>海染硨磲</string>
   <key>shortcut</key>
   <string>うみぞめしゃこ</string>
@@ -331,6 +343,12 @@
   <string>往生堂</string>
   <key>shortcut</key>
   <string>おうじょうどう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>応達</string>
+  <key>shortcut</key>
+  <string>おうたつ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -616,6 +634,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>金鵬</string>
+  <key>shortcut</key>
+  <string>きんほう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>グゥオパァー</string>
   <key>shortcut</key>
   <string>ぐぅおぱぁー</string>
@@ -661,6 +685,12 @@
   <string>クラクサナリデビ</string>
   <key>shortcut</key>
   <string>くらくさなりでび</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>クリプス</string>
+  <key>shortcut</key>
+  <string>くりぷす</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -850,12 +880,6 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>コナ</string>
-  <key>shortcut</key>
-  <string>こな</string>
-</dict>
-<dict>
-  <key>phrase</key>
   <string>護法夜叉</string>
   <key>shortcut</key>
   <string>ごほうやしゃ</string>
@@ -871,6 +895,12 @@
   <string>木漏茶屋</string>
   <key>shortcut</key>
   <string>こもれちゃや</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>コレイ</string>
+  <key>shortcut</key>
+  <string>これい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1534,6 +1564,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ティナリ</string>
+  <key>shortcut</key>
+  <string>てぃなり</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ディルック</string>
   <key>shortcut</key>
   <string>でぃるっく</string>
@@ -1648,6 +1684,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ドリー</string>
+  <key>shortcut</key>
+  <string>どりー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>遁玉の丘</string>
   <key>shortcut</key>
   <string>とんぎょくのおか</string>
@@ -1735,6 +1777,12 @@
   <string>跋掣</string>
   <key>shortcut</key>
   <string>ばっせい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>伐難</string>
+  <key>shortcut</key>
+  <string>ばつなん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1903,6 +1951,12 @@
   <string>藤兜砦</string>
   <key>shortcut</key>
   <string>ふじとうとりで</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>浮舎</string>
+  <key>shortcut</key>
+  <string>ふしゃ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2119,6 +2173,12 @@
   <string>道饗祭</string>
   <key>shortcut</key>
   <string>みちあえのまつり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>弥怒</string>
+  <key>shortcut</key>
+  <string>みぬ</string>
 </dict>
 <dict>
   <key>phrase</key>

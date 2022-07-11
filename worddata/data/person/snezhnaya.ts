@@ -6,6 +6,7 @@ export default {
   hinshi: '人名',
   items: [
     { hiragana: 'たるたりや', word: 'タルタリヤ' },
+    { hiragana: 'あやっくす', word: 'アヤックス', note: 'タルタリヤの本名' },
     { hiragana: 'しにょーら', word: 'シニョーラ' },
     { hiragana: 'すからましゅ', word: 'スカラマシュ' },
   ]

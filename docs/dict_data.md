@@ -9,10 +9,10 @@
 |[アイテム/武器](./dict/item/weapon.md)|8|
 |[人物/稲妻](./dict/person/inazuma.md)|42|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|2|
-|[人物/璃月](./dict/person/liyue.md)|38|
-|[人物/モンド](./dict/person/mondstadt.md)|39|
-|[人物/スネージナヤ](./dict/person/snezhnaya.md)|3|
-|[人物/スメール](./dict/person/sumeru.md)|3|
+|[人物/璃月](./dict/person/liyue.md)|43|
+|[人物/モンド](./dict/person/mondstadt.md)|41|
+|[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
+|[人物/スメール](./dict/person/sumeru.md)|5|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/稲妻](./dict/region/inazuma.md)|51|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|

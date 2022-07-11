@@ -7,6 +7,8 @@ export default {
   items: [
     { hiragana: 'くらくさなりでび', word: 'クラクサナリデビ' },
     { hiragana: 'せの', word: 'セノ' },
-    { hiragana: 'こな', word: 'コナ' },
+    { hiragana: 'これい', word: 'コレイ' },
+    { hiragana: 'てぃなり', word: 'ティナリ' },
+    { hiragana: 'どりー', word: 'ドリー' },
   ]
 } as DictBase;
