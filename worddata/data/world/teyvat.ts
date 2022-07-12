@@ -13,7 +13,7 @@ export default {
     { hiragana: 'ふぁとぅす', word: 'ファトゥス' },
     { hiragana: 'ほうとうだん', word: '宝盗団' },
     { hiragana: 'ばどるどー', word: 'バドルドー' },
-    { hiragana: 'かみのめ', word: '神の眼' },
+    { hiragana: 'かみのめ', word: '神の目' },
     { hiragana: 'いのちのせいざ', word: '命ノ星座' },
     { hiragana: 'かみさくら', word: '神櫻' },
     { hiragana: 'うんかんしゃ', word: '雲翰社' },
