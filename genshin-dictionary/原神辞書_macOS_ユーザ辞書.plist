@@ -94,6 +94,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>天目</string>
+  <key>shortcut</key>
+  <string>あめのま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>天目流</string>
+  <key>shortcut</key>
+  <string>あめのまりゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>綾華</string>
   <key>shortcut</key>
   <string>あやか</string>
@@ -169,6 +181,12 @@
   <string>遺跡サーペント</string>
   <key>shortcut</key>
   <string>いせきさーぺんと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>一心伝</string>
+  <key>shortcut</key>
+  <string>いっしんでん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -394,6 +412,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>廻光</string>
+  <key>shortcut</key>
+  <string>かいこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>海染硨磲</string>
   <key>shortcut</key>
   <string>かいせんしゃこ</string>
@@ -562,6 +586,24 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>祈聖</string>
+  <key>shortcut</key>
+  <string>きせい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>祈聖のエキス</string>
+  <key>shortcut</key>
+  <string>きせいのえきす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>祈聖のオイル</string>
+  <key>shortcut</key>
+  <string>きせいのおいる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>狐斎宮</string>
   <key>shortcut</key>
   <string>きつねさいぐう</string>
@@ -589,6 +631,12 @@
   <string>旧宮</string>
   <key>shortcut</key>
   <string>きゅうぐう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>弓蔵</string>
+  <key>shortcut</key>
+  <string>きゅうぞう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -628,15 +676,39 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>霧切の廻光</string>
+  <key>shortcut</key>
+  <string>きりぎりのかいこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>帰離原</string>
   <key>shortcut</key>
   <string>きりはら</string>
 </dict>
 <dict>
   <key>phrase</key>
+  <string>金珀</string>
+  <key>shortcut</key>
+  <string>きんはく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>金珀</string>
+  <key>shortcut</key>
+  <string>きんぱく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>金鵬</string>
   <key>shortcut</key>
   <string>きんほう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>金リンゴ群島</string>
+  <key>shortcut</key>
+  <string>きんりんごぐんとう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -817,6 +889,12 @@
   <string>江雪</string>
   <key>shortcut</key>
   <string>こうせつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>匣中</string>
+  <key>shortcut</key>
+  <string>こうちゅう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1027,6 +1105,12 @@
   <string>七天神像</string>
   <key>shortcut</key>
   <string>しちてんじんぞう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>シナバースピンドル</string>
+  <key>shortcut</key>
+  <string>しなばーすぴんどる</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1366,6 +1450,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>絶弦</string>
+  <key>shortcut</key>
+  <string>ぜつげん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>雪葬の都</string>
   <key>shortcut</key>
   <string>せっそうのみやこ</string>
@@ -1387,6 +1477,18 @@
   <string>セレスティア</string>
   <key>shortcut</key>
   <string>せれすてぃあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>千岩</string>
+  <key>shortcut</key>
+  <string>せんがん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>千岩軍</string>
+  <key>shortcut</key>
+  <string>せんがんぐん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1594,6 +1696,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>鉄蜂</string>
+  <key>shortcut</key>
+  <string>てつほう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>鉄蜂の刺し</string>
+  <key>shortcut</key>
+  <string>てつほうのさし</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>天穹の谷</string>
   <key>shortcut</key>
   <string>てんきゅうのたに</string>
@@ -1627,6 +1741,18 @@
   <string>天然樹脂</string>
   <key>shortcut</key>
   <string>てんねんじゅし</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>冬極</string>
+  <key>shortcut</key>
+  <string>とうきょく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>冬極</string>
+  <key>shortcut</key>
+  <string>とうごく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2122,6 +2248,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>魔鉱</string>
+  <key>shortcut</key>
+  <string>まこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>公義</string>
   <key>shortcut</key>
   <string>まさのり</string>
@@ -2362,6 +2494,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>幽夜</string>
+  <key>shortcut</key>
+  <string>ゆうや</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>幽夜のワルツ</string>
+  <key>shortcut</key>
+  <string>ゆうやのわるつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>行秋</string>
   <key>shortcut</key>
   <string>ゆくあき</string>
@@ -2455,6 +2599,18 @@
   <string>ラグヴィンド</string>
   <key>shortcut</key>
   <string>らぐゔぃんど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>落霞</string>
+  <key>shortcut</key>
+  <string>らくか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>落霞</string>
+  <key>shortcut</key>
+  <string>らっか</string>
 </dict>
 <dict>
   <key>phrase</key>

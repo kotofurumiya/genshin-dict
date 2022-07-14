@@ -4,9 +4,9 @@
 |---|--:|
 |[アイテム/聖遺物](./dict/item/artifact.md)|8|
 |[アイテム/食べ物](./dict/item/food.md)|2|
-|[アイテム/素材](./dict/item/material.md)|39|
+|[アイテム/素材](./dict/item/material.md)|43|
 |[アイテム/道具](./dict/item/tool.md)|6|
-|[アイテム/武器](./dict/item/weapon.md)|8|
+|[アイテム/武器](./dict/item/weapon.md)|24|
 |[人物/稲妻](./dict/person/inazuma.md)|42|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|2|
 |[人物/璃月](./dict/person/liyue.md)|43|
@@ -14,6 +14,7 @@
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
 |[人物/スメール](./dict/person/sumeru.md)|5|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
+|[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
 |[地域/稲妻](./dict/region/inazuma.md)|51|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
 |[地域/璃月](./dict/region/liyue.md)|35|
@@ -27,4 +28,4 @@
 |[ワールド/エネミー](./dict/world/enemy.md)|19|
 |[ワールド/イベント](./dict/world/event.md)|10|
 |[ワールド/システム](./dict/world/system.md)|27|
-|[ワールド/テイワット](./dict/world/teyvat.md)|18|
+|[ワールド/テイワット](./dict/world/teyvat.md)|23|

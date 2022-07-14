@@ -39,6 +39,12 @@ export default {
     { hiragana: 'せいぎんこうせき', word: '星銀鉱石' },
     { hiragana: 'ましょう', word: '魔晶' },
 
+    // 強化用
+    { hiragana: 'まこう', word: '魔鉱' },
+    { hiragana: 'きせい', word: '祈聖' },
+    { hiragana: 'きせいのおいる', word: '祈聖のオイル' },
+    { hiragana: 'きせいのえきす', word: '祈聖のエキス' },
+
     // 木材
     { hiragana: 'すいこうざい', word: '垂香材' },
     { hiragana: 'すぎざい', word: '杉材' },
