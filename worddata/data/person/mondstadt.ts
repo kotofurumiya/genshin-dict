@@ -30,6 +30,7 @@ export default {
     { hiragana: 'どどこ', word: 'ドドコ' },
     { hiragana: 'ありす', word: 'アリス' },
     { hiragana: 'でぃおな', word: 'ディオナ' },
+    { hiragana: 'どぅらふ', word: 'ドゥラフ' },
     { hiragana: 'あるべど', word: 'アルベド' },
     { hiragana: 'れいんどっと', word: 'レインドット' },
     { hiragana: 'ろさりあ', word: 'ロサリア' },
@@ -46,5 +47,10 @@ export default {
     { hiragana: 'るーすたん', word: 'ルースタン' },
     { hiragana: 'ちぞめのきし', word: '血染めの騎士' },
     { hiragana: 'ふぁるか', word: 'ファルカ' },
+    { hiragana: 'りゔぃんぐすとん', word: 'リヴィングストン' },
+    { hiragana: 'いーでぃす', word: 'イーディス' },
+    { hiragana: 'てぃみー', word: 'ティミー' },
+    { hiragana: 'えりん', word: 'エリン' },
+    { hiragana: 'つぁれーゔぃち', word: 'ツァレーヴィチ' },
   ]
 } as DictBase;

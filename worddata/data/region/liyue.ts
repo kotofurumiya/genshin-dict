@@ -40,5 +40,6 @@ export default {
     { hiragana: 'ふぼくろ', word: '不卜廬' },
     { hiragana: 'おうじょうどう', word: '往生堂' },
     { hiragana: 'ぐんぎょくかく', word: '群玉閣' },
+    { hiragana: 'しちょうせいごう', word: '死兆星号' },
   ]
 } as DictBase;

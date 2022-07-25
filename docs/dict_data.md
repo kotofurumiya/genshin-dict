@@ -10,14 +10,14 @@
 |[人物/稲妻](./dict/person/inazuma.md)|42|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|2|
 |[人物/璃月](./dict/person/liyue.md)|43|
-|[人物/モンド](./dict/person/mondstadt.md)|41|
+|[人物/モンド](./dict/person/mondstadt.md)|47|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
 |[人物/スメール](./dict/person/sumeru.md)|5|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
 |[地域/稲妻](./dict/region/inazuma.md)|51|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
-|[地域/璃月](./dict/region/liyue.md)|35|
+|[地域/璃月](./dict/region/liyue.md)|36|
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
 |[地域/スメール](./dict/region/sumeru.md)|1|

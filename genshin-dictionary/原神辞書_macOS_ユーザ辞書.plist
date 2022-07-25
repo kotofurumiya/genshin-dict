@@ -160,6 +160,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>イーディス</string>
+  <key>shortcut</key>
+  <string>いーでぃす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>夜蘭</string>
   <key>shortcut</key>
   <string>いぇらん</string>
@@ -301,6 +307,12 @@
   <string>エバハート</string>
   <key>shortcut</key>
   <string>えばはーと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エリン</string>
+  <key>shortcut</key>
+  <string>えりん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1108,6 +1120,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>死兆星号</string>
+  <key>shortcut</key>
+  <string>しちょうせいごう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>シナバースピンドル</string>
   <key>shortcut</key>
   <string>しなばーすぴんどる</string>
@@ -1648,6 +1666,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ツァレーヴィチ</string>
+  <key>shortcut</key>
+  <string>つぁれーゔぃち</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>月逐い祭</string>
   <key>shortcut</key>
   <string>つきおいさい</string>
@@ -1669,6 +1693,12 @@
   <string>ティナリ</string>
   <key>shortcut</key>
   <string>てぃなり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ティミー</string>
+  <key>shortcut</key>
+  <string>てぃみー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1771,6 +1801,12 @@
   <string>洞天宝銭</string>
   <key>shortcut</key>
   <string>どうてんほうせん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ドゥラフ</string>
+  <key>shortcut</key>
+  <string>どぅらふ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2623,6 +2659,12 @@
   <string>璃月港</string>
   <key>shortcut</key>
   <string>りーゆえこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>リヴィングストン</string>
+  <key>shortcut</key>
+  <string>りゔぃんぐすとん</string>
 </dict>
 <dict>
   <key>phrase</key>
