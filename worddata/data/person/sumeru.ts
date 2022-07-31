@@ -10,5 +10,10 @@ export default {
     { hiragana: 'これい', word: 'コレイ' },
     { hiragana: 'てぃなり', word: 'ティナリ' },
     { hiragana: 'どりー', word: 'ドリー' },
+    { hiragana: 'はまーるっかでゔぁた', word: 'マハールッカデヴァタ' },
+    { hiragana: 'あるはいぜん', word: 'アルハイゼン' },
+    { hiragana: 'でぃしあ', word: 'ディシア' },
+    { hiragana: 'にぃろう', word: 'ニィロウ' },
+    { hiragana: 'なひーだ', word: 'ナヒーダ' },
   ]
 } as DictBase;

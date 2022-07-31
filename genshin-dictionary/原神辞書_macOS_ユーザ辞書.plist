@@ -142,6 +142,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アルハイゼン</string>
+  <key>shortcut</key>
+  <string>あるはいぜん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アルベド</string>
   <key>shortcut</key>
   <string>あるべど</string>
@@ -313,6 +319,12 @@
   <string>エリン</string>
   <key>shortcut</key>
   <string>えりん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エルマイト旅団</string>
+  <key>shortcut</key>
+  <string>えるまいとりょだん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1690,6 +1702,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ディシア</string>
+  <key>shortcut</key>
+  <string>でぃしあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ティナリ</string>
   <key>shortcut</key>
   <string>てぃなり</string>
@@ -1876,6 +1894,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ナヒーダ</string>
+  <key>shortcut</key>
+  <string>なひーだ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>鳴神大社</string>
   <key>shortcut</key>
   <string>なるかみおおやしろ</string>
@@ -1891,6 +1915,12 @@
   <string>南天門</string>
   <key>shortcut</key>
   <string>なんてんもん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ニィロウ</string>
+  <key>shortcut</key>
+  <string>にぃろう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1957,6 +1987,12 @@
   <string>花散里</string>
   <key>shortcut</key>
   <string>はなちるさと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>マハールッカデヴァタ</string>
+  <key>shortcut</key>
+  <string>はまーるっかでゔぁた</string>
 </dict>
 <dict>
   <key>phrase</key>

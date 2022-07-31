@@ -28,5 +28,6 @@ export default {
     { hiragana: 'あめのま', word: '天目' },
     { hiragana: 'あめのまりゅう', word: '天目流' },
     { hiragana: 'いっしんでん', word: '一心伝' },
+    { hiragana: 'えるまいとりょだん', word: 'エルマイト旅団' },
   ]
 } as DictBase;
