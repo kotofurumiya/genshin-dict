@@ -44,7 +44,7 @@ export default {
 
     // セイライ島
     { hiragana: 'せいらいじま', word: 'セイライ島' },
-    { hiragana: 'こしこくむら', word: '越石村' },
+    { hiragana: 'こせきむら', word: '越石村' },
     { hiragana: 'せいらいまる', word: 'セイライ丸' },
     { hiragana: 'ひらうみとりで', word: '平海砦' },
     { hiragana: 'あまくもとうげ', word: '天雲峠' },
