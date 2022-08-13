@@ -412,6 +412,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>オルモス港</string>
+  <key>shortcut</key>
+  <string>おるもすこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>オロバシ</string>
   <key>shortcut</key>
   <string>おろばし</string>
@@ -493,6 +499,12 @@
   <string>華光の林</string>
   <key>shortcut</key>
   <string>かこうのりん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>花神誕祭</string>
+  <key>shortcut</key>
+  <string>かしんたんさい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -682,6 +694,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>教令院</string>
+  <key>shortcut</key>
+  <string>きょうれいいん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>巨淵主鉱区</string>
   <key>shortcut</key>
   <string>きょえんしゅこうく</string>
@@ -757,6 +775,18 @@
   <string>ググプラム</string>
   <key>shortcut</key>
   <string>ぐぐぷらむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>草激化</string>
+  <key>shortcut</key>
+  <string>くさげきか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>草原核</string>
+  <key>shortcut</key>
+  <string>くさげんかく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -847,6 +877,12 @@
   <string>嶮しき石堂</string>
   <key>shortcut</key>
   <string>けわしきせきどう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>原激化</string>
+  <key>shortcut</key>
+  <string>げんげきか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1000,6 +1036,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>コレアンバー</string>
+  <key>shortcut</key>
+  <string>これあんばー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>コレイ</string>
   <key>shortcut</key>
   <string>これい</string>
@@ -1099,6 +1141,12 @@
   <string>参量物質変化器</string>
   <key>shortcut</key>
   <string>さんりょうぶっしつへんかき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>死域</string>
+  <key>shortcut</key>
+  <string>しいき</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1348,6 +1396,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>迅電樹</string>
+  <key>shortcut</key>
+  <string>じんでんじゅ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>萃華材</string>
   <key>shortcut</key>
   <string>すいかざい</string>
@@ -1411,6 +1465,12 @@
   <string>スメール</string>
   <key>shortcut</key>
   <string>すめーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>スメールシティ</string>
+  <key>shortcut</key>
+  <string>すめーるしてぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1546,9 +1606,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>草神</string>
+  <key>shortcut</key>
+  <string>そうしん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>創世結晶</string>
   <key>shortcut</key>
   <string>そうせいけっしょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>送仙儀式</string>
+  <key>shortcut</key>
+  <string>そうせんぎしき</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1651,6 +1723,12 @@
   <string>重雲</string>
   <key>shortcut</key>
   <string>ちょううん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>超激化</string>
+  <key>shortcut</key>
+  <string>ちょうげきか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2356,6 +2434,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>マッシュラプトル</string>
+  <key>shortcut</key>
+  <string>まっしゅらぷとる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>マルコシアス</string>
   <key>shortcut</key>
   <string>まるこしあす</string>
@@ -2797,6 +2881,12 @@
   <string>烈焔花</string>
   <key>shortcut</key>
   <string>れつえんばな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>烈開花</string>
+  <key>shortcut</key>
+  <string>れつかいか</string>
 </dict>
 <dict>
   <key>phrase</key>

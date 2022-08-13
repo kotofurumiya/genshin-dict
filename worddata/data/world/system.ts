@@ -32,5 +32,10 @@ export default {
     { hiragana: 'めいてい', word: '命定' },
     { hiragana: 'しんちゅうめいてい', word: '神鋳命定' },
     { hiragana: 'めいていち', word: '命定値' },
+    { hiragana: 'くさげんかく', word: '草原核' },
+    { hiragana: 'れつかいか', word: '烈開花' },
+    { hiragana: 'げんげきか', word: '原激化' },
+    { hiragana: 'ちょうげきか', word: '超激化' },
+    { hiragana: 'くさげきか', word: '草激化' },
   ]
 } as DictBase;

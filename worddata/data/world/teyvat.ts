@@ -11,6 +11,7 @@ export default {
     { hiragana: 'ここなっつひつじ', word: 'ココナッツヒツジ' },
     { hiragana: 'せんがん', word: '千岩' },
     { hiragana: 'せんがんぐん', word: '千岩軍' },
+    { hiragana: 'そうせんぎしき', word: '送仙儀式' },
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
     { hiragana: 'ふぁとぅす', word: 'ファトゥス' },
     { hiragana: 'ほうとうだん', word: '宝盗団' },
@@ -28,6 +29,8 @@ export default {
     { hiragana: 'あめのま', word: '天目' },
     { hiragana: 'あめのまりゅう', word: '天目流' },
     { hiragana: 'いっしんでん', word: '一心伝' },
+    { hiragana: 'きょうれいいん', word: '教令院' },
     { hiragana: 'えるまいとりょだん', word: 'エルマイト旅団' },
+    { hiragana: 'かしんたんさい', word: '花神誕祭' },
   ]
 } as DictBase;

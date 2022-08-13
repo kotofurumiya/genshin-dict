@@ -22,5 +22,7 @@ export default {
     { hiragana: 'らいおんごんげん', word: '雷音権現' },
     { hiragana: 'おうごんおうじゅう', word: '黄金王獣' },
     { hiragana: 'いせきさーぺんと', word: '遺跡サーペント' },
+    { hiragana: 'まっしゅらぷとる', word: 'マッシュラプトル' },
+    { hiragana: 'じんでんじゅ', word: '迅電樹' },
   ]
 } as DictBase;

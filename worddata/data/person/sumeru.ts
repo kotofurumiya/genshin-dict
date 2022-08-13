@@ -8,6 +8,7 @@ export default {
     { hiragana: 'くらくさなりでび', word: 'クラクサナリデビ' },
     { hiragana: 'せの', word: 'セノ' },
     { hiragana: 'これい', word: 'コレイ' },
+    { hiragana: 'これあんばー', word: 'コレアンバー' },
     { hiragana: 'てぃなり', word: 'ティナリ' },
     { hiragana: 'どりー', word: 'ドリー' },
     { hiragana: 'はまーるっかでゔぁた', word: 'マハールッカデヴァタ' },
@@ -15,5 +16,6 @@ export default {
     { hiragana: 'でぃしあ', word: 'ディシア' },
     { hiragana: 'にぃろう', word: 'ニィロウ' },
     { hiragana: 'なひーだ', word: 'ナヒーダ' },
+    { hiragana: 'そうしん', word: '草神' },
   ]
 } as DictBase;

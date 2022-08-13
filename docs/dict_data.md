@@ -12,7 +12,7 @@
 |[人物/璃月](./dict/person/liyue.md)|43|
 |[人物/モンド](./dict/person/mondstadt.md)|47|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
-|[人物/スメール](./dict/person/sumeru.md)|10|
+|[人物/スメール](./dict/person/sumeru.md)|12|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
 |[地域/稲妻](./dict/region/inazuma.md)|51|
@@ -20,12 +20,12 @@
 |[地域/璃月](./dict/region/liyue.md)|36|
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
-|[地域/スメール](./dict/region/sumeru.md)|1|
+|[地域/スメール](./dict/region/sumeru.md)|4|
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
-|[ワールド/ボスエネミー](./dict/world/boss.md)|17|
+|[ワールド/ボスエネミー](./dict/world/boss.md)|19|
 |[ワールド/生き物](./dict/world/creature.md)|3|
 |[ワールド/エネミー](./dict/world/enemy.md)|19|
 |[ワールド/イベント](./dict/world/event.md)|10|
-|[ワールド/システム](./dict/world/system.md)|27|
-|[ワールド/テイワット](./dict/world/teyvat.md)|24|
+|[ワールド/システム](./dict/world/system.md)|32|
+|[ワールド/テイワット](./dict/world/teyvat.md)|27|
