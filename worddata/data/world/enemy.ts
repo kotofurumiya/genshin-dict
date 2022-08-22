@@ -24,5 +24,6 @@ export default {
     { hiragana: 'こくじゃきし', word: '黒蛇騎士' },
     { hiragana: 'きのこん', word: 'キノコン' },
     { hiragana: 'ぷかぷかみずきのこん', word: 'プカプカ水キノコン' },
+    { hiragana: 'いせきどれいく', word: '遺跡ドレイク' },
   ]
 } as DictBase;

@@ -37,5 +37,6 @@ export default {
     { hiragana: 'げんげきか', word: '原激化' },
     { hiragana: 'ちょうげきか', word: '超激化' },
     { hiragana: 'くさげきか', word: '草激化' },
+    { hiragana: 'かいせい', word: '廻聖' },
   ]
 } as DictBase;

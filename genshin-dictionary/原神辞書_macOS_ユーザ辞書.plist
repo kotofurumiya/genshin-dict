@@ -28,6 +28,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アシャヴァンレルム</string>
+  <key>shortcut</key>
+  <string>あしゃゔぁんれるむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>竺子</string>
   <key>shortcut</key>
   <string>あつこ</string>
@@ -55,6 +61,12 @@
   <string>アビスの使徒</string>
   <key>shortcut</key>
   <string>あびすのしと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アビディアの森</string>
+  <key>shortcut</key>
+  <string>あびでぃあのもり</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -196,6 +208,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>遺跡ドレイク</string>
+  <key>shortcut</key>
+  <string>いせきどれいく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>一心伝</string>
   <key>shortcut</key>
   <string>いっしんでん</string>
@@ -232,6 +250,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ヴァナラーナ</string>
+  <key>shortcut</key>
+  <string>ゔぁならーな</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ヴァネッサ</string>
   <key>shortcut</key>
   <string>ゔぁねっさ</string>
@@ -241,6 +265,12 @@
   <string>ヴィシャップ</string>
   <key>shortcut</key>
   <string>ゔぃしゃっぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヴィシュッダ辺土</string>
+  <key>shortcut</key>
+  <string>ゔぃしゅっだへんど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -445,6 +475,12 @@
   <string>廻光</string>
   <key>shortcut</key>
   <string>かいこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>廻聖</string>
+  <key>shortcut</key>
+  <string>かいせい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2893,6 +2929,12 @@
   <string>ローエファルタ</string>
   <key>shortcut</key>
   <string>ろーえふぁるた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ローカパーラ密林</string>
+  <key>shortcut</key>
+  <string>ろーかぱーらみつりん</string>
 </dict>
 <dict>
   <key>phrase</key>

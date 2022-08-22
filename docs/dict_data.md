@@ -20,12 +20,12 @@
 |[地域/璃月](./dict/region/liyue.md)|36|
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
-|[地域/スメール](./dict/region/sumeru.md)|4|
+|[地域/スメール](./dict/region/sumeru.md)|9|
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
 |[ワールド/ボスエネミー](./dict/world/boss.md)|19|
 |[ワールド/生き物](./dict/world/creature.md)|3|
-|[ワールド/エネミー](./dict/world/enemy.md)|19|
+|[ワールド/エネミー](./dict/world/enemy.md)|20|
 |[ワールド/イベント](./dict/world/event.md)|10|
-|[ワールド/システム](./dict/world/system.md)|32|
+|[ワールド/システム](./dict/world/system.md)|33|
 |[ワールド/テイワット](./dict/world/teyvat.md)|27|
