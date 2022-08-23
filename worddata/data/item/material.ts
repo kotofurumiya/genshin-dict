@@ -28,6 +28,9 @@ export default {
     { hiragana: 'ゆうとうたけ', word: 'ユウトウタケ' },
     { hiragana: 'えんかいこうせき', word: '淵海鉱石', note: 'イベント「三界道饗祭」用' },
     { hiragana: 'とこよのさや', word: '常世の莢', note: 'イベント「三界道饗祭」用' },
+    { hiragana: 'ざいとぅんとう', word: 'ザイトゥン桃' },
+    { hiragana: 'ぱてぃさら', word: 'パティサラ' },
+    { hiragana: 'かるぱたらはす', word: 'カルパタラ蓮' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

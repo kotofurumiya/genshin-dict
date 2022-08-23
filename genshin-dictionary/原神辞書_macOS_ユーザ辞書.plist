@@ -622,6 +622,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>カルパタラ蓮</string>
+  <key>shortcut</key>
+  <string>かるぱたらはす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>甘雨</string>
   <key>shortcut</key>
   <string>かんう</string>
@@ -688,6 +694,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>キノシシ</string>
+  <key>shortcut</key>
+  <string>きのしし</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>岐の地</string>
   <key>shortcut</key>
   <string>きのち</string>
@@ -697,6 +709,12 @@
   <string>キャッツテール</string>
   <key>shortcut</key>
   <string>きゃっつてーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>キャンディス</string>
+  <key>shortcut</key>
+  <string>きゃんでぃす</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -859,6 +877,12 @@
   <string>クルーズチカ</string>
   <key>shortcut</key>
   <string>くるーずちか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>グルグル雷キノコン</string>
+  <key>shortcut</key>
+  <string>ぐるぐるかみなりきのこん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1102,6 +1126,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ザイトゥン桃</string>
+  <key>shortcut</key>
+  <string>ざいとぅんとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>削月築陽真君</string>
   <key>shortcut</key>
   <string>さくげつちくようしんくん</string>
@@ -1168,9 +1198,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>サンドウォーター</string>
+  <key>shortcut</key>
+  <string>さんどうぉーたー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>散兵</string>
   <key>shortcut</key>
   <string>ざんひょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>サンフロスト</string>
+  <key>shortcut</key>
+  <string>さんふろすと</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1207,6 +1249,12 @@
   <string>志璇</string>
   <key>shortcut</key>
   <string>しせん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>七聖召喚</string>
+  <key>shortcut</key>
+  <string>しちせいしょうかん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1498,6 +1546,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>スピノクロコ</string>
+  <key>shortcut</key>
+  <string>すぴのくろこ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>スメール</string>
   <key>shortcut</key>
   <string>すめーる</string>
@@ -1693,6 +1747,12 @@
   <string>竹材</string>
   <key>shortcut</key>
   <string>たけざい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>駄獣</string>
+  <key>shortcut</key>
+  <string>だじゅう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1948,6 +2008,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>トコトコ水マッシュロン</string>
+  <key>shortcut</key>
+  <string>とことこみずまっしゅろん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>常世の莢</string>
   <key>shortcut</key>
   <string>とこよのさや</string>
@@ -2080,6 +2146,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>パタパタ草マッシュロン</string>
+  <key>shortcut</key>
+  <string>ぱたぱたくさまっしゅろん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>跋掣</string>
   <key>shortcut</key>
   <string>ばっせい</string>
@@ -2089,6 +2161,12 @@
   <string>伐難</string>
   <key>shortcut</key>
   <string>ばつなん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>パティサラ</string>
+  <key>shortcut</key>
+  <string>ぱてぃさら</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2245,6 +2323,12 @@
   <string>風龍廃墟</string>
   <key>shortcut</key>
   <string>ふうりゅうはいきょ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>プカプカ草キノコン</string>
+  <key>shortcut</key>
+  <string>ぷかぷかくさきのこん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2422,6 +2506,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ポヨヨン風キノコン</string>
+  <key>shortcut</key>
+  <string>ぽよよんかぜきのこん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>魔偶剣鬼</string>
   <key>shortcut</key>
   <string>まぐうけんき</string>
@@ -2473,6 +2563,12 @@
   <string>マッシュラプトル</string>
   <key>shortcut</key>
   <string>まっしゅらぷとる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>マッシュロン</string>
+  <key>shortcut</key>
+  <string>まっしゅろん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2629,6 +2725,12 @@
   <string>曚雲神社</string>
   <key>shortcut</key>
   <string>もううんじんじゃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>モジャモジャ駄獣</string>
+  <key>shortcut</key>
+  <string>もじゃもじゃだじゅう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2833,6 +2935,12 @@
   <string>璃沙郊</string>
   <key>shortcut</key>
   <string>りしゃこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>リシュボラン虎</string>
+  <key>shortcut</key>
+  <string>りしゅぼらんこ</string>
 </dict>
 <dict>
   <key>phrase</key>

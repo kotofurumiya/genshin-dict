@@ -23,7 +23,15 @@ export default {
     { hiragana: 'しゃどうはすく', word: 'シャドウハスク' },
     { hiragana: 'こくじゃきし', word: '黒蛇騎士' },
     { hiragana: 'きのこん', word: 'キノコン' },
+    { hiragana: 'まっしゅろん', word: 'マッシュロン' },
     { hiragana: 'ぷかぷかみずきのこん', word: 'プカプカ水キノコン' },
+    { hiragana: 'ぷかぷかくさきのこん', word: 'プカプカ草キノコン' },
+    { hiragana: 'ぽよよんかぜきのこん', word: 'ポヨヨン風キノコン' },
+    { hiragana: 'ぐるぐるかみなりきのこん', word: 'グルグル雷キノコン' },
+    { hiragana: 'とことこみずまっしゅろん', word: 'トコトコ水マッシュロン' },
+    { hiragana: 'ぱたぱたくさまっしゅろん', word: 'パタパタ草マッシュロン' },
     { hiragana: 'いせきどれいく', word: '遺跡ドレイク' },
+    { hiragana: 'さんどうぉーたー', word: 'サンドウォーター' },
+    { hiragana: 'さんふろすと', word: 'サンフロスト' },
   ]
 } as DictBase;

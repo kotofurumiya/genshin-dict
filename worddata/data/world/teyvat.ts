@@ -32,5 +32,6 @@ export default {
     { hiragana: 'きょうれいいん', word: '教令院' },
     { hiragana: 'えるまいとりょだん', word: 'エルマイト旅団' },
     { hiragana: 'かしんたんさい', word: '花神誕祭' },
+    { hiragana: 'しちせいしょうかん', word: '七聖召喚' },
   ]
 } as DictBase;
