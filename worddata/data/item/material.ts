@@ -30,7 +30,11 @@ export default {
     { hiragana: 'とこよのさや', word: '常世の莢', note: 'イベント「三界道饗祭」用' },
     { hiragana: 'ざいとぅんとう', word: 'ザイトゥン桃' },
     { hiragana: 'ぱてぃさら', word: 'パティサラ' },
-    { hiragana: 'かるぱたらはす', word: 'カルパタラ蓮' },
+    { hiragana: 'さうまらたはす', word: 'サウマラタ蓮' },
+    { hiragana: 'かるぱらたはす', word: 'カルパラタ蓮' },
+    { hiragana: 'すめーるろーず', word: 'スメールローズ' },
+    { hiragana: 'はっらのみ', word: 'ハッラの実' },
+    { hiragana: 'るっかでゔぁただけ', word: 'ルッカデヴァタダケ' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

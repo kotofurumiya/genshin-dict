@@ -32,6 +32,17 @@ export default {
     { hiragana: 'きょうれいいん', word: '教令院' },
     { hiragana: 'えるまいとりょだん', word: 'エルマイト旅団' },
     { hiragana: 'かしんたんさい', word: '花神誕祭' },
+    { hiragana: 'かしんたんじつ', word: '花神誕日' },
     { hiragana: 'しちせいしょうかん', word: '七聖召喚' },
+    { hiragana: 'まりんびょう', word: '魔鱗病' },
+    { hiragana: 'あらんなら', word: 'アランナラ' },
+    { hiragana: 'とらいすてーと', word: 'トライステート' },
+    { hiragana: 'せいろんは', word: '生論派' },
+    { hiragana: 'そろんは', word: '素論派' },
+    { hiragana: 'めいろんは', word: '明論派' },
+    { hiragana: 'みょうろんは', word: '妙論派' },
+    { hiragana: 'いんろんは', word: '因論派' },
+    { hiragana: 'ちろんは', word: '知論派' },
+    { hiragana: 'かんづめちしき', word: '缶詰知識' },
   ]
 } as DictBase;
