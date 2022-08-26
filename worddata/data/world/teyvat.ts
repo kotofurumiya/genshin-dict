@@ -36,6 +36,7 @@ export default {
     { hiragana: 'しちせいしょうかん', word: '七聖召喚' },
     { hiragana: 'まりんびょう', word: '魔鱗病' },
     { hiragana: 'あらんなら', word: 'アランナラ' },
+    { hiragana: 'まらーな', word: 'マラーナ' },
     { hiragana: 'とらいすてーと', word: 'トライステート' },
     { hiragana: 'せいろんは', word: '生論派' },
     { hiragana: 'そろんは', word: '素論派' },

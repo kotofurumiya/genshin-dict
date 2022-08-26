@@ -35,6 +35,7 @@ export default {
     { hiragana: 'すめーるろーず', word: 'スメールローズ' },
     { hiragana: 'はっらのみ', word: 'ハッラの実' },
     { hiragana: 'るっかでゔぁただけ', word: 'ルッカデヴァタダケ' },
+    { hiragana: 'ゔぃぱりゃす', word: 'ヴィパリャス' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

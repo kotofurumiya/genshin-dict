@@ -310,6 +310,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ヴィパリャス</string>
+  <key>shortcut</key>
+  <string>ゔぃぱりゃす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ヴィマラ村</string>
   <key>shortcut</key>
   <string>ゔぃまらむら</string>
@@ -2746,6 +2752,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>マラーナ</string>
+  <key>shortcut</key>
+  <string>まらーな</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>魔鱗病</string>
   <key>shortcut</key>
   <string>まりんびょう</string>
@@ -2896,7 +2908,7 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>冥彩鳥</string>
+  <string>暝彩鳥</string>
   <key>shortcut</key>
   <string>めいさいちょう</string>
 </dict>

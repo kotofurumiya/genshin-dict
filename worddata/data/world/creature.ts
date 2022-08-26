@@ -13,6 +13,6 @@ export default {
     { hiragana: 'りしゅぼらんこ', word: 'リシュボラン虎' },
     { hiragana: 'すぴのくろこ', word: 'スピノクロコ' },
     { hiragana: 'きのしし', word: 'キノシシ' },
-    { hiragana: 'めいさいちょう', word: '冥彩鳥' },
+    { hiragana: 'めいさいちょう', word: '暝彩鳥' },
   ]
 } as DictBase;

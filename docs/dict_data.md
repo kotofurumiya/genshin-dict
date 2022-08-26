@@ -4,7 +4,7 @@
 |---|--:|
 |[アイテム/聖遺物](./dict/item/artifact.md)|8|
 |[アイテム/食べ物](./dict/item/food.md)|2|
-|[アイテム/素材](./dict/item/material.md)|50|
+|[アイテム/素材](./dict/item/material.md)|51|
 |[アイテム/道具](./dict/item/tool.md)|6|
 |[アイテム/武器](./dict/item/weapon.md)|24|
 |[人物/稲妻](./dict/person/inazuma.md)|42|
@@ -28,4 +28,4 @@
 |[ワールド/エネミー](./dict/world/enemy.md)|28|
 |[ワールド/イベント](./dict/world/event.md)|10|
 |[ワールド/システム](./dict/world/system.md)|33|
-|[ワールド/テイワット](./dict/world/teyvat.md)|39|
+|[ワールド/テイワット](./dict/world/teyvat.md)|40|
