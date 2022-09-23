@@ -736,6 +736,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>輝光材</string>
+  <key>shortcut</key>
+  <string>きこうざい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>帰終</string>
   <key>shortcut</key>
   <string>きしゅう</string>
@@ -865,6 +871,12 @@
   <string>帰離原</string>
   <key>shortcut</key>
   <string>きりはら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>キングデシェレト</string>
+  <key>shortcut</key>
+  <string>きんぐでしぇれと</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1024,6 +1036,24 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ゲイルハンター</string>
+  <key>shortcut</key>
+  <string>げいるはんたー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>竭沢</string>
+  <key>shortcut</key>
+  <string>けったく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>竭沢</string>
+  <key>shortcut</key>
+  <string>けつたく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>嶮しき石堂</string>
   <key>shortcut</key>
   <string>けわしきせきどう</string>
@@ -1081,6 +1111,12 @@
   <string>元素反応</string>
   <key>shortcut</key>
   <string>げんそはんのう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>業果材</string>
+  <key>shortcut</key>
+  <string>ごうかざい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1273,6 +1309,12 @@
   <string>三界道饗祭</string>
   <key>shortcut</key>
   <string>さんかいみちあえのまつり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>サングマハベイ</string>
+  <key>shortcut</key>
+  <string>さんぐまはべい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1486,6 +1528,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>証悟材</string>
+  <key>shortcut</key>
+  <string>しょうござい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>晶蝶</string>
   <key>shortcut</key>
   <string>しょうちょう</string>
@@ -1606,6 +1654,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>スカーレットキング</string>
+  <key>shortcut</key>
+  <string>すかーれっときんぐ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>容彩祭</string>
   <key>shortcut</key>
   <string>すがたのいろどりさい</string>
@@ -1627,6 +1681,12 @@
   <string>スクロース</string>
   <key>shortcut</key>
   <string>すくろーす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ストーンエンチャンター</string>
+  <key>shortcut</key>
+  <string>すとーんえんちゃんたー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1960,6 +2020,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>兆載永劫ドレイク</string>
+  <key>shortcut</key>
+  <string>ちょうさいようごう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>チライ社殿</string>
   <key>shortcut</key>
   <string>ちらいしゃでん</string>
@@ -2017,6 +2083,12 @@
   <string>ディオナ</string>
   <key>shortcut</key>
   <string>でぃおな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>デイサンダー</string>
+  <key>shortcut</key>
+  <string>でいさんだー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2374,6 +2446,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>半永久統制マトリックス</string>
+  <key>shortcut</key>
+  <string>はんえいきゅうとうせいまとりっくす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>万民堂</string>
   <key>shortcut</key>
   <string>ばんみんどう</string>
@@ -2539,6 +2617,12 @@
   <string>不滅の月華</string>
   <key>shortcut</key>
   <string>ふめつのげっか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>プライマル構造体</string>
+  <key>shortcut</key>
+  <string>ぷらいまるこうぞうたい</string>
 </dict>
 <dict>
   <key>phrase</key>

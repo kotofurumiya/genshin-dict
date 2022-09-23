@@ -33,5 +33,9 @@ export default {
     { hiragana: 'いせきどれいく', word: '遺跡ドレイク' },
     { hiragana: 'さんどうぉーたー', word: 'サンドウォーター' },
     { hiragana: 'さんふろすと', word: 'サンフロスト' },
+    { hiragana: 'でいさんだー', word: 'デイサンダー' },
+    { hiragana: 'すとーんえんちゃんたー', word: 'ストーンエンチャンター' },
+    { hiragana: 'げいるはんたー', word: 'ゲイルハンター' },
+    { hiragana: 'ぷらいまるこうぞうたい', word: 'プライマル構造体' },
   ]
 } as DictBase;

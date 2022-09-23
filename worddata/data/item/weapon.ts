@@ -29,5 +29,7 @@ export default {
     { hiragana: 'らくか', word: '落霞' },
     { hiragana: 'ゆうや', word: '幽夜' },
     { hiragana: 'ゆうやのわるつ', word: '幽夜のワルツ' },
+    { hiragana: 'けつたく', word: '竭沢' },
+    { hiragana: 'けったく', word: '竭沢' },
   ]
 } as DictBase;

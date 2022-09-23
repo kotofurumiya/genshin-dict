@@ -64,5 +64,8 @@ export default {
     { hiragana: 'ゆめみざい', word: '夢見材' },
     { hiragana: 'くじゃくざい', word: '孔雀材' },
     { hiragana: 'おとぎざい', word: '御伽材' },
+    { hiragana: 'きこうざい', word: '輝光材' },
+    { hiragana: 'ごうかざい', word: '業果材' },
+    { hiragana: 'しょうござい', word: '証悟材' },
   ]
 } as DictBase;
