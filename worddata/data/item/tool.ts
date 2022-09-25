@@ -11,5 +11,6 @@ export default {
     { hiragana: 'さんりょうぶっしつへんかき', word: '参量物質変化器' },
     { hiragana: 'ぼくそのはこ', word: '睦疎の箱', note: 'イベント「三界道饗祭」用' },
     { hiragana: 'いむのようばい', word: '異夢の溶媒' },
+    { hiragana: 'せんようぎょくはく', word: '旋曜玉帛' },
   ]
 } as DictBase;

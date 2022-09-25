@@ -1858,6 +1858,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>旋曜玉帛</string>
+  <key>shortcut</key>
+  <string>せんようぎょくはく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>仙霊</string>
   <key>shortcut</key>
   <string>せんれい</string>
