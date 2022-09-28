@@ -12,7 +12,7 @@ export default {
     { hiragana: 'てぃなり', word: 'ティナリ' },
     { hiragana: 'どりー', word: 'ドリー' },
     { hiragana: 'さんぐまはべい', word: 'サングマハベイ', note: 'ドリーのファミリーネーム' },
-    { hiragana: 'はまーるっかでゔぁた', word: 'マハールッカデヴァタ' },
+    { hiragana: 'はまーるっかでゔぁーた', word: 'マハールッカデヴァータ' },
     { hiragana: 'すかーれっときんぐ', word: 'スカーレットキング' },
     { hiragana: 'あるはいぜん', word: 'アルハイゼン' },
     { hiragana: 'でぃしあ', word: 'ディシア' },

@@ -25,7 +25,7 @@ export default {
     { hiragana: 'がんだおか', word: 'ガンダ丘' },
     { hiragana: 'ちんわときょうこく', word: 'チンワト峡谷' },
     { hiragana: 'やざだはいけ', word: 'ヤザダハ池' },
-    { hiragana: 'がんだるゔぁむら', word: 'ガンダルヴァ村' },
+    { hiragana: 'がんだるゔぁーむら', word: 'ガンダルヴァー村' },
     { hiragana: 'ゔぃまらむら', word: 'ヴィマラ村' },
     { hiragana: 'でーゔぁーんたかやま', word: 'デーヴァーンタカ山' },
     { hiragana: 'ぱるでぃすでぃあい', word: 'パルディスディアイ' },

@@ -706,9 +706,9 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>ガンダルヴァ村</string>
+  <string>ガンダルヴァー村</string>
   <key>shortcut</key>
-  <string>がんだるゔぁむら</string>
+  <string>がんだるゔぁーむら</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2422,9 +2422,9 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>マハールッカデヴァタ</string>
+  <string>マハールッカデヴァータ</string>
   <key>shortcut</key>
-  <string>はまーるっかでゔぁた</string>
+  <string>はまーるっかでゔぁーた</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3304,9 +3304,9 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>ルッカデヴァタダケ</string>
+  <string>ルッカデヴァータダケ</string>
   <key>shortcut</key>
-  <string>るっかでゔぁただけ</string>
+  <string>るっかでゔぁーただけ</string>
 </dict>
 <dict>
   <key>phrase</key>
