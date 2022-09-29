@@ -45,6 +45,5 @@ export default {
     { hiragana: 'いんろんは', word: '因論派' },
     { hiragana: 'ちろんは', word: '知論派' },
     { hiragana: 'かんづめちしき', word: '缶詰知識' },
-    { hiragana: 'きんぐでしぇれと', word: 'キングデシェレト' },
   ]
 } as DictBase;

@@ -14,6 +14,7 @@ export default {
     { hiragana: 'さんぐまはべい', word: 'サングマハベイ', note: 'ドリーのファミリーネーム' },
     { hiragana: 'はまーるっかでゔぁーた', word: 'マハールッカデヴァータ' },
     { hiragana: 'すかーれっときんぐ', word: 'スカーレットキング' },
+    { hiragana: 'きんぐでしぇれと', word: 'キングデシェレト' },
     { hiragana: 'あるはいぜん', word: 'アルハイゼン' },
     { hiragana: 'でぃしあ', word: 'ディシア' },
     { hiragana: 'にぃろう', word: 'ニィロウ' },
@@ -21,5 +22,6 @@ export default {
     { hiragana: 'そうしん', word: '草神' },
     { hiragana: 'かしん', word: '花神' },
     { hiragana: 'きゃんでぃす', word: 'キャンディス' },
+    { hiragana: 'れいら', word: 'レイラ' },
   ]
 } as DictBase;

@@ -36,6 +36,9 @@ export default {
     { hiragana: 'はっらのみ', word: 'ハッラの実' },
     { hiragana: 'るっかでゔぁーただけ', word: 'ルッカデヴァータダケ' },
     { hiragana: 'ゔぃぱりゃす', word: 'ヴィパリャス' },
+    { hiragana: 'せいこんちゅう', word: '聖金虫' },
+    { hiragana: 'せきねん', word: '赤念' },
+    { hiragana: 'せきねんのみ', word: '赤念の実' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

@@ -52,5 +52,6 @@ export default {
     { hiragana: 'てぃみー', word: 'ティミー' },
     { hiragana: 'えりん', word: 'エリン' },
     { hiragana: 'つぁれーゔぃち', word: 'ツァレーヴィチ' },
+    { hiragana: 'みか', word: 'ミカ' },
   ]
 } as DictBase;

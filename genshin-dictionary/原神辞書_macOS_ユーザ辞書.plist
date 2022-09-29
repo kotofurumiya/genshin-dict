@@ -676,6 +676,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>上風蝕地</string>
+  <key>shortcut</key>
+  <string>かみふうしょくち</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>惟神晴之介</string>
   <key>shortcut</key>
   <string>かむなはるのすけ</string>
@@ -877,6 +883,12 @@
   <string>キングデシェレト</string>
   <key>shortcut</key>
   <string>きんぐでしぇれと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>キングデシェレトの霊廟</string>
+  <key>shortcut</key>
+  <string>きんぐでしぇれとのれいびょう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1426,9 +1438,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>下風蝕地</string>
+  <key>shortcut</key>
+  <string>しもふうしょくち</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>シャール・フィンドニール</string>
   <key>shortcut</key>
   <string>しゃーる・ふぃんどにーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>鑠石の丘</string>
+  <key>shortcut</key>
+  <string>しゃくせきのおか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1453,6 +1477,12 @@
   <string>蛇心の地</string>
   <key>shortcut</key>
   <string>じゃしんのち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>捨身の坑</string>
+  <key>shortcut</key>
+  <string>しゃしんのみち</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1690,6 +1720,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>砂の目</string>
+  <key>shortcut</key>
+  <string>すなのめ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>スネージナヤ</string>
   <key>shortcut</key>
   <string>すねーじなや</string>
@@ -1744,6 +1780,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>聖顕殿</string>
+  <key>shortcut</key>
+  <string>せいけんでん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>聖金虫</string>
+  <key>shortcut</key>
+  <string>せいこんちゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>脆弱樹脂</string>
   <key>shortcut</key>
   <string>ぜいじゃくじゅし</string>
@@ -1783,6 +1831,18 @@
   <string>積雪の道</string>
   <key>shortcut</key>
   <string>せきせつのみち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>赤念</string>
+  <key>shortcut</key>
+  <string>せきねん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>赤念の実</string>
+  <key>shortcut</key>
+  <string>せきねんのみ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1900,6 +1960,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ソベクオアシス</string>
+  <key>shortcut</key>
+  <string>そべくおあしす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>素論派</string>
   <key>shortcut</key>
   <string>そろんは</string>
@@ -1909,6 +1975,18 @@
   <string>ダーリ遺跡</string>
   <key>shortcut</key>
   <string>だーりいせき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ダーリの谷</string>
+  <key>shortcut</key>
+  <string>だーりのたに</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ダールアルシファ</string>
+  <key>shortcut</key>
+  <string>だーるあるしふぁ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2470,9 +2548,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>秘儀聖殿</string>
+  <key>shortcut</key>
+  <string>ひぎせいでん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>緋木村</string>
   <key>shortcut</key>
   <string>ひぎむら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>避譲の丘</string>
+  <key>shortcut</key>
+  <string>ひじょうのおか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2674,6 +2764,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>飽飲の丘</string>
+  <key>shortcut</key>
+  <string>ほういんのおか</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>宝児</string>
   <key>shortcut</key>
   <string>ほうじ</string>
@@ -2857,6 +2953,12 @@
   <string>マルコシアス</string>
   <key>shortcut</key>
   <string>まるこしあす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ミカ</string>
+  <key>shortcut</key>
+  <string>みか</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3328,6 +3430,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>レイラ</string>
+  <key>shortcut</key>
+  <string>れいら</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>レインドット</string>
   <key>shortcut</key>
   <string>れいんどっと</string>
@@ -3355,6 +3463,12 @@
   <string>烈開花</string>
   <key>shortcut</key>
   <string>れつかいか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>列柱砂原</string>
+  <key>shortcut</key>
+  <string>れっちゅうすなはら</string>
 </dict>
 <dict>
   <key>phrase</key>
