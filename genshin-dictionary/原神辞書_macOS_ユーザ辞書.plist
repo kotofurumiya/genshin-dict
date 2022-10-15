@@ -460,6 +460,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>王樹の加護</string>
+  <key>shortcut</key>
+  <string>おうじゅのかご</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>往生堂</string>
   <key>shortcut</key>
   <string>おうじょうどう</string>
@@ -505,6 +511,12 @@
   <string>オロバシノミコト</string>
   <key>shortcut</key>
   <string>おろばしのみこと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>カーヴェ</string>
+  <key>shortcut</key>
+  <string>かーゔぇ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1780,9 +1792,27 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>聖金虫</string>
+  <key>shortcut</key>
+  <string>せいきんちゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>聖顕</string>
+  <key>shortcut</key>
+  <string>せいけん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>聖顕殿</string>
   <key>shortcut</key>
   <string>せいけんでん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>聖顕の鍵</string>
+  <key>shortcut</key>
+  <string>せいけんのかぎ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2038,6 +2068,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>タマリスク材</string>
+  <key>shortcut</key>
+  <string>たまりすくざい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>タルタリヤ</string>
   <key>shortcut</key>
   <string>たるたりや</string>
@@ -2106,7 +2142,13 @@
   <key>phrase</key>
   <string>兆載永劫ドレイク</string>
   <key>shortcut</key>
-  <string>ちょうさいようごう</string>
+  <string>ちょうさいえいごうどれいく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>兆載永劫ドレイク</string>
+  <key>shortcut</key>
+  <string>ちょうさいようごうどれいく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2635,6 +2677,12 @@
   <string>ファルカ</string>
   <key>shortcut</key>
   <string>ふぁるか</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ファルザン</string>
+  <key>shortcut</key>
+  <string>ふぁるざん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3175,6 +3223,12 @@
   <string>ヤシオリ島</string>
   <key>shortcut</key>
   <string>やしおりじま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヤシ材</string>
+  <key>shortcut</key>
+  <string>やしざい</string>
 </dict>
 <dict>
   <key>phrase</key>

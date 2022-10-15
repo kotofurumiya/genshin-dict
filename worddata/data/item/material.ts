@@ -37,6 +37,7 @@ export default {
     { hiragana: 'るっかでゔぁーただけ', word: 'ルッカデヴァータダケ' },
     { hiragana: 'ゔぃぱりゃす', word: 'ヴィパリャス' },
     { hiragana: 'せいこんちゅう', word: '聖金虫' },
+    { hiragana: 'せいきんちゅう', word: '聖金虫' },
     { hiragana: 'せきねん', word: '赤念' },
     { hiragana: 'せきねんのみ', word: '赤念の実' },
 
@@ -70,5 +71,7 @@ export default {
     { hiragana: 'きこうざい', word: '輝光材' },
     { hiragana: 'ごうかざい', word: '業果材' },
     { hiragana: 'しょうござい', word: '証悟材' },
+    { hiragana: 'たまりすくざい', word: 'タマリスク材' },
+    { hiragana: 'やしざい', word: 'ヤシ材' },
   ]
 } as DictBase;

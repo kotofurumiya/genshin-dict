@@ -25,6 +25,7 @@ export default {
     { hiragana: 'まっしゅらぷとる', word: 'マッシュラプトル' },
     { hiragana: 'じんでんじゅ', word: '迅電樹' },
     { hiragana: 'はんえいきゅうとうせいまとりっくす', word: '半永久統制マトリックス' },
-    { hiragana: 'ちょうさいようごう', word: '兆載永劫ドレイク' },
+    { hiragana: 'ちょうさいようごうどれいく', word: '兆載永劫ドレイク' },
+    { hiragana: 'ちょうさいえいごうどれいく', word: '兆載永劫ドレイク' },
   ]
 } as DictBase;

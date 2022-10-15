@@ -23,5 +23,7 @@ export default {
     { hiragana: 'かしん', word: '花神' },
     { hiragana: 'きゃんでぃす', word: 'キャンディス' },
     { hiragana: 'れいら', word: 'レイラ' },
+    { hiragana: 'かーゔぇ', word: 'カーヴェ' },
+    { hiragana: 'ふぁるざん', word: 'ファルザン' },
   ]
 } as DictBase;
