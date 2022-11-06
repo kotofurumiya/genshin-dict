@@ -6,6 +6,7 @@ export default {
   hinshi: '普通名詞',
   items: [
     { hiragana: 'みほよ', word: 'miHoYo' },
+    { hiragana: 'こぐのすふぃあ', word: 'COGNOSPHERE' },
     { hiragana: 'ほよばーす', word: 'HoYoverse' },
     { hiragana: 'ほよゔぁーす', word: 'HoYoverse' },
     { hiragana: 'まじんにんむ', word: '魔神任務' },
@@ -32,11 +33,11 @@ export default {
     { hiragana: 'めいてい', word: '命定' },
     { hiragana: 'しんちゅうめいてい', word: '神鋳命定' },
     { hiragana: 'めいていち', word: '命定値' },
-    { hiragana: 'くさげんかく', word: '草原核' },
+    { hiragana: 'そうげんかく', word: '草原核' },
     { hiragana: 'れつかいか', word: '烈開花' },
     { hiragana: 'げんげきか', word: '原激化' },
     { hiragana: 'ちょうげきか', word: '超激化' },
-    { hiragana: 'くさげきか', word: '草激化' },
+    { hiragana: 'そうげきか', word: '草激化' },
     { hiragana: 'かいせい', word: '廻聖' },
   ]
 } as DictBase;

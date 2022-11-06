@@ -1,6 +1,6 @@
 # 原神辞書（Windows/macOS）
 
-[原神](https://genshin.mihoyo.com/ja/home)の日本語入力用辞書です。
+[原神](https://genshin.hoyoverse.com/ja/home)の日本語入力用辞書です。
 人名、地名、装備名などをカバーしています。
 
 ## 登録データ
@@ -13,6 +13,16 @@
 zipファイルを展開するとそれぞれの環境用のファイルが入っています。
 
 https://github.com/kotofurumiya/genshin-dict/releases/latest
+
+## 対応IME
+
+| IME             | 対応ファイル                     | 備考                           |
+|----------------:|:-------------------------------|:------------------------------|
+| Windows標準      | 原神辞書_Windows.txt            |                               |
+| macOSユーザ辞書   | 原神辞書_macOS_ユーザ辞書.plist   |                               |
+| macOS追加辞書     | 原神辞書_macOS.txt              |                               |
+| iPhoneユーザ辞書  |                                | mac経由で追加可能（後述）         |
+| Google IME      | 原神辞書_Windows.txt            | macでもWindows用ファイルで追加可能 |
 
 ## 利用方法（Windows）
 

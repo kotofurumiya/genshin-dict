@@ -5,6 +5,7 @@ export default {
   title: 'イベント',
   hinshi: '普通名詞',
   items: [
+    { hiragana: 'ひゃっかちんぴん', word: '百貨珍品' },
     { hiragana: 'さんかいみちあえのまつり', word: '三界道饗祭' },
     { hiragana: 'さんかい', word: '三界' },
     { hiragana: 'みちあえのまつり', word: '道饗祭' },

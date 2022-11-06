@@ -23,6 +23,7 @@ export default {
     { hiragana: 'きゃんでぃす', word: 'キャンディス' },
     { hiragana: 'れいら', word: 'レイラ' },
     { hiragana: 'かーゔぇ', word: 'カーヴェ' },
+    { hiragana: 'ほうろうしゃ', word: '放浪者' },
     { hiragana: 'ふぁるざん', word: 'ファルザン' },
     { hiragana: 'かかた', word: 'カカタ' },
   ]

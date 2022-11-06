@@ -45,6 +45,8 @@ export default {
     { hiragana: 'ねこ', word: '寝子' },
     { hiragana: 'えんじょう', word: '淵上' },
     { hiragana: 'ざんひょう', word: '散兵' },
+    { hiragana: 'たんばかつらぎ', word: '丹羽桂木' },
+    { hiragana: 'みこしながまさ', word: '御輿長正' },
     { hiragana: 'くきしのぶ', word: '久岐忍' },
     { hiragana: 'くき', word: '久岐' },
   ]

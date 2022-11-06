@@ -18,7 +18,7 @@ export default {
     { hiragana: 'ばどるどー', word: 'バドルドー' },
     { hiragana: 'かみのめ', word: '神の目' },
     { hiragana: 'いのちのせいざ', word: '命ノ星座' },
-    { hiragana: 'かみさくら', word: '神櫻' },
+    { hiragana: 'しんおう', word: '神櫻' },
     { hiragana: 'うんかんしゃ', word: '雲翰社' },
     { hiragana: 'こかは', word: '古華派' },
     { hiragana: 'しゅうまつばん', word: '終末番' },
@@ -36,6 +36,11 @@ export default {
     { hiragana: 'しちせいしょうかん', word: '七聖召喚' },
     { hiragana: 'まりんびょう', word: '魔鱗病' },
     { hiragana: 'あらんなら', word: 'アランナラ' },
+    { hiragana: 'あらんらからり', word: 'アランラカラリ' },
+    { hiragana: 'ゔぁなき', word: 'ヴァナキ' },
+    { hiragana: 'ゔぁーな', word: 'ヴァーナ' },
+    { hiragana: 'わるか', word: 'ワルカ' },
+    { hiragana: 'さるば', word: 'サルバ' },
     { hiragana: 'まらーな', word: 'マラーナ' },
     { hiragana: 'とらいすてーと', word: 'トライステート' },
     { hiragana: 'せいろんは', word: '生論派' },
@@ -45,5 +50,6 @@ export default {
     { hiragana: 'いんろんは', word: '因論派' },
     { hiragana: 'ちろんは', word: '知論派' },
     { hiragana: 'かんづめちしき', word: '缶詰知識' },
+    { hiragana: 'こうりんしゃ', word: '降臨者' },
   ]
 } as DictBase;

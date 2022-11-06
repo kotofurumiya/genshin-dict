@@ -11,6 +11,7 @@ export default {
     { hiragana: 'むそうのいわ', word: '無相の岩' },
     { hiragana: 'むそうのほのお', word: '無相の炎' },
     { hiragana: 'むそうのみず', word: '無相の水' },
+    { hiragana: 'むそうのくさ', word: '無相の草' },
     { hiragana: 'ばくえんじゅ', word: '爆炎樹' },
     { hiragana: 'きゅうとうじゅ', word: '急凍樹' },
     { hiragana: 'じゅんすいせいれい', word: '純水精霊' },
@@ -27,5 +28,6 @@ export default {
     { hiragana: 'はんえいきゅうとうせいまとりっくす', word: '半永久統制マトリックス' },
     { hiragana: 'ちょうさいようごうどれいく', word: '兆載永劫ドレイク' },
     { hiragana: 'ちょうさいえいごうどれいく', word: '兆載永劫ドレイク' },
+    { hiragana: 'しょうきのかみ', word: '正機の神' },
   ]
 } as DictBase;
