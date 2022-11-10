@@ -10,7 +10,7 @@ export default {
     { hiragana: 'らいめいせん', word: '雷鳴仙' },
     { hiragana: 'だじゅう', word: '駄獣' },
     { hiragana: 'もじゃもじゃだじゅう', word: 'モジャモジャ駄獣' },
-    { hiragana: 'りしゅぼらんこ', word: 'リシュボラン虎' },
+    { hiragana: 'りしゅぼらんとら', word: 'リシュボラン虎' },
     { hiragana: 'すぴのくろこ', word: 'スピノクロコ' },
     { hiragana: 'きのしし', word: 'キノシシ' },
     { hiragana: 'めいさいちょう', word: '暝彩鳥' },
