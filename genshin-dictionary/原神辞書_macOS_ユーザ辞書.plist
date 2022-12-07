@@ -2242,12 +2242,6 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>丹羽桂木</string>
-  <key>shortcut</key>
-  <string>たんばかつらぎ</string>
-</dict>
-<dict>
-  <key>phrase</key>
   <string>誓いの岬</string>
   <key>shortcut</key>
   <string>ちかいのみさき</string>
@@ -2629,6 +2623,12 @@
   <string>ニィロウ</string>
   <key>shortcut</key>
   <string>にぃろう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>丹羽桂木</string>
+  <key>shortcut</key>
+  <string>にわかつらぎ</string>
 </dict>
 <dict>
   <key>phrase</key>
