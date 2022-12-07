@@ -22,6 +22,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アクションカード</string>
+  <key>shortcut</key>
+  <string>あくしょんかーど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アクションフェーズ</string>
+  <key>shortcut</key>
+  <string>あくしょんふぇーず</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>浅瀬神社</string>
   <key>shortcut</key>
   <string>あさせじんじゃ</string>
@@ -280,6 +292,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>イベントカード</string>
+  <key>shortcut</key>
+  <string>いべんとかーど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>異夢の溶媒</string>
   <key>shortcut</key>
   <string>いむのようばい</string>
@@ -475,6 +493,12 @@
   <string>淵上</string>
   <key>shortcut</key>
   <string>えんじょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エンドフェーズ</string>
+  <key>shortcut</key>
+  <string>えんどふぇーず</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -850,9 +874,27 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>キャラエリア</string>
+  <key>shortcut</key>
+  <string>きゃらえりあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>キャラカード</string>
+  <key>shortcut</key>
+  <string>きゃらかーど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>キャラバン宿駅</string>
   <key>shortcut</key>
   <string>きゃらばんしゅくえき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>キャラ付属</string>
+  <key>shortcut</key>
+  <string>きゃらふぞく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -961,6 +1003,12 @@
   <string>金リンゴ群島</string>
   <key>shortcut</key>
   <string>きんりんごぐんとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>クイックアクション</string>
+  <key>shortcut</key>
+  <string>くいっくあくしょん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1138,6 +1186,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>元素サイコロ</string>
+  <key>shortcut</key>
+  <string>げんそさいころ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>元素熟知</string>
   <key>shortcut</key>
   <string>げんそじゅくち</string>
@@ -1153,6 +1207,12 @@
   <string>元素チャージ</string>
   <key>shortcut</key>
   <string>げんそちゃーじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>元素調和</string>
+  <key>shortcut</key>
+  <string>げんそちょうわ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1444,6 +1504,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>支援エリア</string>
+  <key>shortcut</key>
+  <string>しえんえりあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>支援カード</string>
+  <key>shortcut</key>
+  <string>しえんかーど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>鹿野院</string>
   <key>shortcut</key>
   <string>しかのいん</string>
@@ -1615,6 +1687,12 @@
   <string>晶化骨髄</string>
   <key>shortcut</key>
   <string>しょうかこつずい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>召喚物エリア</string>
+  <key>shortcut</key>
+  <string>しょうかんぶつえりあ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1996,6 +2074,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>戦闘アクション</string>
+  <key>shortcut</key>
+  <string>せんとうあくしょん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>千風の神殿</string>
   <key>shortcut</key>
   <string>せんぷうのしんでん</string>
@@ -2047,6 +2131,12 @@
   <string>送仙儀式</string>
   <key>shortcut</key>
   <string>そうせんぎしき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>装備カード</string>
+  <key>shortcut</key>
+  <string>そうびかーど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2386,6 +2476,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>同一元素</string>
+  <key>shortcut</key>
+  <string>どういつげんそ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>冬極</string>
   <key>shortcut</key>
   <string>とうきょく</string>
@@ -2659,6 +2755,12 @@
   <string>半永久統制マトリックス</string>
   <key>shortcut</key>
   <string>はんえいきゅうとうせいまとりっくす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>万能元素</string>
+  <key>shortcut</key>
+  <string>ばんのうげんそ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3166,6 +3268,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>無色元素</string>
+  <key>shortcut</key>
+  <string>むしょくげんそ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>無想刃狭間</string>
   <key>shortcut</key>
   <string>むそうじんはざま</string>
@@ -3586,6 +3694,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>リロール</string>
+  <key>shortcut</key>
+  <string>りろーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>臨時本坑</string>
   <key>shortcut</key>
   <string>りんじほんこう</string>
@@ -3679,6 +3793,12 @@
   <string>ローデシア</string>
   <key>shortcut</key>
   <string>ろーでしあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ロールフェーズ</string>
+  <key>shortcut</key>
+  <string>ろーるふぇーず</string>
 </dict>
 <dict>
   <key>phrase</key>

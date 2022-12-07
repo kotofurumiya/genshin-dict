@@ -29,6 +29,7 @@
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
 |[ワールド/ボスエネミー](./dict/world/boss.md)|24|
+|[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|9|
 |[ワールド/エネミー](./dict/world/enemy.md)|32|
 |[ワールド/イベント](./dict/world/event.md)|11|
