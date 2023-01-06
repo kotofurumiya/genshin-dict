@@ -5,6 +5,7 @@ export default {
   title: 'スメール',
   hinshi: '地名',
   items: [
+    // 森林
     { hiragana: 'すめーる', word: 'スメール' },
     { hiragana: 'すめーるしてぃ', word: 'スメールシティ' },
     { hiragana: 'ぐらんどばざーる', word: 'グランドバザール' },
@@ -33,6 +34,8 @@ export default {
     { hiragana: 'だーりいせき', word: 'ダーリ遺跡' },
     { hiragana: 'きゃらばんしゅくえき', word: 'キャラバン宿駅' },
     { hiragana: 'やすなゆうきょう', word: 'ヤスナ幽境' },
+
+    // 砂漠
     { hiragana: 'しもふうしょくち', word: '下風蝕地' },
     { hiragana: 'すなのめ', word: '砂の目' },
     { hiragana: 'せいけんでん', word: '聖顕殿' },
@@ -48,5 +51,6 @@ export default {
     { hiragana: 'きんぐでしぇれとのれいびょう', word: 'キングデシェレトの霊廟' },
     { hiragana: 'ほういんのおか', word: '飽飲の丘' },
     { hiragana: 'ああるむら', word: 'アアル村' },
+    { hiragana: 'せんじんのさばく', word: '千尋の砂漠' },
   ]
 } as DictBase;

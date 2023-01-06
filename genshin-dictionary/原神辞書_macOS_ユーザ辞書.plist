@@ -370,6 +370,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ウェネト</string>
+  <key>shortcut</key>
+  <string>うぇねと</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ウェルプ</string>
   <key>shortcut</key>
   <string>うぇるぷ</string>
@@ -1474,6 +1480,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>サンドロアマスター</string>
+  <key>shortcut</key>
+  <string>さんどろあますたー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>散兵</string>
   <key>shortcut</key>
   <string>ざんひょう</string>
@@ -1912,6 +1924,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>聖骸獣</string>
+  <key>shortcut</key>
+  <string>せいがいじゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>青墟浦</string>
   <key>shortcut</key>
   <string>せいきょうら</string>
@@ -2065,6 +2083,12 @@
   <string>千岩軍</string>
   <key>shortcut</key>
   <string>せんがんぐん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>千尋の砂漠</string>
+  <key>shortcut</key>
+  <string>せんじんのさばく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2896,6 +2920,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>風蝕ウェネト</string>
+  <key>shortcut</key>
+  <string>ふうしょくうぇねと</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>胡桃</string>
   <key>shortcut</key>
   <string>ふーたお</string>
@@ -2977,6 +3007,12 @@
   <string>フライム</string>
   <key>shortcut</key>
   <string>ふらいむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フローラルリングダンサー</string>
+  <key>shortcut</key>
+  <string>ふろーらるりんぐだんさー</string>
 </dict>
 <dict>
   <key>phrase</key>

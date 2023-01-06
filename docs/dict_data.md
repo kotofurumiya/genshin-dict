@@ -25,13 +25,13 @@
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/ナタ](./dict/region/natlan.md)|1|
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
-|[地域/スメール](./dict/region/sumeru.md)|43|
+|[地域/スメール](./dict/region/sumeru.md)|44|
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
-|[ワールド/ボスエネミー](./dict/world/boss.md)|24|
+|[ワールド/ボスエネミー](./dict/world/boss.md)|26|
 |[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|9|
-|[ワールド/エネミー](./dict/world/enemy.md)|32|
+|[ワールド/エネミー](./dict/world/enemy.md)|35|
 |[ワールド/イベント](./dict/world/event.md)|11|
 |[ワールド/システム](./dict/world/system.md)|34|
 |[ワールド/テイワット](./dict/world/teyvat.md)|46|

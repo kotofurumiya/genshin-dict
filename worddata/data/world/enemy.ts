@@ -36,6 +36,9 @@ export default {
     { hiragana: 'でいさんだー', word: 'デイサンダー' },
     { hiragana: 'すとーんえんちゃんたー', word: 'ストーンエンチャンター' },
     { hiragana: 'げいるはんたー', word: 'ゲイルハンター' },
+    { hiragana: 'さんどろあますたー', word: 'サンドロアマスター' },
+    { hiragana: 'ふろーらるりんぐだんさー', word: 'フローラルリングダンサー' },
     { hiragana: 'ぷらいまるこうぞうたい', word: 'プライマル構造体' },
+    { hiragana: 'せいがいじゅう', word: '聖骸獣' },
   ]
 } as DictBase;

@@ -29,5 +29,7 @@ export default {
     { hiragana: 'ちょうさいようごうどれいく', word: '兆載永劫ドレイク' },
     { hiragana: 'ちょうさいえいごうどれいく', word: '兆載永劫ドレイク' },
     { hiragana: 'しょうきのかみ', word: '正機の神' },
+    { hiragana: 'ふうしょくうぇねと', word: '風蝕ウェネト' },
+    { hiragana: 'うぇねと', word: 'ウェネト' },
   ]
 } as DictBase;
