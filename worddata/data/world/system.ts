@@ -9,6 +9,7 @@ export default {
     { hiragana: 'こぐのすふぃあ', word: 'COGNOSPHERE' },
     { hiragana: 'ほよばーす', word: 'HoYoverse' },
     { hiragana: 'ほよゔぁーす', word: 'HoYoverse' },
+    { hiragana: 'げんしん', word: '原神' },
     { hiragana: 'まじんにんむ', word: '魔神任務' },
     { hiragana: 'でんせつにんむ', word: '伝説任務' },
     { hiragana: 'せかいにんむ', word: '世界任務' },
