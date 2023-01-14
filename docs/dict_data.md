@@ -33,5 +33,5 @@
 |[ワールド/生き物](./dict/world/creature.md)|9|
 |[ワールド/エネミー](./dict/world/enemy.md)|35|
 |[ワールド/イベント](./dict/world/event.md)|11|
-|[ワールド/システム](./dict/world/system.md)|34|
+|[ワールド/システム](./dict/world/system.md)|35|
 |[ワールド/テイワット](./dict/world/teyvat.md)|46|
