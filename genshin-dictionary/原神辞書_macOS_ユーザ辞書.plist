@@ -1180,6 +1180,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>原神</string>
+  <key>shortcut</key>
+  <string>げんしん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>原石</string>
   <key>shortcut</key>
   <string>げんせき</string>
