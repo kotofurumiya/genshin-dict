@@ -4,9 +4,9 @@
 |---|--:|
 |[アイテム/聖遺物](./dict/item/artifact.md)|8|
 |[アイテム/食べ物](./dict/item/food.md)|2|
-|[アイテム/素材](./dict/item/material.md)|60|
+|[アイテム/素材](./dict/item/material.md)|66|
 |[アイテム/道具](./dict/item/tool.md)|8|
-|[アイテム/武器](./dict/item/weapon.md)|28|
+|[アイテム/武器](./dict/item/weapon.md)|35|
 |[人物/フォンテーヌ](./dict/person/fontaine.md)|3|
 |[人物/稲妻](./dict/person/inazuma.md)|44|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|3|
@@ -14,7 +14,7 @@
 |[人物/モンド](./dict/person/mondstadt.md)|48|
 |[人物/ナタ](./dict/person/natlan.md)|1|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
-|[人物/スメール](./dict/person/sumeru.md)|21|
+|[人物/スメール](./dict/person/sumeru.md)|36|
 |[人物/不明](./dict/person/unknown.md)|3|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|1|
@@ -25,13 +25,13 @@
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/ナタ](./dict/region/natlan.md)|1|
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
-|[地域/スメール](./dict/region/sumeru.md)|44|
+|[地域/スメール](./dict/region/sumeru.md)|61|
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
 |[ワールド/ボスエネミー](./dict/world/boss.md)|26|
 |[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|9|
-|[ワールド/エネミー](./dict/world/enemy.md)|35|
+|[ワールド/エネミー](./dict/world/enemy.md)|38|
 |[ワールド/イベント](./dict/world/event.md)|11|
 |[ワールド/システム](./dict/world/system.md)|35|
-|[ワールド/テイワット](./dict/world/teyvat.md)|46|
+|[ワールド/テイワット](./dict/world/teyvat.md)|47|

@@ -40,5 +40,8 @@ export default {
     { hiragana: 'ふろーらるりんぐだんさー', word: 'フローラルリングダンサー' },
     { hiragana: 'ぷらいまるこうぞうたい', word: 'プライマル構造体' },
     { hiragana: 'せいがいじゅう', word: '聖骸獣' },
+    { hiragana: 'せいがいあかわし', word: '聖骸赤鷲' },
+    { hiragana: 'せいがいさそり', word: '聖骸サソリ' },
+    { hiragana: 'せいがいとびへび', word: '聖骸トビヘビ' },
   ]
 } as DictBase;

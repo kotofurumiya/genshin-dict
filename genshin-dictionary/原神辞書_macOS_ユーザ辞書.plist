@@ -94,6 +94,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アフマル</string>
+  <key>shortcut</key>
+  <string>あふまる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>甘金島</string>
   <key>shortcut</key>
   <string>あまかねじま</string>
@@ -190,9 +196,27 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アル・アジフの砂</string>
+  <key>shortcut</key>
+  <string>あるあじふのすな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アル・インキダの行宮</string>
+  <key>shortcut</key>
+  <string>あるいんきだのあんぐう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アルカサルザライパレス</string>
   <key>shortcut</key>
   <string>あるかさるざらいぱれす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アル・スークル宮殿</string>
+  <key>shortcut</key>
+  <string>あるすーくるきゅうでん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -211,6 +235,18 @@
   <string>アルベド</string>
   <key>shortcut</key>
   <string>あるべど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アル・マジュジ峡谷</string>
+  <key>shortcut</key>
+  <string>あるまじゅじきょうこく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アル・ムアザン宮殿</string>
+  <key>shortcut</key>
+  <string>あるむあざんきゅうでん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -376,6 +412,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ウェネトトンネル</string>
+  <key>shortcut</key>
+  <string>うぇねととんねる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ウェルプ</string>
   <key>shortcut</key>
   <string>うぇるぷ</string>
@@ -433,6 +475,12 @@
   <string>影</string>
   <key>shortcut</key>
   <string>えい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>永遠のオアシス</string>
+  <key>shortcut</key>
+  <string>えいえんのおあしす</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -559,6 +607,18 @@
   <string>御伽材</string>
   <key>shortcut</key>
   <string>おとぎざい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>オルマズド</string>
+  <key>shortcut</key>
+  <string>おるまずど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>オルマズドシャー</string>
+  <key>shortcut</key>
+  <string>おるまずどしゃー</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -745,6 +805,12 @@
   <string>神里屋敷</string>
   <key>shortcut</key>
   <string>かみさとやしき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>神の碁盤</string>
+  <key>shortcut</key>
+  <string>かみのごばん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1138,6 +1204,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>蛍胞子</string>
+  <key>shortcut</key>
+  <string>けいほうし</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ゲイルハンター</string>
   <key>shortcut</key>
   <string>げいるはんたー</string>
@@ -1270,6 +1342,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>匣中滅龍</string>
+  <key>shortcut</key>
+  <string>こうちゅうめつりゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>匣中龍吟</string>
+  <key>shortcut</key>
+  <string>こうちゅうりゅうぎん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>降魔大聖</string>
   <key>shortcut</key>
   <string>こうまたいせい</string>
@@ -1336,6 +1420,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>「五大オアシス」の遺構</string>
+  <key>shortcut</key>
+  <string>ごだいおあしすのいこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>黒剣</string>
   <key>shortcut</key>
   <string>こっけん</string>
@@ -1396,6 +1486,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>サイフォス</string>
+  <key>shortcut</key>
+  <string>さいふぉす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>サウマラタ蓮</string>
   <key>shortcut</key>
   <string>さうまらたはす</string>
@@ -1420,6 +1516,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>砂脂蛹</string>
+  <key>shortcut</key>
+  <string>さしよう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>寒天の釘</string>
   <key>shortcut</key>
   <string>さむぞらのくぎ</string>
@@ -1438,9 +1540,27 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>サリブ</string>
+  <key>shortcut</key>
+  <string>さりぶ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>サリブ・ドーレイ</string>
+  <key>shortcut</key>
+  <string>さりぶどーれい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>サルバ</string>
   <key>shortcut</key>
   <string>さるば</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>三運河の地</string>
+  <key>shortcut</key>
+  <string>さんうんがのち</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1522,6 +1642,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>シェロイ</string>
+  <key>shortcut</key>
+  <string>しぇろい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>支援エリア</string>
   <key>shortcut</key>
   <string>しえんえりあ</string>
@@ -1567,6 +1693,12 @@
   <string>死兆星号</string>
   <key>shortcut</key>
   <string>しちょうせいごう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>失脚の谷</string>
+  <key>shortcut</key>
+  <string>しっきゃくのたに</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1684,6 +1816,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ジュラバド</string>
+  <key>shortcut</key>
+  <string>じゅらばど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>純水精霊</string>
   <key>shortcut</key>
   <string>じゅんすいせいれい</string>
@@ -1738,6 +1876,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>晶胞子</string>
+  <key>shortcut</key>
+  <string>しょうほうし</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>鍾離</string>
   <key>shortcut</key>
   <string>しょうり</string>
@@ -1747,6 +1891,12 @@
   <string>シリコロ山</string>
   <key>shortcut</key>
   <string>しりころやま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>シリン</string>
+  <key>shortcut</key>
+  <string>しりん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1828,9 +1978,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ジンニー</string>
+  <key>shortcut</key>
+  <string>じんにー</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>萃華材</string>
   <key>shortcut</key>
   <string>すいかざい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>衰菌核</string>
+  <key>shortcut</key>
+  <string>すいきんかく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1930,9 +2092,27 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>聖骸赤鷲</string>
+  <key>shortcut</key>
+  <string>せいがいあかわし</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>聖骸サソリ</string>
+  <key>shortcut</key>
+  <string>せいがいさそり</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>聖骸獣</string>
   <key>shortcut</key>
   <string>せいがいじゅう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>聖骸トビヘビ</string>
+  <key>shortcut</key>
+  <string>せいがいとびへび</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1969,6 +2149,12 @@
   <string>聖顕の鍵</string>
   <key>shortcut</key>
   <string>せいけんのかぎ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>精鋼の砂丘</string>
+  <key>shortcut</key>
+  <string>せいこうのさきゅう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2011,6 +2197,18 @@
   <string>世界任務</string>
   <key>shortcut</key>
   <string>せかいにんむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>赤角</string>
+  <key>shortcut</key>
+  <string>せきかく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>赤角石塵滅砕</string>
+  <key>shortcut</key>
+  <string>せきかくせきじんめっさい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2134,6 +2332,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>壮菌核</string>
+  <key>shortcut</key>
+  <string>そうきんかく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>草激化</string>
   <key>shortcut</key>
   <string>そうげきか</string>
@@ -2251,6 +2455,18 @@
   <string>たたら砂</string>
   <key>shortcut</key>
   <string>たたらすな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>タニット露営地</string>
+  <key>shortcut</key>
+  <string>たにっとろえいち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ダマーヴァンド山</string>
+  <key>shortcut</key>
+  <string>だまーゔぁんどさん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2536,6 +2752,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>トゥライトゥーラ</string>
+  <key>shortcut</key>
+  <string>とぅらいとぅーら</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ドゥラフ</string>
   <key>shortcut</key>
   <string>どぅらふ</string>
@@ -2545,6 +2767,12 @@
   <string>トーマ</string>
   <key>shortcut</key>
   <string>とーま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ドーレイ</string>
+  <key>shortcut</key>
+  <string>どーれい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2680,6 +2908,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>パーヴェズ</string>
+  <key>shortcut</key>
+  <string>ぱーゔぇず</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>パーヴェズラヴァン</string>
+  <key>shortcut</key>
+  <string>ぱーゔぇずらゔぁん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>バーバラ</string>
   <key>shortcut</key>
   <string>ばーばら</string>
@@ -2785,6 +3025,18 @@
   <string>半永久統制マトリックス</string>
   <key>shortcut</key>
   <string>はんえいきゅうとうせいまとりっくす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>磐岩</string>
+  <key>shortcut</key>
+  <string>ばんがん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>磐岩結緑</string>
+  <key>shortcut</key>
+  <string>ばんがんけつろく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2935,6 +3187,12 @@
   <string>胡桃</string>
   <key>shortcut</key>
   <string>ふーたお</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>風鷹剣</string>
+  <key>shortcut</key>
+  <string>ふうようけん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3178,6 +3436,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>マカイラ</string>
+  <key>shortcut</key>
+  <string>まかいら</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>魔偶剣鬼</string>
   <key>shortcut</key>
   <string>まぐうけんき</string>
@@ -3304,9 +3568,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>眠菌核</string>
+  <key>shortcut</key>
+  <string>みんきんかく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>珉林</string>
   <key>shortcut</key>
   <string>みんりん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ムザファール</string>
+  <key>shortcut</key>
+  <string>むざふぁーる</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3445,6 +3721,12 @@
   <string>曚雲神社</string>
   <key>shortcut</key>
   <string>もううんじんじゃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>亡者狭路</string>
+  <key>shortcut</key>
+  <string>もうじゃきょうろ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3733,6 +4015,18 @@
   <string>龍眠の谷</string>
   <key>shortcut</key>
   <string>りゅうみんのたに</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>リルパァール</string>
+  <key>shortcut</key>
+  <string>りるぱぁーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>リルファル</string>
+  <key>shortcut</key>
+  <string>りるふぁる</string>
 </dict>
 <dict>
   <key>phrase</key>

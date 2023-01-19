@@ -40,10 +40,16 @@ export default {
     { hiragana: 'せいきんちゅう', word: '聖金虫' },
     { hiragana: 'せきねん', word: '赤念' },
     { hiragana: 'せきねんのみ', word: '赤念の実' },
+    { hiragana: 'さしよう', word: '砂脂蛹' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
     { hiragana: 'じゅういきおうき', word: '獣域王器' },
+    { hiragana: 'けいほうし', word: '蛍胞子' },
+    { hiragana: 'しょうほうし', word: '晶胞子' },
+    { hiragana: 'すいきんかく', word: '衰菌核' },
+    { hiragana: 'みんきんかく', word: '眠菌核' },
+    { hiragana: 'そうきんかく', word: '壮菌核' },
 
     // 鉱物
     { hiragana: 'せきはく', word: '石珀' },

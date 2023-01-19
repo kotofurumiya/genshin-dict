@@ -51,6 +51,27 @@ export default {
     { hiragana: 'きんぐでしぇれとのれいびょう', word: 'キングデシェレトの霊廟' },
     { hiragana: 'ほういんのおか', word: '飽飲の丘' },
     { hiragana: 'ああるむら', word: 'アアル村' },
+
+    // 千尋の砂漠
     { hiragana: 'せんじんのさばく', word: '千尋の砂漠' },
+    { hiragana: 'せいこうのさきゅう', word: '精鋼の砂丘' },
+    { hiragana: 'あるあじふのすな', word: 'アル・アジフの砂' },
+    { hiragana: 'あるいんきだのあんぐう', word: 'アル・インキダの行宮' },
+    { hiragana: 'ごだいおあしすのいこう', word: '「五大オアシス」の遺構' },
+    { hiragana: 'もうじゃきょうろ', word: '亡者狭路' },
+    { hiragana: 'さんうんがのち', word: '三運河の地' },
+    { hiragana: 'だまーゔぁんどさん', word: 'ダマーヴァンド山' },
+    { hiragana: 'あるまじゅじきょうこく', word: 'アル・マジュジ峡谷' },
+    { hiragana: 'たにっとろえいち', word: 'タニット露営地' },
+    { hiragana: 'かみのごばん', word: '神の碁盤' },
+    { hiragana: 'しっきゃくのたに', word: '失脚の谷' },
+    { hiragana: 'あるすーくるきゅうでん', word: 'アル・スークル宮殿' },
+    { hiragana: 'あるむあざんきゅうでん', word: 'アル・ムアザン宮殿' },
+    { hiragana: 'うぇねととんねる', word: 'ウェネトトンネル' },
+    { hiragana: 'えいえんのおあしす', word: '永遠のオアシス' },
+    { hiragana: 'じゅらばど', word: 'ジュラバド' },
+
+    // 場所不明
+    { hiragana: 'とぅらいとぅーら', word: 'トゥライトゥーラ' },
   ]
 } as DictBase;
