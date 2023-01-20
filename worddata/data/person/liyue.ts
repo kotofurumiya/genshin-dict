@@ -35,6 +35,7 @@ export default {
     { hiragana: 'ふーたお', word: '胡桃' },
     { hiragana: 'えんひ', word: '煙緋' },
     { hiragana: 'よぉーよ', word: 'ヨォーヨ' },
+    { hiragana: 'ゆぇーぐぇい', word: '月桂' },
     { hiragana: 'あつこ', word: '竺子' },
     { hiragana: 'げんしょう', word: '言笑' },
     { hiragana: 'こうせつ', word: '江雪' },

@@ -3820,6 +3820,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>月桂</string>
+  <key>shortcut</key>
+  <string>ゆぇーぐぇい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>行秋</string>
   <key>shortcut</key>
   <string>ゆくあき</string>

@@ -10,7 +10,7 @@
 |[人物/フォンテーヌ](./dict/person/fontaine.md)|3|
 |[人物/稲妻](./dict/person/inazuma.md)|44|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|3|
-|[人物/璃月](./dict/person/liyue.md)|44|
+|[人物/璃月](./dict/person/liyue.md)|45|
 |[人物/モンド](./dict/person/mondstadt.md)|48|
 |[人物/ナタ](./dict/person/natlan.md)|1|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
