@@ -1126,6 +1126,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>国崩</string>
+  <key>shortcut</key>
+  <string>くにくずし</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>クラクサナリデビ</string>
   <key>shortcut</key>
   <string>くらくさなりでび</string>
@@ -1548,7 +1554,7 @@
   <key>phrase</key>
   <string>サリブ・ドーレイ</string>
   <key>shortcut</key>
-  <string>さりぶどーれい</string>
+  <string>さりぶ・どーれい</string>
 </dict>
 <dict>
   <key>phrase</key>
