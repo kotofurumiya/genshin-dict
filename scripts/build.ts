@@ -2,6 +2,7 @@ import fs from 'fs';
 import url from 'url';
 import path from 'path';
 import iconv from 'iconv-lite';
+import AdmZip from 'adm-zip';
 import { loadDictList } from '../worddata/index.js';
 import { toKotoeriDict, toMacUserDict, toWindowsImeDict } from './lib/platform.js';
 import { generateDocs } from './lib/docgen.js';
@@ -15,6 +16,14 @@ const distDir = path.join(dirname, '..', 'genshin-dictionary');
 const winDictFile = path.join(distDir, '原神辞書_Windows.txt');
 const macDictFile = path.join(distDir, '原神辞書_macOS.txt');
 const macUserDictFile = path.join(distDir, '原神辞書_macOS_ユーザ辞書.plist');
+const androidDictFile = path.join(distDir, '原神辞書_Android.zip');
+
+const writeZip = (writePath: string, content: string) => {
+  const admZip = new AdmZip();
+
+  admZip.addFile('genshin-dict-android.txt', Buffer.from(content, 'utf8'));
+  admZip.writeZip(writePath);
+};
 
 console.log('辞書データを構築しています...');
 
@@ -43,9 +52,11 @@ console.log('辞書データを構築しています...');
   fs.writeFileSync(winDictFile, iconv.encode(winIme, 'utf16'));
   fs.writeFileSync(macDictFile, kotoeri, 'utf8');
   fs.writeFileSync(macUserDictFile, plist, 'utf8');
+  writeZip(androidDictFile, winIme);
 
   console.log('完了しました');
   console.log(winDictFile);
   console.log(macDictFile);
   console.log(macUserDictFile);
+  console.log(androidDictFile);
 })();
