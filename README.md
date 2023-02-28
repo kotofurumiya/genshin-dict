@@ -16,14 +16,14 @@ https://github.com/kotofurumiya/genshin-dict/releases/latest
 
 ## 対応IME
 
-| IME             | 対応ファイル                     | 備考                           |
-|----------------:|:-------------------------------|:------------------------------|
-| Windows標準      | 原神辞書_Windows.txt            |                               |
-| macOSユーザ辞書   | 原神辞書_macOS_ユーザ辞書.plist   |                               |
-| macOS追加辞書     | 原神辞書_macOS.txt              |                               |
-| iPhoneユーザ辞書  |                                | mac経由で追加可能（後述）         |
-| Google日本語入力 (パソコン用) | 原神辞書_Windows.txt | macでもWindows用ファイルで追加可能 |
-| Gboard (Android用) | 原神辞書_Android.zip | zip ファイルは解凍せず、そのままインポートして下さい |
+| IME                           | 対応ファイル                    | 備考                                                 |
+|------------------------------:|:--------------------------------|:-----------------------------------------------------|
+| Windows標準                   | 原神辞書_Windows.txt            |                                                      |
+| macOSユーザ辞書               | 原神辞書_macOS_ユーザ辞書.plist |                                                      |
+| macOS追加辞書                 | 原神辞書_macOS.txt              |                                                      |
+| iPhoneユーザ辞書              |                                 | mac経由で追加可能（後述）                            |
+| Google日本語入力 (パソコン用) | 原神辞書_Windows.txt            | macでもWindows用ファイルで追加可能                   |
+| Gboard (Android用)            | 原神辞書_Android.zip            | zip ファイルは解凍せず、そのままインポートして下さい |
 
 ## 利用方法（Windows）
 
