@@ -22,7 +22,7 @@ https://github.com/kotofurumiya/genshin-dict/releases/latest
 | macOSユーザ辞書   | 原神辞書_macOS_ユーザ辞書.plist   |                               |
 | macOS追加辞書     | 原神辞書_macOS.txt              |                               |
 | iPhoneユーザ辞書  |                                | mac経由で追加可能（後述）         |
-| Google IME      | 原神辞書_Windows.txt            | macでもWindows用ファイルで追加可能 |
+| Google日本語入力 (パソコン用) | 原神辞書_Windows.txt | macでもWindows用ファイルで追加可能 |
 
 ## 利用方法（Windows）
 
