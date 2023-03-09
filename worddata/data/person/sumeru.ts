@@ -26,6 +26,8 @@ export default {
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'はまーるっかでゔぁーた', word: 'マハールッカデヴァータ' },
+    { hiragana: 'どにあざーど', word: 'ドニアザード' },
+    { hiragana: 'ふーまい', word: 'フーマイ' },
     { hiragana: 'かかた', word: 'カカタ' },
     { hiragana: 'りるぱぁーる', word: 'リルパァール' },
     { hiragana: 'りるふぁる', word: 'リルファル', note: '文献に残っているリルパァールの表記' },
