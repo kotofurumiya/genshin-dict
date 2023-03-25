@@ -25,7 +25,7 @@ export default {
     { hiragana: 'ふぁるざん', word: 'ファルザン' },
 
     // ゲーム中や漫画に登場するキャラクター
-    { hiragana: 'はまーるっかでゔぁーた', word: 'マハールッカデヴァータ' },
+    { hiragana: 'まはーるっかでゔぁーた', word: 'マハールッカデヴァータ' },
     { hiragana: 'どにあざーど', word: 'ドニアザード' },
     { hiragana: 'ふーまい', word: 'フーマイ' },
     { hiragana: 'かかた', word: 'カカタ' },
