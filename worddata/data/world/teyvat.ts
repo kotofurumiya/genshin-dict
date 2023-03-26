@@ -7,6 +7,7 @@ export default {
   items: [
     // 世界
     { hiragana: 'しちてんじんぞう', word: '七天神像' },
+    { hiragana: 'しちしん', word: '七神' },
     { hiragana: 'ちれいだん', word: '地霊壇' },
     { hiragana: 'せんれい', word: '仙霊' },
     { hiragana: 'かみのめ', word: '神の目' },
@@ -19,6 +20,7 @@ export default {
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
     { hiragana: 'かっつぇれいん', word: 'カッツェレイン', note: 'ドゥラフやディオナの一族' },
+    { hiragana: 'しふうしゅご', word: '四風守護' },
 
     // 璃月
     { hiragana: 'ここなっつひつじ', word: 'ココナッツヒツジ' },
