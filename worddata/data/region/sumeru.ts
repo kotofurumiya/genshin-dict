@@ -71,6 +71,9 @@ export default {
     { hiragana: 'えいえんのおあしす', word: '永遠のオアシス' },
     { hiragana: 'じゅらばど', word: 'ジュラバド' },
 
+    // 蒼漠の囿土
+    { hiragana: 'そうばくのゆうど', word: '蒼漠の囿土' },
+
     // 場所不明
     { hiragana: 'とぅらいとぅーら', word: 'トゥライトゥーラ' },
   ]

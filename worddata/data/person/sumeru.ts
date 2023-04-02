@@ -21,6 +21,7 @@ export default {
     { hiragana: 'きゃんでぃす', word: 'キャンディス' },
     { hiragana: 'れいら', word: 'レイラ' },
     { hiragana: 'かーゔぇ', word: 'カーヴェ' },
+    { hiragana: 'めらっく', word: 'メラック', note: 'カーヴェの鞄' },
     { hiragana: 'ほうろうしゃ', word: '放浪者' },
     { hiragana: 'ふぁるざん', word: 'ファルザン' },
 

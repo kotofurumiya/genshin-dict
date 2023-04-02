@@ -14,7 +14,7 @@
 |[人物/モンド](./dict/person/mondstadt.md)|48|
 |[人物/ナタ](./dict/person/natlan.md)|1|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
-|[人物/スメール](./dict/person/sumeru.md)|36|
+|[人物/スメール](./dict/person/sumeru.md)|39|
 |[人物/不明](./dict/person/unknown.md)|3|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|1|
@@ -25,13 +25,13 @@
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/ナタ](./dict/region/natlan.md)|1|
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
-|[地域/スメール](./dict/region/sumeru.md)|61|
+|[地域/スメール](./dict/region/sumeru.md)|62|
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
-|[ワールド/ボスエネミー](./dict/world/boss.md)|26|
+|[ワールド/ボスエネミー](./dict/world/boss.md)|27|
 |[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|9|
 |[ワールド/エネミー](./dict/world/enemy.md)|38|
 |[ワールド/イベント](./dict/world/event.md)|11|
 |[ワールド/システム](./dict/world/system.md)|35|
-|[ワールド/テイワット](./dict/world/teyvat.md)|47|
+|[ワールド/テイワット](./dict/world/teyvat.md)|49|

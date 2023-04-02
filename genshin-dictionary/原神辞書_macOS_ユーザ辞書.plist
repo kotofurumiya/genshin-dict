@@ -100,6 +100,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アペプ</string>
+  <key>shortcut</key>
+  <string>あぺぷ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>甘金島</string>
   <key>shortcut</key>
   <string>あまかねじま</string>
@@ -1684,6 +1690,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>七神</string>
+  <key>shortcut</key>
+  <string>しちしん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>七聖召喚</string>
   <key>shortcut</key>
   <string>しちせいしょうかん</string>
@@ -1723,6 +1735,12 @@
   <string>四風原典</string>
   <key>shortcut</key>
   <string>しふうげんてん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>四風守護</string>
+  <key>shortcut</key>
+  <string>しふうしゅご</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2374,6 +2392,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>蒼漠の囿土</string>
+  <key>shortcut</key>
+  <string>そうばくのゆうど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>装備カード</string>
   <key>shortcut</key>
   <string>そうびかーど</string>
@@ -2812,6 +2836,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ドニアザード</string>
+  <key>shortcut</key>
+  <string>どにあざーど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>トライステート</string>
   <key>shortcut</key>
   <string>とらいすてーと</string>
@@ -2995,12 +3025,6 @@
   <string>パネース</string>
   <key>shortcut</key>
   <string>ぱねーす</string>
-</dict>
-<dict>
-  <key>phrase</key>
-  <string>マハールッカデヴァータ</string>
-  <key>shortcut</key>
-  <string>はまーるっかでゔぁーた</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3193,6 +3217,12 @@
   <string>胡桃</string>
   <key>shortcut</key>
   <string>ふーたお</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フーマイ</string>
+  <key>shortcut</key>
+  <string>ふーまい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3508,6 +3538,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>マハールッカデヴァータ</string>
+  <key>shortcut</key>
+  <string>まはーるっかでゔぁーた</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>マラーナ</string>
   <key>shortcut</key>
   <string>まらーな</string>
@@ -3721,6 +3757,12 @@
   <string>明論派</string>
   <key>shortcut</key>
   <string>めいろんは</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>メラック</string>
+  <key>shortcut</key>
+  <string>めらっく</string>
 </dict>
 <dict>
   <key>phrase</key>
