@@ -41,6 +41,7 @@ export default {
     { hiragana: 'せきねん', word: '赤念' },
     { hiragana: 'せきねんのみ', word: '赤念の実' },
     { hiragana: 'さしよう', word: '砂脂蛹' },
+    { hiragana: 'とうれいか', word: '悼霊花' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
@@ -56,12 +57,14 @@ export default {
     { hiragana: 'よどまりいし', word: '夜泊石' },
     { hiragana: 'せいぎんこうせき', word: '星銀鉱石' },
     { hiragana: 'ましょう', word: '魔晶' },
+    { hiragana: 'さんぐいと', word: 'サングイト' },
 
     // 強化用
     { hiragana: 'まこう', word: '魔鉱' },
     { hiragana: 'きせい', word: '祈聖' },
     { hiragana: 'きせいのおいる', word: '祈聖のオイル' },
     { hiragana: 'きせいのえきす', word: '祈聖のエキス' },
+    { hiragana: 'ちえのかんむり', word: '知恵の冠' },
 
     // 木材
     { hiragana: 'すいこうざい', word: '垂香材' },

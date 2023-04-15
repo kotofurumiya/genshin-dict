@@ -1,6 +1,6 @@
 import path from 'node:path';
 import url from "node:url";
-import glob from 'glob';
+import { glob } from 'glob';
 import { Dict, DictBase } from './dict';
 
 const filename = url.fileURLToPath(import.meta.url);

@@ -13,5 +13,6 @@ export default {
     { hiragana: 'げんしょのあのかた', word: '原初のあの方' },
     { hiragana: 'ぱねーす', word: 'パネース' },
     { hiragana: 'いすたろと', word: 'イスタロト' },
+    { hiragana: 'にーべるんげん', word: 'ニーベルンゲン' },
   ]
 } as DictBase;

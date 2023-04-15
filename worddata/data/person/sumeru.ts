@@ -32,6 +32,9 @@ export default {
     { hiragana: 'かかた', word: 'カカタ' },
     { hiragana: 'りるぱぁーる', word: 'リルパァール' },
     { hiragana: 'りるふぁる', word: 'リルファル', note: '文献に残っているリルパァールの表記' },
+    { hiragana: 'あぺぷ', word: 'アペプ' },
+    { hiragana: 'ずるゔぁーん', word: 'ズルヴァーン' },
+    { hiragana: 'そるしゅ', word: 'ソルシュ' },
 
     // 主に歴史・文献に登場
     { hiragana: 'きんぐでしぇれと', word: 'キングデシェレト' },
@@ -49,5 +52,7 @@ export default {
     { hiragana: 'どーれい', word: 'ドーレイ' },
     { hiragana: 'さいふぉす', word: 'サイフォス' },
     { hiragana: 'まかいら', word: 'マカイラ' },
+    { hiragana: 'かれい', word: '花霊' },
+    { hiragana: 'しーむるぐ', word: 'シームルグ' },
   ]
 } as DictBase;

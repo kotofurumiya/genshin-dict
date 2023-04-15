@@ -31,6 +31,7 @@ export default {
     { hiragana: 'しょうきのかみ', word: '正機の神' },
     { hiragana: 'ふうしょくうぇねと', word: '風蝕ウェネト' },
     { hiragana: 'うぇねと', word: 'ウェネト' },
-    { hiragana: 'あぺぷ', word: 'アペプ' },
+    { hiragana: 'しんざいのしんれいしゃ', word: '深罪の浸礼者' },
+    { hiragana: 'あぺぷのおあしすしゅごしゃ', word: 'アペプのオアシス守護者' },
   ]
 } as DictBase;

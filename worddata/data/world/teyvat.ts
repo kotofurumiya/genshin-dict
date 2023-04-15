@@ -16,6 +16,7 @@ export default {
     { hiragana: 'いんていわっと', word: 'インテイワット' },
     { hiragana: 'こくさい', word: '黒災' },
     { hiragana: 'こうりんしゃ', word: '降臨者' },
+    { hiragana: 'あぞすぶっしつ', word: 'アゾス物質' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -60,6 +61,18 @@ export default {
     { hiragana: 'ちろんは', word: '知論派' },
     { hiragana: 'かんづめちしき', word: '缶詰知識' },
     { hiragana: 'じんにー', word: 'ジンニー' },
+    { hiragana: 'ながるじゅなだん', word: 'ナガルジュナ団' },
+    { hiragana: 'すけぷてぃっくだん', word: 'スケプティック団' },
+    { hiragana: 'れいこう', word: '霊光' },
+    { hiragana: 'れいこうぜっしょう', word: '霊光絶唱' },
+    { hiragana: 'えっさんしゅ', word: '謁賛主' },
+    { hiragana: 'かんろかっすい', word: '甘露活水' },
+    { hiragana: 'こりゅばんてす', word: 'コリュバンテス' },
+    { hiragana: 'うどぅんばら', word: 'ウドゥンバラ' },
+    { hiragana: 'ばんしゅぼじゅ', word: '万種母樹' },
+    { hiragana: 'れいこくぎ', word: '霊谷木' },
+    { hiragana: 'れいこくぼく', word: '霊谷木' },
+    { hiragana: 'じょうこうのはね', word: '浄光の羽根' },
 
     // ナタ
     { hiragana: 'むらたじん', word: 'ムラタ人' },
