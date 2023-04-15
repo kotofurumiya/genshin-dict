@@ -2,7 +2,7 @@
 
 |カテゴリ|登録数|
 |---|--:|
-|[ワールド/テイワット](./dict/world/teyvat.md)|62|
+|[ワールド/テイワット](./dict/world/teyvat.md)|63|
 |[ワールド/システム](./dict/world/system.md)|35|
 |[ワールド/イベント](./dict/world/event.md)|11|
 |[ワールド/エネミー](./dict/world/enemy.md)|53|
@@ -17,18 +17,18 @@
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/璃月](./dict/region/liyue.md)|36|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
-|[地域/稲妻](./dict/region/inazuma.md)|51|
+|[地域/稲妻](./dict/region/inazuma.md)|52|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|1|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[人物/不明](./dict/person/unknown.md)|4|
-|[人物/スメール](./dict/person/sumeru.md)|44|
+|[人物/スメール](./dict/person/sumeru.md)|46|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|4|
 |[人物/ナタ](./dict/person/natlan.md)|1|
 |[人物/モンド](./dict/person/mondstadt.md)|48|
 |[人物/璃月](./dict/person/liyue.md)|45|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|3|
-|[人物/稲妻](./dict/person/inazuma.md)|45|
+|[人物/稲妻](./dict/person/inazuma.md)|46|
 |[人物/フォンテーヌ](./dict/person/fontaine.md)|3|
 |[アイテム/武器](./dict/item/weapon.md)|35|
 |[アイテム/道具](./dict/item/tool.md)|8|

@@ -18,6 +18,7 @@ export default {
     { hiragana: 'あまかねじま', word: '甘金島' },
     { hiragana: 'いなずまじょう', word: '稲妻城' },
     { hiragana: 'こもれちゃや', word: '木漏茶屋' },
+    { hiragana: 'やえどう', word: '八重堂' },
 
     // 神無塚
     { hiragana: 'かんなづか', word: '神無塚' },

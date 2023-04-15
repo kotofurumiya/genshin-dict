@@ -40,6 +40,8 @@ export default {
     { hiragana: 'きんぐでしぇれと', word: 'キングデシェレト' },
     { hiragana: 'あふまる', word: 'アフマル' },
     { hiragana: 'かしん', word: '花神' },
+    { hiragana: 'なぶまりかった', word: 'ナブ・マリカッタ' },
+    { hiragana: 'なぶ・まりかった', word: 'ナブ・マリカッタ' },
     { hiragana: 'しぇろい', word: 'シェロイ' },
     { hiragana: 'しりん', word: 'シリン' },
     { hiragana: 'ぱーゔぇず', word: 'パーヴェズ' },

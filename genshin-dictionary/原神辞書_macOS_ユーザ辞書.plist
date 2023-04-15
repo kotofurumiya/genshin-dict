@@ -1156,6 +1156,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>綺良々</string>
+  <key>shortcut</key>
+  <string>きらら</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>霧切の廻光</string>
   <key>shortcut</key>
   <string>きりぎりのかいこう</string>
@@ -1579,6 +1585,12 @@
   <string>護法夜叉</string>
   <key>shortcut</key>
   <string>ごほうやしゃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>狛荷屋</string>
+  <key>shortcut</key>
+  <string>こまにや</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3154,6 +3166,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ナブ・マリカッタ</string>
+  <key>shortcut</key>
+  <string>なぶ・まりかった</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ナブ・マリカッタ</string>
+  <key>shortcut</key>
+  <string>なぶまりかった</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>鳴神大社</string>
   <key>shortcut</key>
   <string>なるかみおおやしろ</string>
@@ -4123,6 +4147,12 @@
   <string>モンド城</string>
   <key>shortcut</key>
   <string>もんどじょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>八重堂</string>
+  <key>shortcut</key>
+  <string>やえどう</string>
 </dict>
 <dict>
   <key>phrase</key>

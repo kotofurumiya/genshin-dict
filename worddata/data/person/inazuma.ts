@@ -33,6 +33,7 @@ export default {
     { hiragana: 'あらたきいっと', word: '荒瀧一斗' },
     { hiragana: 'くきしのぶ', word: '久岐忍' },
     { hiragana: 'くき', word: '久岐' },
+    { hiragana: 'きらら', word: '綺良々' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'はなちるさと', word: '花散里' },

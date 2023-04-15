@@ -37,6 +37,7 @@ export default {
     { hiragana: 'あめのまりゅう', word: '天目流' },
     { hiragana: 'いっしんでん', word: '一心伝' },
     { hiragana: 'しんおう', word: '神櫻' },
+    { hiragana: 'こまにや', word: '狛荷屋' },
 
     // スメール
     { hiragana: 'きょうれいいん', word: '教令院' },
