@@ -2,7 +2,7 @@
 
 |カテゴリ|登録数|
 |---|--:|
-|[ワールド/テイワット](./dict/world/teyvat.md)|63|
+|[ワールド/テイワット](./dict/world/teyvat.md)|65|
 |[ワールド/システム](./dict/world/system.md)|35|
 |[ワールド/イベント](./dict/world/event.md)|11|
 |[ワールド/エネミー](./dict/world/enemy.md)|53|
@@ -29,7 +29,7 @@
 |[人物/璃月](./dict/person/liyue.md)|45|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|3|
 |[人物/稲妻](./dict/person/inazuma.md)|46|
-|[人物/フォンテーヌ](./dict/person/fontaine.md)|3|
+|[人物/フォンテーヌ](./dict/person/fontaine.md)|4|
 |[アイテム/武器](./dict/item/weapon.md)|35|
 |[アイテム/道具](./dict/item/tool.md)|8|
 |[アイテム/素材](./dict/item/material.md)|69|

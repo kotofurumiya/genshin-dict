@@ -9,6 +9,7 @@ export default {
     { hiragana: 'りね', word: 'リネ' },
     { hiragana: 'りねっと', word: 'リネット' },
     { hiragana: 'ふぉかろるす', word: 'フォカロルス' },
+    { hiragana: 'しゃるろっと', word: 'シャルロット' },
 
     // ゲーム中や漫画に登場するキャラクター
 

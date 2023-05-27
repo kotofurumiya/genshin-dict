@@ -1972,6 +1972,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>シャルロット</string>
+  <key>shortcut</key>
+  <string>しゃるろっと</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>香菱</string>
   <key>shortcut</key>
   <string>しゃんりん</string>
@@ -2245,6 +2251,12 @@
   <string>スケプティック団</string>
   <key>shortcut</key>
   <string>すけぷてぃっくだん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>スチームバード新聞社</string>
+  <key>shortcut</key>
+  <string>すちーむばーどしんぶんしゃ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4351,6 +4363,12 @@
   <string>璃月港</string>
   <key>shortcut</key>
   <string>りーゆえこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>璃月七星</string>
+  <key>shortcut</key>
+  <string>りーゆえしちせい</string>
 </dict>
 <dict>
   <key>phrase</key>

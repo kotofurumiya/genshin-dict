@@ -27,16 +27,17 @@ export default {
     { hiragana: 'ここなっつひつじ', word: 'ココナッツヒツジ' },
     { hiragana: 'せんがん', word: '千岩' },
     { hiragana: 'せんがんぐん', word: '千岩軍' },
+    { hiragana: 'りーゆえしちせい', word: '璃月七星' },
     { hiragana: 'そうせんぎしき', word: '送仙儀式' },
     { hiragana: 'うんかんしゃ', word: '雲翰社' },
     { hiragana: 'こかは', word: '古華派' },
-    { hiragana: 'しゅうまつばん', word: '終末番' },
 
     // 稲妻
     { hiragana: 'あめのま', word: '天目' },
     { hiragana: 'あめのまりゅう', word: '天目流' },
     { hiragana: 'いっしんでん', word: '一心伝' },
     { hiragana: 'しんおう', word: '神櫻' },
+    { hiragana: 'しゅうまつばん', word: '終末番' },
     { hiragana: 'こまにや', word: '狛荷屋' },
 
     // スメール
@@ -74,6 +75,9 @@ export default {
     { hiragana: 'れいこくぎ', word: '霊谷木' },
     { hiragana: 'れいこくぼく', word: '霊谷木' },
     { hiragana: 'じょうこうのはね', word: '浄光の羽根' },
+
+    // フォンテーヌ
+    { hiragana: 'すちーむばーどしんぶんしゃ', word: 'スチームバード新聞社' },
 
     // ナタ
     { hiragana: 'むらたじん', word: 'ムラタ人' },
