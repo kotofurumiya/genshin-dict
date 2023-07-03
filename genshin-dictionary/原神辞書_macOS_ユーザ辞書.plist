@@ -1312,6 +1312,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>クロリンデ</string>
+  <key>shortcut</key>
+  <string>くろりんで</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>群玉閣</string>
   <key>shortcut</key>
   <string>ぐんぎょくかく</string>
@@ -1849,6 +1855,12 @@
   <string>鹿野院平蔵</string>
   <key>shortcut</key>
   <string>しかのいんへいぞう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>シグウィン</string>
+  <key>shortcut</key>
+  <string>しぐうぃん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3142,6 +3154,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ナヴィア</string>
+  <key>shortcut</key>
+  <string>なゔぃあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ナガルジュナ団</string>
   <key>shortcut</key>
   <string>ながるじゅなだん</string>
@@ -3223,6 +3241,12 @@
   <string>丹羽桂木</string>
   <key>shortcut</key>
   <string>にわかつらぎ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヌヴィレット</string>
+  <key>shortcut</key>
+  <string>ぬゔぃれっと</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3643,6 +3667,18 @@
   <string>フライム</string>
   <key>shortcut</key>
   <string>ふらいむ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フリーナ</string>
+  <key>shortcut</key>
+  <string>ふりーな</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フレミネ</string>
+  <key>shortcut</key>
+  <string>ふれみね</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4375,6 +4411,12 @@
   <string>リヴィングストン</string>
   <key>shortcut</key>
   <string>りゔぃんぐすとん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>リオセスリ</string>
+  <key>shortcut</key>
+  <string>りおせすり</string>
 </dict>
 <dict>
   <key>phrase</key>
