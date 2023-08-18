@@ -33,5 +33,7 @@ export default {
     { hiragana: 'うぇねと', word: 'ウェネト' },
     { hiragana: 'しんざいのしんれいしゃ', word: '深罪の浸礼者' },
     { hiragana: 'あぺぷのおあしすしゅごしゃ', word: 'アペプのオアシス守護者' },
+    { hiragana: 'ひょうふうくみきょく', word: '氷風組曲' },
+    { hiragana: 'てっこうようえんていおう', word: '鉄甲熔炎帝王' },
   ]
 } as DictBase;

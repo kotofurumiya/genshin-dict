@@ -17,10 +17,11 @@ export default {
     { hiragana: 'りおせすり', word: 'リオセスリ' },
     { hiragana: 'ぬゔぃれっと', word: 'ヌヴィレット' },
     { hiragana: 'ふりーな', word: 'フリーナ' },
+    { hiragana: 'えげりあ', word: 'エゲリア' },
 
     // ゲーム中や漫画に登場するキャラクター
 
     // 主に歴史・文献に登場
-    
+    { hiragana: 'えりなす', word: 'エリナス' },
   ]
 } as DictBase;

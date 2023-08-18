@@ -42,6 +42,13 @@ export default {
     { hiragana: 'せきねんのみ', word: '赤念の実' },
     { hiragana: 'さしよう', word: '砂脂蛹' },
     { hiragana: 'とうれいか', word: '悼霊花' },
+    { hiragana: 'ぷりゅいろーたす', word: 'プリュイロータス' },
+    { hiragana: 'ばぶるおれんじ', word: 'バブルオレンジ' },
+    { hiragana: 'まるこっとそう', word: 'マルコット草' },
+    { hiragana: 'たいだるが', word: 'タイダルガ' },
+    { hiragana: 'ろまりたいむふらわー', word: 'ロマリタイムフラワー' },
+    { hiragana: 'るみどぅーすべる', word: 'ルミドゥースベル' },
+    { hiragana: 'れいんぼーろーず', word: 'レインボーローズ' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
@@ -58,6 +65,8 @@ export default {
     { hiragana: 'せいぎんこうせき', word: '星銀鉱石' },
     { hiragana: 'ましょう', word: '魔晶' },
     { hiragana: 'さんぐいと', word: 'サングイト' },
+    { hiragana: 'すいぎょうしょう', word: '萃凝晶' },
+    { hiragana: 'そうしょうら', word: '蒼晶螺' },
 
     // 強化用
     { hiragana: 'まこう', word: '魔鉱' },

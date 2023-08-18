@@ -18,5 +18,6 @@ export default {
     { hiragana: 'きのしし', word: 'キノシシ' },
     { hiragana: 'めいさいちょう', word: '暝彩鳥' },
     { hiragana: 'てんとがめ', word: 'テントガメ' },
+    { hiragana: 'ぷくぷくじゅう', word: 'プクプク獣' },
   ]
 } as DictBase;

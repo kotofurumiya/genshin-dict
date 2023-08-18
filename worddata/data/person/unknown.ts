@@ -14,5 +14,6 @@ export default {
     { hiragana: 'ぱねーす', word: 'パネース' },
     { hiragana: 'いすたろと', word: 'イスタロト' },
     { hiragana: 'にーべるんげん', word: 'ニーベルンゲン' },
+    { hiragana: 'すかーく', word: 'スカーク' },
   ]
 } as DictBase;

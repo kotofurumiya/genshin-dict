@@ -34,6 +34,7 @@ export default {
     { hiragana: 'くきしのぶ', word: '久岐忍' },
     { hiragana: 'くき', word: '久岐' },
     { hiragana: 'きらら', word: '綺良々' },
+    { hiragana: 'ちおり', word: '千織' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'はなちるさと', word: '花散里' },
