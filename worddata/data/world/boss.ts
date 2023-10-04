@@ -35,5 +35,7 @@ export default {
     { hiragana: 'あぺぷのおあしすしゅごしゃ', word: 'アペプのオアシス守護者' },
     { hiragana: 'ひょうふうくみきょく', word: '氷風組曲' },
     { hiragana: 'てっこうようえんていおう', word: '鉄甲熔炎帝王' },
+    { hiragana: 'じっけんようふぃーるどせいせいそうち', word: '実験用フィールド生成装置' },
+    { hiragana: 'せんねんしんじゅのかいしゅん', word: '千年真珠の海駿' },
   ]
 } as DictBase;

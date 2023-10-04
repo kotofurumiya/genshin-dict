@@ -13,5 +13,6 @@ export default {
     { hiragana: 'いむのようばい', word: '異夢の溶媒' },
     { hiragana: 'せんようぎょくはく', word: '旋曜玉帛' },
     { hiragana: 'おうじゅのかご', word: '王樹の加護' },
+    { hiragana: 'しょうちょうとらっぷそうち', word: '晶蝶トラップ装置' },
   ]
 } as DictBase;

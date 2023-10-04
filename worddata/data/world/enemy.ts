@@ -75,5 +75,6 @@ export default {
     { hiragana: 'あわあわたつのこ', word: 'アワアワタツノコ' },
     { hiragana: 'まんまるたこ', word: 'マンマルタコ' },
     { hiragana: 'あんじぇりっくあぷりしあ', word: 'アンジェリックアプリシア' },
+    { hiragana: 'ちぇるびっくあぷりしあ', word: 'チェルビックアプリシア' },
   ]
 } as DictBase;

@@ -23,5 +23,13 @@ export default {
 
     // 主に歴史・文献に登場
     { hiragana: 'えりなす', word: 'エリナス' },
+    { hiragana: 'るね', word: 'ルネ' },
+    { hiragana: 'なるつぃっせんくろいつ', word: 'ナルツィッセンクロイツ' },
+    { hiragana: 'まりあん', word: 'マリアン' },
+    { hiragana: 'ぎよたん', word: 'ギヨタン' },
+    { hiragana: 'かーたー', word: 'カーター' },
+    { hiragana: 'じぇいこぶ', word: 'ジェイコブ' },
+    { hiragana: 'りりす', word: 'リリス' },
+    { hiragana: 'せいもあ', word: 'セイモア' },
   ]
 } as DictBase;

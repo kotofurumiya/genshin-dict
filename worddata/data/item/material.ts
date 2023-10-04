@@ -49,6 +49,8 @@ export default {
     { hiragana: 'ろまりたいむふらわー', word: 'ロマリタイムフラワー' },
     { hiragana: 'るみどぅーすべる', word: 'ルミドゥースベル' },
     { hiragana: 'れいんぼーろーず', word: 'レインボーローズ' },
+    { hiragana: 'るえとわーる', word: 'ルエトワール' },
+    { hiragana: 'たんそくゆにっと', word: '探測ユニット' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
@@ -58,6 +60,8 @@ export default {
     { hiragana: 'すいきんかく', word: '衰菌核' },
     { hiragana: 'みんきんかく', word: '眠菌核' },
     { hiragana: 'そうきんかく', word: '壮菌核' },
+    { hiragana: 'とぅーるびよんそうち', word: 'トゥールビヨン装置' },
+    { hiragana: 'げんかいしゅんのつの', word: '原海駿の角' },
 
     // 鉱物
     { hiragana: 'せきはく', word: '石珀' },

@@ -9,8 +9,16 @@ export default {
     { hiragana: 'たるたりや', word: 'タルタリヤ' },
     { hiragana: 'あやっくす', word: 'アヤックス', note: 'タルタリヤの本名' },
     { hiragana: 'すからましゅ', word: 'スカラマシュ' },
+
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'しにょーら', word: 'シニョーラ' },
+    { hiragana: 'ぴえろ', word: 'ピエロ' },
+    { hiragana: 'ころんびーな', word: 'コロンビーナ' },
+    { hiragana: 'ぷるちねっら', word: 'プルチネッラ' },
+    { hiragana: 'あるれっきーの', word: 'アルレッキーノ' },
+    { hiragana: 'さんどろーね', word: 'サンドローネ' },
+    { hiragana: 'かぴたーの', word: 'カピターノ' },
+    { hiragana: 'どっとーれ', word: 'ドットーレ' },
     
     // 主に歴史・文献に登場
   ]

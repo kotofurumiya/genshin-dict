@@ -96,6 +96,7 @@ export default {
     { hiragana: 'ふぉるとぅな', word: 'フォルトゥナ' },
     { hiragana: 'せかいしき', word: '世界式' },
     { hiragana: 'ゆしさいていかーでぃなる', word: '諭示裁定カーディナル' },
+    { hiragana: 'ゆしき', word: '諭示機', note: '諭示裁定カーディナルの俗称' },
     { hiragana: 'りっしょうこんごうえねるぎー', word: '律償混合エネルギー' },
     { hiragana: 'げんしたいかい', word: '原始胎海' },
     { hiragana: 'げんしたいかいのみず', word: '原始胎海の水' },
@@ -106,6 +107,7 @@ export default {
     { hiragana: 'ぷねうむしあついしょうめつえねるぎー', word: 'プネウムシア対消滅エネルギー' },
     { hiragana: 'くろっくわーく・ましなりー', word: 'クロックワーク・マシナリー' },
     { hiragana: 'くろっくわーくましなりー', word: 'クロックワーク・マシナリー' },
+    { hiragana: 'とくべつきょかけん', word: '特別許可券' },
 
     // ナタ
     { hiragana: 'むらたじん', word: 'ムラタ人' },
