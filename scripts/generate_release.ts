@@ -1,14 +1,22 @@
 import { writeFileSync } from 'node:fs';
 import { execSync } from 'node:child_process';
 
-// diff出す
+// gitプロジェクトのルートディレクトリを見つける
 const gitRootCmd = 'git rev-parse --show-superproject-working-tree --show-toplevel';
 const gitRoot = execSync(gitRootCmd).toString('utf8').trim();
-const diffCmd = `git diff HEAD^ -- "${gitRoot}/genshin-dictionary/原神辞書_macOS.txt"`;
+
+// 最新のtagとひとつ前のtagを見つける
+const gitLatestTagsCmd = `git tag -l --sort -authordate | head -n2`;
+const gitLatestTags = execSync(gitLatestTagsCmd).toString('utf8').split('\n');
+const prevTag = gitLatestTags.at(1);
+const currentTag = gitLatestTags.at(0);
+
+// 前のtagから今のtagまでのdiffを取る
+const diffCmd = `git diff ${prevTag}..${currentTag} -- "${gitRoot}/genshin-dictionary/原神辞書_macOS.txt"`;
 const diff = execSync(diffCmd).toString('utf8');
 const diffLines = diff.split('\n');
 
-// 追加分単語テーブルを作る
+// diffから追加単語テーブルを作る
 const added = diffLines.filter((d) => d.startsWith('+') && !d.startsWith('+++'));
 const addedSplit = added.map((a) => a.slice(1).replace(/"/g, '').split(','));
 
