@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 18
@@ -17,11 +17,13 @@ jobs:
       - run: npm run build
       - name: Zip files
         run: zip -r genshin-dictionary.zip genshin-dictionary
+      - name: Generate Release Note
+        run: node --loader ts-node/esm scripts/generate_release.ts
       - name: Release
         uses: softprops/action-gh-release@v1
         with:
           files: genshin-dictionary.zip
-          body_path: .github/workflows/RELEASE_NOTE.md
+          body_path: ./RELEASE_NOTE_GENERATED.md
           fail_on_unmatched_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
