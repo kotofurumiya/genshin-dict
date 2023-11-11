@@ -8,12 +8,20 @@ export default {
     // 実装済み・実装予定プレイアブル関係
     
     // ゲーム中や漫画に登場するキャラクター
+    { hiragana: 'すかーく', word: 'スカーク' },
+    { hiragana: 'するとろっち', word: 'スルトロッチ' },
+    { hiragana: 'ゔぇずるふぇるにる', word: 'ヴェズルフェルニル' },
+    { hiragana: 'れいんどっと', word: 'レインドット' },
+    { hiragana: 'ばーべろす', word: 'バーベロス' },
+    { hiragana: 'あすとろまんさー・ばーべろす・とりすめぎすとす', word: 'アストロマンサー・バーベロス・トリスメギストス' },
+    { hiragana: 'にこ', word: 'ニコ' },
+    { hiragana: 'にこ・りやん', word: 'ニコ・リヤン' },
+    { hiragana: 'あんでしゅどってる', word: 'アンデシュドッテル' },
 
     // 主に歴史・文献に登場
     { hiragana: 'げんしょのあのかた', word: '原初のあの方' },
     { hiragana: 'ぱねーす', word: 'パネース' },
     { hiragana: 'いすたろと', word: 'イスタロト' },
     { hiragana: 'にーべるんげん', word: 'ニーベルンゲン' },
-    { hiragana: 'すかーく', word: 'スカーク' },
   ]
 } as DictBase;

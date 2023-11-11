@@ -17,11 +17,17 @@ export default {
     { hiragana: 'りおせすり', word: 'リオセスリ' },
     { hiragana: 'ぬゔぃれっと', word: 'ヌヴィレット' },
     { hiragana: 'ふりーな', word: 'フリーナ' },
-    { hiragana: 'えげりあ', word: 'エゲリア' },
+    { hiragana: 'じぇんとるまん・あっしゃー', word: 'ジェントルマン・アッシャー', note: 'フリーナのサロン・ソリティアのメンバー' },
+    { hiragana: 'しゅゔぁるまらんふじん', word: 'シュヴァルマラン婦人', note: 'フリーナのサロン・ソリティアのメンバー' },
+    { hiragana: 'くらばれったさん', word: 'クラバレッタさん', note: 'フリーナのサロン・ソリティアのメンバー' },
+    { hiragana: 'しゅゔるーず', word: 'シュヴルーズ' },
 
     // ゲーム中や漫画に登場するキャラクター
+    { hiragana: 'まるしらっく', word: 'マルシラック' },
+    { hiragana: 'しるゔぁ', word: 'シルヴァ' },
 
     // 主に歴史・文献に登場
+    { hiragana: 'えげりあ', word: 'エゲリア' },
     { hiragana: 'えりなす', word: 'エリナス' },
     { hiragana: 'るね', word: 'ルネ' },
     { hiragana: 'なるつぃっせんくろいつ', word: 'ナルツィッセンクロイツ' },

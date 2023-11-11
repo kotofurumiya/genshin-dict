@@ -39,7 +39,6 @@ export default {
     { hiragana: 'くりぷす', word: 'クリプス', note: 'ディルックの父親' },
     { hiragana: 'ありす', word: 'アリス' },
     { hiragana: 'どぅらふ', word: 'ドゥラフ' },
-    { hiragana: 'れいんどっと', word: 'レインドット' },
     { hiragana: 'ろざりん・くるーずちか・ろーえふぁるた', word: 'ロザリン・クルーズチカ・ローエファルタ' },
     { hiragana: 'ろざりん', word: 'ロザリン' },
     { hiragana: 'くるーずちか', word: 'クルーズチカ' },

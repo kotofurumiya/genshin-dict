@@ -51,6 +51,8 @@ export default {
     { hiragana: 'れいんぼーろーず', word: 'レインボーローズ' },
     { hiragana: 'るえとわーる', word: 'ルエトワール' },
     { hiragana: 'たんそくゆにっと', word: '探測ユニット' },
+    { hiragana: 'ここうのすずらん', word: '湖光の鈴蘭' },
+    { hiragana: 'はつつゆのみなもと', word: '初露の源' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
