@@ -48,3 +48,9 @@ export const toWindowsImeDict = (items: DictItem[]) => {
     .map((item) => `${item.hiragana}\t${item.word}\t${item.hinshi}`)
     .join('\r\n');
 };
+
+export const toGboardUserDict = (items: DictItem[]) => {
+  const header = "# Gboard Dictionary version:1"
+  const dicts = items.map(({ hiragana, word }) => `${hiragana}\t${word}\tja-JP`).join("\n");
+  return `${header}\n${dicts}`;
+}
