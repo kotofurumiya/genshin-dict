@@ -15,7 +15,7 @@
 |[地域/スネージナヤ](./dict/region/snezhnaya.md)|2|
 |[地域/ナタ](./dict/region/natlan.md)|1|
 |[地域/モンド](./dict/region/mondstadt.md)|24|
-|[地域/璃月](./dict/region/liyue.md)|36|
+|[地域/璃月](./dict/region/liyue.md)|38|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
 |[地域/稲妻](./dict/region/inazuma.md)|52|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
@@ -26,7 +26,7 @@
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|11|
 |[人物/ナタ](./dict/person/natlan.md)|1|
 |[人物/モンド](./dict/person/mondstadt.md)|47|
-|[人物/璃月](./dict/person/liyue.md)|45|
+|[人物/璃月](./dict/person/liyue.md)|47|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|3|
 |[人物/稲妻](./dict/person/inazuma.md)|47|
 |[人物/フォンテーヌ](./dict/person/fontaine.md)|27|

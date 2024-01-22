@@ -41,5 +41,9 @@ export default {
     { hiragana: 'おうじょうどう', word: '往生堂' },
     { hiragana: 'ぐんぎょくかく', word: '群玉閣' },
     { hiragana: 'しちょうせいごう', word: '死兆星号' },
+
+    // 沈玉の谷
+    { hiragana: 'ちんぎょくのたに', word: '沈玉の谷' },
+    { hiragana: 'ぎょうえいそう', word: '翹英荘' },
   ]
 } as DictBase;

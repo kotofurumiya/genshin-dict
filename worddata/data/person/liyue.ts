@@ -31,6 +31,8 @@ export default {
     { hiragana: 'うんきん', word: '雲菫' },
     { hiragana: 'まるこしあす', word: 'マルコシアス', note: '力を失う前のグゥオパァー' },
     { hiragana: 'いぇらん', word: '夜蘭' },
+    { hiragana: 'がみん', word: '嘉明' },
+    { hiragana: 'かんうん', word: '閑雲' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'りゅううんしゃくふうしんくん', word: '留雲借風真君' },

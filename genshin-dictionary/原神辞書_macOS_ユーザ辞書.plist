@@ -1126,6 +1126,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>嘉明</string>
+  <key>shortcut</key>
+  <string>がみん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>惟神晴之介</string>
   <key>shortcut</key>
   <string>かむなはるのすけ</string>
@@ -1159,6 +1165,12 @@
   <string>甘雨</string>
   <key>shortcut</key>
   <string>かんう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>閑雲</string>
+  <key>shortcut</key>
+  <string>かんうん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1339,6 +1351,12 @@
   <string>清泉町</string>
   <key>shortcut</key>
   <string>きよいずみちょう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>翹英荘</string>
+  <key>shortcut</key>
+  <string>ぎょうえいそう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3463,6 +3481,12 @@
   <string>沈玉</string>
   <key>shortcut</key>
   <string>ちんぎょく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>沈玉の谷</string>
+  <key>shortcut</key>
+  <string>ちんぎょくのたに</string>
 </dict>
 <dict>
   <key>phrase</key>
