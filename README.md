@@ -85,6 +85,37 @@ macの設定から「キーボード」を開き、「入力ソース」タブ�
 
 これで辞書が利用できるはずです。
 
+## 利用方法 (fcitx-mozc)
+
+fcitx-mozcに辞書をインポートする場合、[原神辞書_Windows.txt](https://github.com/kotofurumiya/genshin-dict/blob/main/genshin-dictionary/%E5%8E%9F%E7%A5%9E%E8%BE%9E%E6%9B%B8_Windows.txt)を使ってください。  
+
+下記のコマンドでfcitxの設定画面を開きます。
+```bash
+# fcitxなら
+fcitx-config-qt
+
+# fcitx5なら
+fcitx5-config-qt 
+```
+
+mozcが選択されていることを確認し、設定を開く  
+![image](https://github.com/zozonteq/genshin-dict/assets/77091655/18212711-4a4a-4bd5-8404-702bd97e9367)  
+辞書ツールを開く  
+![image](https://github.com/zozonteq/genshin-dict/assets/77091655/c3128a7a-2959-4fdd-9307-db36c85e202a)  
+
+辞書ツールを開いたら、「管理」->「新規辞書にインポート」をクリック
+![image](https://github.com/zozonteq/genshin-dict/assets/77091655/f7dbeb8a-5720-4263-90ee-9f5a555c9cf3)  
+
+以下のようなダイアログが表示されます。
+ファイルに「原神辞書_Windows.txt」を選択します。  
+辞書名は「原神辞書」などのわかりやすい名前にしてください。  
+フォーマット、エンコードは「自動判定」にし、「インポート」をクリックしてください。  
+![Screenshot_20230827_170442](https://github.com/zozonteq/genshin-dict/assets/77091655/a4b1376c-d742-4fd1-b1ae-1d2b7c2658bc)  
+
+辞書が追加されているのが確認できたら、これで完了です。
+![image](https://github.com/zozonteq/genshin-dict/assets/77091655/dd08fc6e-f206-408d-a979-90d8a565a8cd)
+
+
 ## トラブルシューティング
 
 ### うまく変換できない
