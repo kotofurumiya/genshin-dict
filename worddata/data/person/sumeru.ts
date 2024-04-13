@@ -24,6 +24,7 @@ export default {
     { hiragana: 'めらっく', word: 'メラック', note: 'カーヴェの鞄' },
     { hiragana: 'ほうろうしゃ', word: '放浪者' },
     { hiragana: 'ふぁるざん', word: 'ファルザン' },
+    { hiragana: 'せとす', word: 'セトス' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'まはーるっかでゔぁーた', word: 'マハールッカデヴァータ' },

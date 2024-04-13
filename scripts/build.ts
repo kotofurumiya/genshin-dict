@@ -3,7 +3,7 @@ import url from 'url';
 import path from 'path';
 import iconv from 'iconv-lite';
 import { loadDictList } from '../worddata/index.js';
-import { toKotoeriDict, toMacUserDict, toWindowsImeDict } from './lib/platform.js';
+import { toKotoeriDict, toMacUserDict, toWindowsImeDict, expandVuHiragana } from './lib/platform.js';
 import { generateDocs } from './lib/docgen.js';
 import { DictItem } from '../worddata/dict.js';
 
@@ -20,9 +20,9 @@ console.log('辞書データを構築しています...');
 
 (async function main() {
   const dictList = await loadDictList();
-  const words = dictList
+  const words = expandVuHiragana(dictList
     .reduce<DictItem[]>((prev, curr) => [...prev, ...curr.items], [])
-    .sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja'));
+    .sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja')));
 
   const winIme = toWindowsImeDict(words);
   const kotoeri = toKotoeriDict(words);

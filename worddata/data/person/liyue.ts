@@ -35,6 +35,7 @@ export default {
     { hiragana: 'かんうん', word: '閑雲' },
 
     // ゲーム中や漫画に登場するキャラクター
+    { hiragana: 'うししょう', word: '卯師匠' },
     { hiragana: 'りゅううんしゃくふうしんくん', word: '留雲借風真君' },
     { hiragana: 'さくげつちくようしんくん', word: '削月築陽真君' },
     { hiragana: 'りすいじょうざんしんくん', word: '理水畳山真君' },
@@ -43,11 +44,14 @@ export default {
     { hiragana: 'げんしょう', word: '言笑' },
     { hiragana: 'こうせつ', word: '江雪' },
     { hiragana: 'ぴんばあや', word: 'ピンばあや' },
+    { hiragana: 'かじんろういちしんくん', word: '歌塵浪市真君', note: 'ピンばあやの仙人名' },
     { hiragana: 'ほうじ', word: '宝児' },
     { hiragana: 'おせる', word: 'オセル' },
     { hiragana: 'ばっせい', word: '跋掣', note: 'オセルの妻' },
     { hiragana: 'しせん', word: '志璇' },
     { hiragana: 'りつほん', word: '立本', note: '百貨珍品' },
+    { hiragana: 'えんたい', word: '遠黛', note: '漱玉の祖母' },
+    { hiragana: 'そうぎょく', word: '漱玉', note: '閑雲の新しい弟子' },
 
     // 主に歴史・文献に登場
     { hiragana: 'きしゅう', word: '帰終' },

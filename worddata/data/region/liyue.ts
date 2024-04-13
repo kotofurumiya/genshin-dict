@@ -41,9 +41,27 @@ export default {
     { hiragana: 'おうじょうどう', word: '往生堂' },
     { hiragana: 'ぐんぎょくかく', word: '群玉閣' },
     { hiragana: 'しちょうせいごう', word: '死兆星号' },
+    { hiragana: 'ぎょくけいだい', word: '玉京台' },
+    { hiragana: 'げつかいてい', word: '月海亭' },
+    { hiragana: 'げっかいてい', word: '月海亭' },
 
     // 沈玉の谷
     { hiragana: 'ちんぎょくのたに', word: '沈玉の谷' },
+    { hiragana: 'ちんぎょくのたに・じょうこく', word: '沈玉の谷・上谷' },
+    { hiragana: 'ちんぎょくのたに・なんほう', word: '沈玉の谷・南峰' },
+    { hiragana: 'らいきんさん', word: '来歆山' },
+    { hiragana: 'いろうふ', word: '遺瓏埠' },
+    { hiragana: 'めいえんさん', word: '瞑垣山' },
+    { hiragana: 'れいもうざん', word: '霊濛山' },
+    { hiragana: 'ほうけつのくち', word: '宝玦の口' },
     { hiragana: 'ぎょうえいそう', word: '翹英荘' },
+    { hiragana: 'ろうちゃじゅのおか', word: '老茶樹の丘' },
+    { hiragana: 'やくちょうのたに', word: '薬蝶の谷' },
+    { hiragana: 'せきぼうだい', word: '赤望台' },
+    { hiragana: 'せきしょうのいしがき', word: '赤璋の石垣' },
+    { hiragana: 'けんれんざん', word: '懸錬山' },
+    { hiragana: 'きんわくのにわ', word: '錦落の庭' },
+    { hiragana: 'れいすうのにわ', word: '霊枢の庭' },
+    { hiragana: 'ちんろうえん', word: '沈瓏淵' },
   ]
 } as DictBase;

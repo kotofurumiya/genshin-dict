@@ -1,5 +1,19 @@
 import { DictItem, KotoeriHinshi, WindowsImeHinshi } from '../../worddata/dict';
 
+export const expandVuHiragana = (items: DictItem[]) => {
+  // "ゔ"が入力できず"ヴ"になるIMEがあるので
+  // "ゔ"を"ヴ"を置き換えたものを追加する
+  return items.flatMap((i) => {
+    if (i.hiragana.includes('ゔ')) {
+      const replaced = {...i};
+      replaced.hiragana = replaced.hiragana.replace('ゔ', 'ヴ');
+      return [i, replaced]
+    }
+
+    return [i]
+  })
+};
+
 export const toMacUserDict = (items: DictItem[]) => {
   const head = `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">

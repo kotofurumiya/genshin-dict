@@ -12,17 +12,23 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v3
+      
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
+      
       - run: npm ci
+
       - run: npm run build
+
       - name: Zip files
         run: zip -r genshin-dictionary.zip genshin-dictionary
+      
       - name: Generate Release Note
-        run: node --loader ts-node/esm scripts/generate_release.ts
+        run: npm run releasenote:gen
+      
       - name: Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           files: genshin-dictionary.zip
           body_path: ./RELEASE_NOTE_GENERATED.md
