@@ -2,15 +2,15 @@
 
 |カテゴリ|登録数|
 |---|--:|
-|[ワールド/ボスエネミー](./dict/world/boss.md)|35|
+|[ワールド/ボスエネミー](./dict/world/boss.md)|40|
 |[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|14|
-|[ワールド/エネミー](./dict/world/enemy.md)|71|
+|[ワールド/エネミー](./dict/world/enemy.md)|76|
 |[ワールド/イベント](./dict/world/event.md)|11|
 |[ワールド/システム](./dict/world/system.md)|35|
-|[ワールド/テイワット](./dict/world/teyvat.md)|99|
+|[ワールド/テイワット](./dict/world/teyvat.md)|102|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
-|[地域/フォンテーヌ](./dict/region/fontaine.md)|63|
+|[地域/フォンテーヌ](./dict/region/fontaine.md)|83|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
 |[地域/稲妻](./dict/region/inazuma.md)|52|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
@@ -21,13 +21,13 @@
 |[地域/スメール](./dict/region/sumeru.md)|78|
 |[地域/テイワット](./dict/region/teyvat.md)|6|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
-|[人物/フォンテーヌ](./dict/person/fontaine.md)|27|
+|[人物/フォンテーヌ](./dict/person/fontaine.md)|35|
 |[人物/稲妻](./dict/person/inazuma.md)|47|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|3|
 |[人物/璃月](./dict/person/liyue.md)|51|
 |[人物/モンド](./dict/person/mondstadt.md)|47|
 |[人物/ナタ](./dict/person/natlan.md)|1|
-|[人物/スネージナヤ](./dict/person/snezhnaya.md)|11|
+|[人物/スネージナヤ](./dict/person/snezhnaya.md)|13|
 |[人物/スメール](./dict/person/sumeru.md)|47|
 |[人物/不明](./dict/person/unknown.md)|13|
 |[アイテム/聖遺物](./dict/item/artifact.md)|10|

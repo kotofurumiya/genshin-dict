@@ -76,5 +76,10 @@ export default {
     { hiragana: 'まんまるたこ', word: 'マンマルタコ' },
     { hiragana: 'あんじぇりっくあぷりしあ', word: 'アンジェリックアプリシア' },
     { hiragana: 'ちぇるびっくあぷりしあ', word: 'チェルビックアプリシア' },
+    { hiragana: 'げんもんじゅう', word: '玄文獣' },
+    { hiragana: 'げんぶんじゅう', word: '玄文獣' },
+    { hiragana: 'まぞう', word: '魔像' },
+    { hiragana: 'まぞうぷらえとりあに', word: '魔像プラエトリアニ' },
+    { hiragana: 'ぷらえとりあに', word: 'プラエトリアニ' },
   ]
 } as DictBase;

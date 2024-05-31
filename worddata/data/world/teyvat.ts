@@ -96,6 +96,7 @@ export default {
     { hiragana: 'とくじゅんたい', word: '特巡隊' },
     { hiragana: 'きょうりつてい', word: '共律庭' },
     { hiragana: 'すうりつてい', word: '枢律庭' },
+    { hiragana: 'けっとうだいりにん', word: '決闘代理人' },
     { hiragana: 'めりゅじーぬ', word: 'メリュジーヌ' },
     { hiragana: 'ふぉるとぅな', word: 'フォルトゥナ' },
     { hiragana: 'せかいしき', word: '世界式' },
@@ -112,6 +113,8 @@ export default {
     { hiragana: 'くろっくわーく・ましなりー', word: 'クロックワーク・マシナリー' },
     { hiragana: 'くろっくわーくましなりー', word: 'クロックワーク・マシナリー' },
     { hiragana: 'とくべつきょかけん', word: '特別許可券' },
+    { hiragana: 'いこる', word: 'イコル' },
+    { hiragana: 'ふぉぼす', word: 'フォボス' },
 
     // ナタ
     { hiragana: 'むらたじん', word: 'ムラタ人' },

@@ -36,9 +36,14 @@ export default {
     { hiragana: 'ひょうふうくみきょく', word: '氷風組曲' },
     { hiragana: 'てっこうようえんていおう', word: '鉄甲熔炎帝王' },
     { hiragana: 'じっけんようふぃーるどせいせいそうち', word: '実験用フィールド生成装置' },
+    { hiragana: 'かいしゅん', word: '海駿' },
     { hiragana: 'せんねんしんじゅのかいしゅん', word: '千年真珠の海駿' },
     { hiragana: 'すいけいたるぱ', word: '水形タルパ' },
     { hiragana: 'どんせいのくじら', word: '呑星の鯨' },
     { hiragana: 'ごくあくき', word: '極悪騎' },
+    { hiragana: 'げいじゅう', word: '猊獣' },
+    { hiragana: 'やまがくれのげいじゅう', word: '山隠れの猊獣' },
+    { hiragana: 'まぞうれがとぅす', word: 'レガトゥス' },
+    { hiragana: 'れがとぅす', word: '魔像レガトゥス' },
   ]
 } as DictBase;

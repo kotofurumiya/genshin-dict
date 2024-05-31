@@ -88,5 +88,29 @@ export default {
     { hiragana: 'かりゅぶでぃすとりであと', word: 'カリュブディス砦跡' },
     { hiragana: 'いぷししますのとう', word: 'イプシシマスの塔' },
     { hiragana: 'げしゅたるとう', word: 'ゲシュタル塔' },
+
+    // ノストイ地区
+    { hiragana: 'のすといちく', word: 'ノストイ地区' },
+    { hiragana: 'ぺとりこーるちょう', word: 'ペトリコール町' },
+    { hiragana: 'いろあせたしろ', word: '色褪せた城' },
+
+    // 往日の海
+    { hiragana: 'おうじつのうみ', word: '往日の海' },
+    { hiragana: 'やぬすのもん', word: 'ヤヌスの門' },
+    { hiragana: 'きゅうぽるたす・あんてぃくす', word: '旧ポルタス・アンティクス' },
+    { hiragana: 'きゅうぽるたすあんてぃくす', word: '旧ポルタス・アンティクス' },
+    { hiragana: 'ほるとぅす・ゆーれげてぃす', word: 'ホルトゥス・ユーレゲティス' },
+    { hiragana: 'ほるとぅすゆーれげてぃす', word: 'ホルトゥス・ユーレゲティス' },
+    { hiragana: 'ぱれす・かえされうむ', word: 'パレス・カエサレウム' },
+    { hiragana: 'ぱれすかえされうむ', word: 'パレス・カエサレウム' },
+    { hiragana: 'やぬすのみち', word: 'ヤヌスの道' },
+    { hiragana: 'かぴとりうむ', word: 'カピトリウム' },
+    { hiragana: 'あるた・せみた', word: 'アルタ・セミタ' },
+    { hiragana: 'あるたせみた', word: 'アルタ・セミタ' },
+    { hiragana: 'かいりついん', word: '諧律院' },
+    { hiragana: 'かぴとりぬすさん', word: 'カピトリヌス山' },
+    { hiragana: 'おうごんのきゅうでん', word: '黄金の宮殿' },
+    { hiragana: 'どむす・あうれあ', word: 'ドムス・アウレア' },
+    { hiragana: 'どむすあうれあ', word: 'ドムス・アウレア' },
   ]
 } as DictBase;

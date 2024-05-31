@@ -25,10 +25,12 @@ export default {
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'まるしらっく', word: 'マルシラック' },
     { hiragana: 'しるゔぁ', word: 'シルヴァ' },
+    { hiragana: 'きゃたぴらー', word: 'キャタピラー' },
 
     // 主に歴史・文献に登場
     { hiragana: 'えげりあ', word: 'エゲリア' },
     { hiragana: 'えりなす', word: 'エリナス' },
+    { hiragana: 'ばざる', word: 'バザル' },
     { hiragana: 'るね', word: 'ルネ' },
     { hiragana: 'なるつぃっせんくろいつ', word: 'ナルツィッセンクロイツ' },
     { hiragana: 'まりあん', word: 'マリアン' },
@@ -37,5 +39,11 @@ export default {
     { hiragana: 'じぇいこぶ', word: 'ジェイコブ' },
     { hiragana: 'りりす', word: 'リリス' },
     { hiragana: 'せいもあ', word: 'セイモア' },
+    { hiragana: 'くりーゔ', word: 'クリーヴ' },
+    { hiragana: 'くるせびな', word: 'クルセビナ', note: '先代「召使」' },
+    { hiragana: 'かっしおどる', word: 'カッシオドル' },
+    { hiragana: 'ぼえてぃうす', word: 'ボエティウス' },
+    { hiragana: 'しびら', word: 'シビラ' },
+    { hiragana: 'すきゅら', word: 'スキュラ' },
   ]
 } as DictBase;
