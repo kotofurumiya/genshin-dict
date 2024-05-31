@@ -1,11 +1,12 @@
 import path from 'node:path';
 import url from "node:url";
-import { glob } from 'glob';
+// @ts-ignore @types/nodeが更新されたらこのignoreは消す
+import { globSync } from 'node:fs'
 import { Dict, DictBase } from './dict';
 
 const filename = url.fileURLToPath(import.meta.url);
 const dirname = path.dirname(filename);
-const dictFilePathList = glob.sync(path.join(dirname, 'data', '**/*.ts'));
+const dictFilePathList = globSync(path.join(dirname, 'data', '**/*.ts'));
 
 export const loadDictList = async() => {
   const dictList: Dict[] = [];

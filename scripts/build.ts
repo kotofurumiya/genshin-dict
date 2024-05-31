@@ -1,9 +1,8 @@
 import fs from 'fs';
 import url from 'url';
 import path from 'path';
-import iconv from 'iconv-lite';
 import { loadDictList } from '../worddata/index.js';
-import { toKotoeriDict, toMacUserDict, toWindowsImeDict, expandVuHiragana } from './lib/platform.js';
+import { toKotoeriDict, toMacUserDict, toWindowsImeDict, expandVuHiragana, toUtf16BOM } from './lib/platform.js';
 import { generateDocs } from './lib/docgen.js';
 import { DictItem } from '../worddata/dict.js';
 
@@ -42,7 +41,7 @@ console.log('辞書データを構築しています...');
 
   console.log('ファイルに書き出しています...');
 
-  fs.writeFileSync(winDictFile, iconv.encode(winIme, 'utf16'));
+  fs.writeFileSync(winDictFile, toUtf16BOM(winIme));
   fs.writeFileSync(macDictFile, kotoeri, 'utf8');
   fs.writeFileSync(macUserDictFile, plist, 'utf8');
 

@@ -62,3 +62,10 @@ export const toWindowsImeDict = (items: DictItem[]) => {
     .map((item) => `${item.hiragana}\t${item.word}\t${item.hinshi}`)
     .join('\r\n');
 };
+
+// WindowsではBOMつきUTF-16を使う場合があるので、その変換関数。
+export const toUtf16BOM = (str: string): Buffer => {
+  // BOMを手動で付与するだけでok。
+  const u16leBuf = Buffer.from(`\ufeff${str}`, 'utf16le');
+  return u16leBuf;
+};
