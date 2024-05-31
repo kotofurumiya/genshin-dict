@@ -5,13 +5,13 @@ export const expandVuHiragana = (items: DictItem[]) => {
   // "ゔ"を"ヴ"を置き換えたものを追加する
   return items.flatMap((i) => {
     if (i.hiragana.includes('ゔ')) {
-      const replaced = {...i};
-      replaced.hiragana = replaced.hiragana.replace('ゔ', 'ヴ');
-      return [i, replaced]
+      const replaced = { ...i };
+      replaced.hiragana = replaced.hiragana.replaceAll('ゔ', 'ヴ');
+      return [i, replaced];
     }
 
-    return [i]
-  })
+    return [i];
+  });
 };
 
 export const toMacUserDict = (items: DictItem[]) => {
