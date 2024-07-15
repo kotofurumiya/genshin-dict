@@ -11,6 +11,11 @@ export default {
     { hiragana: 'だいんすれいゔ', word: 'ダインスレイヴ' },
     { hiragana: 'はーるゔだん', word: 'ハールヴダン' },
     { hiragana: 'えるみん', word: 'エルミン' },
+    { hiragana: 'ふろぷたちゅーる', word: 'フロプタチュール' },
+    { hiragana: 'するとろっち', word: 'スルトロッチ' },
+    { hiragana: 'ゔぇずるふぇるにる', word: 'ヴェズルフェルニル' },
+    { hiragana: 'れいんどっと', word: 'レインドット' },
+    { hiragana: 'れりる', word: 'レリル' },
 
     // 主に歴史・文献に登場
   ]

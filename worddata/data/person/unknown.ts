@@ -9,9 +9,6 @@ export default {
     
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'すかーく', word: 'スカーク' },
-    { hiragana: 'するとろっち', word: 'スルトロッチ' },
-    { hiragana: 'ゔぇずるふぇるにる', word: 'ヴェズルフェルニル' },
-    { hiragana: 'れいんどっと', word: 'レインドット' },
     { hiragana: 'ばーべろす', word: 'バーベロス' },
     { hiragana: 'あすとろまんさー・ばーべろす・とりすめぎすとす', word: 'アストロマンサー・バーベロス・トリスメギストス' },
     { hiragana: 'にこ', word: 'ニコ' },

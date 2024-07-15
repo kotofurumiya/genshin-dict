@@ -16,6 +16,7 @@ export default {
     { hiragana: 'れつえんか', word: '烈焔花' },
     { hiragana: 'れつえんばな', word: '烈焔花' },
     { hiragana: 'げいしょうばな', word: '霓裳花' },
+    { hiragana: 'るりぶくろ', word: '琉璃袋' },
     { hiragana: 'せいら', word: '星螺' },
     { hiragana: 'ひおうきゅう', word: '緋櫻毬' },
     { hiragana: 'なぐさ', word: '鳴草' },

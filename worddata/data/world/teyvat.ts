@@ -20,6 +20,7 @@ export default {
     { hiragana: 'だいにこうりんしゃ', word: '第二降臨者' },
     { hiragana: 'だいさんこうりんしゃ', word: '第三降臨者' },
     { hiragana: 'だいよんこうりんしゃ', word: '第四降臨者' },
+    { hiragana: 'うんめいのしょっき', word: '運命の織機' },
     { hiragana: 'あぞすぶっしつ', word: 'アゾス物質' },
     { hiragana: 'へきろのいえ', word: '壁炉の家' },
     { hiragana: 'はうすおぶはーす', word: '壁炉の家' },
