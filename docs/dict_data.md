@@ -33,6 +33,6 @@
 |[人物/不明](./dict/person/unknown.md)|10|
 |[アイテム/聖遺物](./dict/item/artifact.md)|10|
 |[アイテム/食べ物](./dict/item/food.md)|2|
-|[アイテム/素材](./dict/item/material.md)|115|
+|[アイテム/素材](./dict/item/material.md)|114|
 |[アイテム/道具](./dict/item/tool.md)|9|
 |[アイテム/武器](./dict/item/weapon.md)|37|

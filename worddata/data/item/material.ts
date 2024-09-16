@@ -57,7 +57,6 @@ export default {
     { hiragana: 'ちんぎょくせんちゃ', word: '沈玉仙茶' },
     { hiragana: 'なみしぶきのえら', word: '波しぶきのエラ' },
     { hiragana: 'しゃくぎく', word: 'シャクギク' },
-    { hiragana: 'なみしぶきのえら', word: '波しぶきのエラ' },
     { hiragana: 'けねぱべりー', word: 'ケネパベリー' },
     { hiragana: 'さうりあんさきゅれんと', word: 'サウリアンサキュレント' },
     { hiragana: 'しょこあとぅるのたね', word: 'ショコアトゥルの種' },
