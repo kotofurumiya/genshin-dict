@@ -119,6 +119,20 @@ export default {
 
     // ナタ
     { hiragana: 'むらたじん', word: 'ムラタ人' },
+    { hiragana: 'こめい', word: '古名' },
+    { hiragana: 'きかせいや', word: '帰火聖夜' },
+    { hiragana: 'きかせいやのじゅんれい', word: '帰火聖夜の巡礼' },
+    { hiragana: 'よじゅんしゃ', word: '夜巡者' },
+    { hiragana: 'よじゅんしゃのせんそう', word: '夜巡者の戦争' },
+    { hiragana: 'げんしゃれい', word: '幻写霊' },
+    { hiragana: 'ねんそ', word: '燃素' },
+    { hiragana: 'ねんそりゅうし', word: '燃素粒子' },
+    { hiragana: 'えきたいねんそ', word: '液体燃素' },
+    { hiragana: 'こたいねんそ', word: '固体燃素' },
+    { hiragana: 'ねんそめいこく', word: '燃素銘刻' },
+    { hiragana: 'かげぬいのはり', word: '陰縫いの針' },
+    { hiragana: 'すぴりっとうぇい', word: 'スピリットウェイ' },
+    
 
     // スネージナヤ
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },

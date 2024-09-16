@@ -40,5 +40,9 @@ export default {
     { hiragana: 'ちょうげきか', word: '超激化' },
     { hiragana: 'そうげきか', word: '草激化' },
     { hiragana: 'かいせい', word: '廻聖' },
+    { hiragana: 'やこん', word: '夜魂' },
+    { hiragana: 'やこんち', word: '夜魂値' },
+    { hiragana: 'やこんばーすと', word: '夜魂バースト' },
+    { hiragana: 'やこんとらんす', word: '夜魂トランス' },
   ]
 } as DictBase;

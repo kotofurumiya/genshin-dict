@@ -14,14 +14,25 @@ export default {
     { hiragana: 'いあんさ', word: 'イアンサ' },
     { hiragana: 'ちゃすか', word: 'チャスカ' },
     { hiragana: 'まーゔぃか', word: 'マーヴィカ' },
-    { hiragana: 'あろるん', word: 'オロルン' },
+    { hiragana: 'おろるん', word: 'オロルン' },
+    { hiragana: 'いふぁ', word: 'イファ' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'あはう', word: 'アハウ' },
     { hiragana: 'くふるあはう', word: 'クフル・アハウ' },
     { hiragana: 'くふる・あはう', word: 'クフル・アハウ' },
+    { hiragana: 'ぱかる', word: 'パカル' },
+    { hiragana: 'あみな', word: 'アミナ' },
 
     // 主に歴史・文献に登場
-    
+    { hiragana: 'しゅばらんけ', word: 'シュバランケ' },
+    { hiragana: 'てのっち', word: 'テノッチ' },
+    { hiragana: 'とぅぱっく', word: 'トゥパック' },
+
+    // 古名
+    { hiragana: 'うっさびーてぃ', word: 'ウッサビーティ' },
+    { hiragana: 'うもじゃ', word: 'ウモジャ' },
+    { hiragana: 'まりぽ', word: 'マリポ' },
+
   ]
 } as DictBase;
