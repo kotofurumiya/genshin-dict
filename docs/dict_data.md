@@ -27,7 +27,7 @@
 |[人物/カーンルイア](./dict/person/khaenriah.md)|8|
 |[人物/璃月](./dict/person/liyue.md)|51|
 |[人物/モンド](./dict/person/mondstadt.md)|47|
-|[人物/ナタ](./dict/person/natlan.md)|21|
+|[人物/ナタ](./dict/person/natlan.md)|26|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|13|
 |[人物/スメール](./dict/person/sumeru.md)|47|
 |[人物/不明](./dict/person/unknown.md)|10|

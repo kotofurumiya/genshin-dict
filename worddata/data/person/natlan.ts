@@ -26,6 +26,11 @@ export default {
 
     // 主に歴史・文献に登場
     { hiragana: 'しゅばらんけ', word: 'シュバランケ' },
+    { hiragana: 'わしゃくらふんうばかん', word: 'ワシャクラフン・ウバ・カン' },
+    { hiragana: 'わしゃくらふん・うば・かん', word: 'ワシャクラフン・ウバ・カン' },
+    { hiragana: 'とうえんのけんじゃ', word: '盗炎の賢者' },
+    { hiragana: 'ちゃあく', word: 'チャアク' },
+    { hiragana: 'おちかん', word: 'オチカン' },
     { hiragana: 'てのっち', word: 'テノッチ' },
     { hiragana: 'とぅぱっく', word: 'トゥパック' },
 

@@ -1120,6 +1120,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>オチカン</string>
+  <key>shortcut</key>
+  <string>おちかん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>御伽材</string>
   <key>shortcut</key>
   <string>おとぎざい</string>
@@ -4144,6 +4150,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>チャアク</string>
+  <key>shortcut</key>
+  <string>ちゃあく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>チャスカ</string>
   <key>shortcut</key>
   <string>ちゃすか</string>
@@ -4453,6 +4465,12 @@
   <string>盗炎者の秘島</string>
   <key>shortcut</key>
   <string>とうえんしゃのひとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>盗炎の賢者</string>
+  <key>shortcut</key>
+  <string>とうえんのけんじゃ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -7057,6 +7075,18 @@
   <string>ワクカウ浜</string>
   <key>shortcut</key>
   <string>わくかうはま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ワシャクラフン・ウバ・カン</string>
+  <key>shortcut</key>
+  <string>わしゃくらふん・うば・かん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ワシャクラフン・ウバ・カン</string>
+  <key>shortcut</key>
+  <string>わしゃくらふんうばかん</string>
 </dict>
 <dict>
   <key>phrase</key>
