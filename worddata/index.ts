@@ -1,6 +1,5 @@
 import path from 'node:path';
 import url from "node:url";
-// @ts-ignore @types/nodeが更新されたらこのignoreは消す
 import { globSync } from 'node:fs'
 import { Dict, DictBase } from './dict';
 
