@@ -23,6 +23,7 @@ https://github.com/kotofurumiya/genshin-dict/releases/latest
 | macOS追加辞書     | 原神辞書_macOS.txt              |                               |
 | iPhoneユーザ辞書  |                                | mac経由で追加可能（後述）         |
 | Google IME      | 原神辞書_Windows.txt            | macでもWindows用ファイルで追加可能 |
+| SKK | SKK-JISYO.genshin            | SKK辞書 |
 
 ## 利用方法（Windows）
 
