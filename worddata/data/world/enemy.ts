@@ -79,7 +79,10 @@ export default {
     { hiragana: 'げんもんじゅう', word: '玄文獣' },
     { hiragana: 'げんぶんじゅう', word: '玄文獣' },
     { hiragana: 'まぞう', word: '魔像' },
-    { hiragana: 'まぞうぷらえとりあに', word: '魔像プラエトリアニ' },
     { hiragana: 'ぷらえとりあに', word: 'プラエトリアニ' },
+    { hiragana: 'まぞうぷらえとりあに', word: '魔像プラエトリアニ' },
+    { hiragana: 'ひげんきへい', word: '秘源機兵' },
+    { hiragana: 'みみっくふろーら', word: 'ミミックフローラ' },
+    { hiragana: 'しんえんなるみみっくふろーら', word: '深遠なるミミックフローラ' },
   ]
 } as DictBase;

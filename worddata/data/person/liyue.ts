@@ -33,6 +33,7 @@ export default {
     { hiragana: 'いぇらん', word: '夜蘭' },
     { hiragana: 'がみん', word: '嘉明' },
     { hiragana: 'かんうん', word: '閑雲' },
+    { hiragana: 'らんやん', word: '藍硯' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'うししょう', word: '卯師匠' },

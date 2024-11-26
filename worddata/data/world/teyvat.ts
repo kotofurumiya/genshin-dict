@@ -132,6 +132,8 @@ export default {
     { hiragana: 'ねんそめいこく', word: '燃素銘刻' },
     { hiragana: 'かげぬいのはり', word: '陰縫いの針' },
     { hiragana: 'すぴりっとうぇい', word: 'スピリットウェイ' },
+    { hiragana: 'ひげん', word: '秘源' },
+    { hiragana: 'ひげんそうち', word: '秘源装置' },
     
 
     // スネージナヤ

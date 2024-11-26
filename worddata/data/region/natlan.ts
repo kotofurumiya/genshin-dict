@@ -7,10 +7,6 @@ export default {
   items: [
     { hiragana: 'なた', word: 'ナタ' },
 
-    // 不明
-    { hiragana: 'おしかなた', word: 'オシカ・ナタ' },
-    { hiragana: 'おしか・なた', word: 'オシカ・ナタ' },
-
     // 夜神の国
     { hiragana: 'やがみのくに', word: '夜神の国' },
 
@@ -50,12 +46,27 @@ export default {
     { hiragana: 'すぴりっとうぉーるのどうくつ', word: 'スピリット・ウォールの洞窟' },
     { hiragana: 'すぴりっと・うぉーるのどうくつ', word: 'スピリット・ウォールの洞窟' },
 
-    //
+    // テスカテペトン山脈
+    { hiragana: 'てすかてぺとんさんみゃく', word: 'テスカテペトン山脈' }, 
+    { hiragana: 'めいえんのあるじ', word: '謎煙の主' }, 
+    { hiragana: 'めいどのさいしじょう', word: '謎土の祭祀場' }, 
+    { hiragana: 'てころあぱんわん', word: 'テコロアパン湾' }, 
+
+    // クァワカン断崖
+    { hiragana: 'くぁわかんだんがい', word: 'クァワカン断崖' }, 
     { hiragana: 'かよくのつどい', word: '花翼の集' }, 
 
-    //
-    { hiragana: 'めいえんのあるじ', word: '謎煙の主' }, 
-    { hiragana: 'みくとらん', word: 'ミクトラン' }, 
+    // オシカ・ナタ
+    { hiragana: 'おしかなた', word: 'オシカ・ナタ' },
+    { hiragana: 'おしか・なた', word: 'オシカ・ナタ' },
+    { hiragana: 'げんむのくれいどる', word: '幻夢のクレイドル' },
+    { hiragana: 'とぞずとう', word: 'トゾズ島' },
+    { hiragana: 'じんかしょうじんのち', word: '燼火焼尽の地' },
+    { hiragana: 'せきじつのとうりつのこころ', word: '昔日の統律の心' },
+    { hiragana: 'てんじゃのふね', word: '天蛇の船' },
+    { hiragana: 'でんせつのてんじゃのふね', word: '伝説の天蛇の船' },
+    { hiragana: 'なーさりーおぶないとめあ', word: 'ナーサリー・オブ・ナイトメア' },
+    { hiragana: 'なーさりー・おぶ・ないとめあ', word: 'ナーサリー・オブ・ナイトメア' },
 
     //
     { hiragana: 'ほうじょうのくに', word: '豊穣の邦' }, 

@@ -21,8 +21,13 @@ export default {
     { hiragana: 'あはう', word: 'アハウ' },
     { hiragana: 'くふるあはう', word: 'クフル・アハウ' },
     { hiragana: 'くふる・あはう', word: 'クフル・アハウ' },
-    { hiragana: 'ぱかる', word: 'パカル' },
-    { hiragana: 'あみな', word: 'アミナ' },
+    { hiragana: 'いれーる', word: 'イレール' },
+    { hiragana: 'くいく', word: 'クイク' },
+    { hiragana: 'ぱかる', word: 'パカル', note:'こだまの子の族長' },
+    { hiragana: 'わいな', word: 'ワイナ', note:'懸木の民の族長' },
+    { hiragana: 'あみな', word: 'アミナ', note:'流泉の衆の族長' },
+    { hiragana: 'びらむ', word: 'ビラム', note:'謎煙の主の族長' },
+    { hiragana: 'むとた', word: 'ムトタ', note:'花翼の集の族長' },
 
     // 主に歴史・文献に登場
     { hiragana: 'しゅばらんけ', word: 'シュバランケ' },

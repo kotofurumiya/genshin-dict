@@ -14,5 +14,10 @@ export default {
     { hiragana: 'せんようぎょくはく', word: '旋曜玉帛' },
     { hiragana: 'おうじゅのかご', word: '王樹の加護' },
     { hiragana: 'しょうちょうとらっぷそうち', word: '晶蝶トラップ装置' },
+    { hiragana: 'ひてんのはこ', word: '秘典の箱' },
+    { hiragana: 'うんめいしじき', word: '運命指示器' },
+    { hiragana: 'ぼんぼんさいてんくらっかー', word: 'ボンボン祭典クラッカー' },
+    { hiragana: 'ばんばんびっくりばこ', word: 'バンバンびっくり箱' },
+    { hiragana: 'せいしょうのたびおり', word: '聖宵の旅織り' },
   ]
 } as DictBase;

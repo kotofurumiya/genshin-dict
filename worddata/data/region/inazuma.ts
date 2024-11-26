@@ -39,7 +39,7 @@ export default {
     // 海祇島
     { hiragana: 'わたつみじま', word: '海祇島' },
     { hiragana: 'すいげつち', word: '水月池' },
-    { hiragana: 'さんごのみや', word: '珊瑚宮' },
+    // { hiragana: 'さんごのみや', word: '珊瑚宮' }, // 心海の名字と重複するので除外
     { hiragana: 'もううんじんじゃ', word: '曚雲神社' },
     { hiragana: 'ぼうろうむら', word: '望瀧村' },
 

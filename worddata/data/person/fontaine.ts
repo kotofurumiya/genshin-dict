@@ -30,7 +30,7 @@ export default {
 
     // 主に歴史・文献に登場
     { hiragana: 'えげりあ', word: 'エゲリア' },
-    { hiragana: 'えりなす', word: 'エリナス' },
+    // { hiragana: 'えりなす', word: 'エリナス' }, // 地名と重複するので除外
     { hiragana: 'ばざる', word: 'バザル' },
     { hiragana: 'るね', word: 'ルネ' },
     { hiragana: 'なるつぃっせんくろいつ', word: 'ナルツィッセンクロイツ' },

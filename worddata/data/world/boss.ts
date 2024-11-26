@@ -43,7 +43,14 @@ export default {
     { hiragana: 'ごくあくき', word: '極悪騎' },
     { hiragana: 'げいじゅう', word: '猊獣' },
     { hiragana: 'やまがくれのげいじゅう', word: '山隠れの猊獣' },
-    { hiragana: 'まぞうれがとぅす', word: 'レガトゥス' },
-    { hiragana: 'れがとぅす', word: '魔像レガトゥス' },
+    { hiragana: 'れがとぅす', word: 'レガトゥス' },
+    { hiragana: 'まぞうれがとぅす', word: '魔像レガトゥス' },
+    { hiragana: 'きんえんのくくりゅう', word: '金焔のクク竜' },
+    { hiragana: 'ほらわいがんごうぼう', word: 'ホラワイガ・ンゴウボウ' },
+    { hiragana: 'ほらわいが・んごうぼう', word: 'ホラワイガ・ンゴウボウ' },
+    { hiragana: 'どんしょくのゆむかりゅう', word: '貪食のユムカ竜' },
+    { hiragana: 'こんがまとー', word: 'コンガマトー' },
+    { hiragana: 'みみっくぱぴら', word: 'ミミックパピラ' },
+    { hiragana: 'しんえんなるみみっくぱぴら', word: '深遠なるミミックパピラ' },
   ]
 } as DictBase;

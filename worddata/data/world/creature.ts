@@ -25,5 +25,6 @@ export default {
     { hiragana: 'らいのりゅう', word: 'ライノ竜' },
     { hiragana: 'くくりゅう', word: 'クク竜' },
     { hiragana: 'いくとみりゅう', word: 'イクトミ竜' },
+    { hiragana: 'ねんそみつむし', word: '燃素ミツムシ' },
   ]
 } as DictBase;

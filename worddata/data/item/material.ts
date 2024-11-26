@@ -64,6 +64,8 @@ export default {
     { hiragana: 'きゃんどるきのこ', word: 'キャンドルキノコ' },
     { hiragana: 'ぐれいんのみ', word: 'グレインの実' },
     { hiragana: 'すぴねるのみ', word: 'スピネルの実' },
+    { hiragana: 'けいこうつのきのこ', word: '蛍光ツノキノコ' },
+    { hiragana: 'かれししょう', word: '枯れ紫菖' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
@@ -129,5 +131,7 @@ export default {
     { hiragana: 'こうようせき', word: '黄曜石' },
     { hiragana: 'りょくようせき', word: '緑曜石' },
     { hiragana: 'らんようせき', word: '藍曜石' },
+    { hiragana: 'せきようせき', word: '赤曜石' },
+    { hiragana: 'しようせき', word: '紫曜石' },
   ]
 } as DictBase;
