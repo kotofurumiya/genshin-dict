@@ -15,9 +15,9 @@
   "author": "Koto Furumiya <kotofurumiya@gmail.com>",
   "license": "Zlib",
   "devDependencies": {
-    "@types/node": "^22.5.5",
-    "prettier": "^3.3.3",
+    "@types/node": "^22.10.0",
+    "prettier": "^3.4.0",
     "ts-node": "^10.9.2",
-    "typescript": "^5.6.2"
+    "typescript": "^5.7.2"
   }
 }
