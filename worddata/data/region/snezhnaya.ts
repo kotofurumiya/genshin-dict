@@ -7,5 +7,9 @@ export default {
   items: [
     { hiragana: 'すねーじなや', word: 'スネージナヤ' },
     { hiragana: 'すねーじなやぱれす', word: 'スネージナヤパレス' },
+
+    // ナド・クライ
+    { hiragana: 'などくらい', word: 'ナド・クライ' },
+    { hiragana: 'など・くらい', word: 'ナド・クライ' },
   ]
 } as DictBase;

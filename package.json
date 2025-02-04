@@ -9,15 +9,15 @@
     "format": "prettier --write \"scripts/**/*.ts\"",
     "build": "node --import ./scripts/tsnode-register.mjs scripts/build.ts",
     "releasenote:gen": "node --import ./scripts/tsnode-register.mjs scripts/generate_release.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test --experimental-strip-types"
   },
   "keywords": [],
   "author": "Koto Furumiya <kotofurumiya@gmail.com>",
   "license": "Zlib",
   "devDependencies": {
-    "@types/node": "^22.10.0",
-    "prettier": "^3.4.0",
+    "@types/node": "^22.13.1",
+    "prettier": "^3.4.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.3"
   }
 }

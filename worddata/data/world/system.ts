@@ -34,6 +34,7 @@ export default {
     { hiragana: 'めいてい', word: '命定' },
     { hiragana: 'しんちゅうめいてい', word: '神鋳命定' },
     { hiragana: 'めいていち', word: '命定値' },
+    { hiragana: 'しゅうろくきがん', word: '集録祈願' },
     { hiragana: 'そうげんかく', word: '草原核' },
     { hiragana: 'れつかいか', word: '烈開花' },
     { hiragana: 'げんげきか', word: '原激化' },

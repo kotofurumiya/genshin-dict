@@ -52,5 +52,9 @@ export default {
     { hiragana: 'こんがまとー', word: 'コンガマトー' },
     { hiragana: 'みみっくぱぴら', word: 'ミミックパピラ' },
     { hiragana: 'しんえんなるみみっくぱぴら', word: '深遠なるミミックパピラ' },
+    { hiragana: 'ぐーしぃとーす', word: 'グーシィ・トース' },
+    { hiragana: 'ぐーしぃ・とーす', word: 'グーシィ・トース' },
+    { hiragana: 'げんえんのあるじ', word: '源焔の主' },
+    { hiragana: 'むしばまれしげんえんのあるじ', word: '蝕まれし源焔の主' },
   ]
 } as DictBase;

@@ -22,6 +22,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>秋沙銭湯</string>
+  <key>shortcut</key>
+  <string>あきさせんとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アクションカード</string>
   <key>shortcut</key>
   <string>あくしょんかーど</string>
@@ -544,6 +550,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>イツパパ</string>
+  <key>shortcut</key>
+  <string>いつぱぱ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>稲妻城</string>
   <key>shortcut</key>
   <string>いなずまじょう</string>
@@ -676,6 +688,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ヴァレサ</string>
+  <key>shortcut</key>
+  <string>ゔぁれさ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヴァレサ</string>
+  <key>shortcut</key>
+  <string>ヴぁれさ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ヴィシャップ</string>
   <key>shortcut</key>
   <string>ゔぃしゃっぷ</string>
@@ -697,6 +721,12 @@
   <string>ヴィシュッダ辺土</string>
   <key>shortcut</key>
   <string>ヴぃしゅっだへんど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ウィツィリン</string>
+  <key>shortcut</key>
+  <string>うぃつぃりん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1900,6 +1930,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>グーシィ・トース</string>
+  <key>shortcut</key>
+  <string>ぐーしぃ・とーす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>グーシィ・トース</string>
+  <key>shortcut</key>
+  <string>ぐーしぃとーす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>久岐</string>
   <key>shortcut</key>
   <string>くき</string>
@@ -1945,6 +1987,12 @@
   <string>九条陣屋</string>
   <key>shortcut</key>
   <string>くじょうじんや</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>グスレッド</string>
+  <key>shortcut</key>
+  <string>ぐすれっど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2197,6 +2245,12 @@
   <string>嶮しき石堂</string>
   <key>shortcut</key>
   <string>けわしきせきどう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>源焔の主</string>
+  <key>shortcut</key>
+  <string>げんえんのあるじ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2455,6 +2509,12 @@
   <string>COGNOSPHERE</string>
   <key>shortcut</key>
   <string>こぐのすふぃあ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>古月の遺骸</string>
+  <key>shortcut</key>
+  <string>こげつのいがい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2824,6 +2884,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>シウコアトル</string>
+  <key>shortcut</key>
+  <string>しうこあとる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ジェイコブ</string>
   <key>shortcut</key>
   <string>じぇいこぶ</string>
@@ -2929,6 +2995,12 @@
   <string>シトラリ</string>
   <key>shortcut</key>
   <string>しとらり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>シトラリン</string>
+  <key>shortcut</key>
+  <string>しとらりん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3109,6 +3181,12 @@
   <string>シュヴルーズ</string>
   <key>shortcut</key>
   <string>しゅヴるーず</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>集録祈願</string>
+  <key>shortcut</key>
+  <string>しゅうろくきがん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3568,6 +3646,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>スラーイン</string>
+  <key>shortcut</key>
+  <string>すらーいん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ズルヴァーン</string>
   <key>shortcut</key>
   <string>ずるゔぁーん</string>
@@ -3931,6 +4015,12 @@
   <string>壮菌核</string>
   <key>shortcut</key>
   <string>そうきんかく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>双駆輪</string>
+  <key>shortcut</key>
+  <string>そうくりん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4570,6 +4660,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>盗炎者</string>
+  <key>shortcut</key>
+  <string>とうえんしゃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>盗炎者の秘島</string>
   <key>shortcut</key>
   <string>とうえんしゃのひとう</string>
@@ -4873,6 +4969,18 @@
   <string>名椎の浜</string>
   <key>shortcut</key>
   <string>なづちのはま</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ナド・クライ</string>
+  <key>shortcut</key>
+  <string>など・くらい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ナド・クライ</string>
+  <key>shortcut</key>
+  <string>などくらい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -6262,6 +6370,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>瑞希</string>
+  <key>shortcut</key>
+  <string>みずき</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>道饗祭</string>
   <key>shortcut</key>
   <string>みちあえのまつり</string>
@@ -6319,6 +6433,12 @@
   <string>ムザファール</string>
   <key>shortcut</key>
   <string>むざふぁーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>蝕まれし源焔の主</string>
+  <key>shortcut</key>
+  <string>むしばまれしげんえんのあるじ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -6712,6 +6832,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ユパンキ</string>
+  <key>shortcut</key>
+  <string>ゆぱんき</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ユムカ竜</string>
   <key>shortcut</key>
   <string>ゆむかりゅう</string>
@@ -6721,6 +6847,18 @@
   <string>夢見材</string>
   <key>shortcut</key>
   <string>ゆめみざい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>夢見月</string>
+  <key>shortcut</key>
+  <string>ゆめみづき</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>夢見月瑞希</string>
+  <key>shortcut</key>
+  <string>ゆめみづきみずき</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -7267,6 +7405,18 @@
   <string>ロザリン・クルーズチカ・ローエファルタ</string>
   <key>shortcut</key>
   <string>ろざりん・くるーずちか・ろーえふぁるた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ロノヴァ</string>
+  <key>shortcut</key>
+  <string>ろのゔぁ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ロノヴァ</string>
+  <key>shortcut</key>
+  <string>ろのヴぁ</string>
 </dict>
 <dict>
   <key>phrase</key>

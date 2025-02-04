@@ -35,6 +35,9 @@ export default {
     { hiragana: 'くき', word: '久岐' },
     { hiragana: 'きらら', word: '綺良々' },
     { hiragana: 'ちおり', word: '千織' },
+    { hiragana: 'ゆめみづき', word: '夢見月' },
+    { hiragana: 'みずき', word: '瑞希' },
+    { hiragana: 'ゆめみづきみずき', word: '夢見月瑞希' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'はなちるさと', word: '花散里' },

@@ -24,6 +24,7 @@ export default {
     { hiragana: 'あぞすぶっしつ', word: 'アゾス物質' },
     { hiragana: 'へきろのいえ', word: '壁炉の家' },
     { hiragana: 'はうすおぶはーす', word: '壁炉の家' },
+    { hiragana: 'こげつのいがい', word: '古月の遺骸' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -134,11 +135,10 @@ export default {
     { hiragana: 'すぴりっとうぇい', word: 'スピリットウェイ' },
     { hiragana: 'ひげん', word: '秘源' },
     { hiragana: 'ひげんそうち', word: '秘源装置' },
-    
+    { hiragana: 'そうくりん', word: '双駆輪' },
 
     // スネージナヤ
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
     { hiragana: 'ふぁとぅす', word: 'ファトゥス' },
-
   ]
 } as DictBase;

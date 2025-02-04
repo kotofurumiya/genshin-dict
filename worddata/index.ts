@@ -15,6 +15,7 @@ export const loadDictList = async() => {
     const filePath = `dict/${path.dirname(dictPath).split('/').at(-1)}/${path.basename(dictPath, '.ts')}`;
   
     dictList.push({
+      path: filePath,
       category: dict.category,
       title: dict.title,
       slug: filePath,

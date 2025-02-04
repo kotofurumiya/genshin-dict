@@ -20,6 +20,7 @@ export default {
     { hiragana: 'ぺるゔぃ', word: 'ペルヴィ', note: 'アルレッキーノの本名の愛称' },
     { hiragana: 'さんどろーね', word: 'サンドローネ' },
     { hiragana: 'かぴたーの', word: 'カピターノ' },
+    { hiragana: 'すらーいん', word: 'スラーイン', note: '隊長の本名' },
     { hiragana: 'どっとーれ', word: 'ドットーレ' },
     
     // 主に歴史・文献に登場

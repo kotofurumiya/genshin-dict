@@ -16,6 +16,7 @@ export default {
     { hiragana: 'ゔぇずるふぇるにる', word: 'ヴェズルフェルニル' },
     { hiragana: 'れいんどっと', word: 'レインドット' },
     { hiragana: 'れりる', word: 'レリル' },
+    { hiragana: 'ぐすれっど', word: 'グスレッド', note: '隊長の部下' },
 
     // 主に歴史・文献に登場
   ]
