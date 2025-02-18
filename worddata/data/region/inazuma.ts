@@ -19,7 +19,8 @@ export default {
     { hiragana: 'いなずまじょう', word: '稲妻城' },
     { hiragana: 'こもれちゃや', word: '木漏茶屋' },
     { hiragana: 'やえどう', word: '八重堂' },
-    { hiragana: 'あきさせんとう', word: '秋沙銭湯' },
+    { hiragana: 'あいさせんとう', word: '秋沙銭湯' },
+    { hiragana: 'あきさせんとう', word: '秋沙銭湯', note: '公式読みは「あいさせんとう」' },
 
     // 神無塚
     { hiragana: 'かんなづか', word: '神無塚' },

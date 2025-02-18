@@ -10,6 +10,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>秋沙銭湯</string>
+  <key>shortcut</key>
+  <string>あいさせんとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アウタケ平原</string>
   <key>shortcut</key>
   <string>あうたけへいげん</string>
@@ -2830,6 +2836,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>三川花祭</string>
+  <key>shortcut</key>
+  <string>さんせんはなまつり</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>サンドウォーター</string>
   <key>shortcut</key>
   <string>さんどうぉーたー</string>
@@ -5485,6 +5497,12 @@
   <string>秘典の箱</string>
   <key>shortcut</key>
   <string>ひてんのはこ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヒネ</string>
+  <key>shortcut</key>
+  <string>ひね</string>
 </dict>
 <dict>
   <key>phrase</key>

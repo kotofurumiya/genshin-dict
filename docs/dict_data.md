@@ -6,13 +6,13 @@
 |[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|21|
 |[ワールド/エネミー](./dict/world/enemy.md)|79|
-|[ワールド/イベント](./dict/world/event.md)|11|
+|[ワールド/イベント](./dict/world/event.md)|12|
 |[ワールド/システム](./dict/world/system.md)|40|
 |[ワールド/テイワット](./dict/world/teyvat.md)|120|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|83|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
-|[地域/稲妻](./dict/region/inazuma.md)|52|
+|[地域/稲妻](./dict/region/inazuma.md)|53|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
 |[地域/璃月](./dict/region/liyue.md)|56|
 |[地域/モンド](./dict/region/mondstadt.md)|24|
@@ -27,7 +27,7 @@
 |[人物/カーンルイア](./dict/person/khaenriah.md)|9|
 |[人物/璃月](./dict/person/liyue.md)|52|
 |[人物/モンド](./dict/person/mondstadt.md)|47|
-|[人物/ナタ](./dict/person/natlan.md)|38|
+|[人物/ナタ](./dict/person/natlan.md)|39|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|14|
 |[人物/スメール](./dict/person/sumeru.md)|47|
 |[人物/不明](./dict/person/unknown.md)|11|
