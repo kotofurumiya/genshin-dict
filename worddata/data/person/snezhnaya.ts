@@ -24,5 +24,8 @@ export default {
     { hiragana: 'どっとーれ', word: 'ドットーレ' },
     
     // 主に歴史・文献に登場
+    { hiragana: 'べーるい', word: 'ベールイ' },
+    { hiragana: 'つぁーりべーるい', word: 'ツァーリ・ベールイ' }, // ツァーリ（皇帝）の意で名前ではないと思うが一応記載
+    { hiragana: 'つぁーり・べーるい', word: 'ツァーリ・ベールイ' },
   ]
 } as DictBase;

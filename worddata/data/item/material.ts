@@ -66,6 +66,8 @@ export default {
     { hiragana: 'すぴねるのみ', word: 'スピネルの実' },
     { hiragana: 'けいこうつのきのこ', word: '蛍光ツノキノコ' },
     { hiragana: 'かれししょう', word: '枯れ紫菖' },
+    { hiragana: 'がんれつのはな', word: '岩裂の花' },
+    { hiragana: 'りゅうりんせき', word: '琉鱗石' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

@@ -15,5 +15,7 @@ export default {
     { hiragana: 'らいきんのよきょう', word: '来歆の余響' },
     { hiragana: 'ふぁんとむはんたー', word: 'ファントムハンター' },
     { hiragana: 'おうごんのげきだん', word: '黄金の劇団' },
+    { hiragana: 'しんろう', word: '深廊' },
+    { hiragana: 'しんろうのしゅうきょく', word: '深廊の終局' },
   ]
 } as DictBase;

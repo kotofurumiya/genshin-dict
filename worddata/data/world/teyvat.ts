@@ -25,6 +25,9 @@ export default {
     { hiragana: 'へきろのいえ', word: '壁炉の家' },
     { hiragana: 'はうすおぶはーす', word: '壁炉の家' },
     { hiragana: 'こげつのいがい', word: '古月の遺骸' },
+    { hiragana: 'そうげつ', word: '霜月' },
+    { hiragana: 'こうげつ', word: '虹月' },
+    { hiragana: 'こうげつ', word: '恒月' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -136,9 +139,17 @@ export default {
     { hiragana: 'ひげん', word: '秘源' },
     { hiragana: 'ひげんそうち', word: '秘源装置' },
     { hiragana: 'そうくりん', word: '双駆輪' },
+    { hiragana: 'りゅうじゅう', word: '龍従' },
+    { hiragana: 'つぃつぃみとる', word: '擬似群星' },
+    { hiragana: 'ぎじぐんせい', word: '擬似群星' },
 
     // スネージナヤ
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
     { hiragana: 'ふぁとぅす', word: 'ファトゥス' },
+    { hiragana: 'そうげつのこ', word: '霜月の子' },
+    { hiragana: 'らいときーぱー', word: 'ライトキーパー' },
+    { hiragana: 'わいるどはんと', word: 'ワイルドハント' },
+    { hiragana: 'かちゃかちゃくるむかけこうぼう', word: 'カチャカチャ・クルムカケ工房' },
+    { hiragana: 'かちゃかちゃ・くるむかけこうぼう', word: 'カチャカチャ・クルムカケ工房' },
   ]
 } as DictBase;

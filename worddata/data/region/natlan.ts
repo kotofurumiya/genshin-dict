@@ -68,8 +68,29 @@ export default {
     { hiragana: 'なーさりーおぶないとめあ', word: 'ナーサリー・オブ・ナイトメア' },
     { hiragana: 'なーさりー・おぶ・ないとめあ', word: 'ナーサリー・オブ・ナイトメア' },
 
-    //
+    // アトクパンの大地
+    { hiragana: 'あとくぱんのだいち', word: 'アトクパンの大地' }, 
+    { hiragana: 'せいがんのついらくち', word: '星岩の墜落地' },
+    { hiragana: 'れむなんといせき', word: 'レムナント遺跡' },
     { hiragana: 'ほうじょうのくに', word: '豊穣の邦' }, 
+    { hiragana: 'えつざんのこどう', word: '謁山の古道' },
+    { hiragana: 'えつさんのこどう', word: '謁山の古道' },
+    { hiragana: 'えっさんのこどう', word: '謁山の古道' },
+    { hiragana: 'てんえんのかんむり', word: '天焔の冠' },
 
+    // 古の聖山
+    { hiragana: 'いにしえのせいざん', word: '古の聖山' },
+    { hiragana: 'じゅめいのでん', word: '受命の殿' },
+    { hiragana: 'ちをさずけるうみ', word: '知を授ける海' },
+    { hiragana: 'しゅうえんのさいじょう', word: '集炎の祭場' },
+    { hiragana: 'ぶきこうぼうのあとち', word: '武器工房の跡地' },
+    { hiragana: 'りばーすはーと', word: 'リバース・ハート' },
+    { hiragana: 'りばーす・はーと', word: 'リバース・ハート' },
+    { hiragana: 'えそてりっくあれい', word: 'エソテリック・アレイ' },
+    { hiragana: 'えそてりっく・あれい', word: 'エソテリック・アレイ' },
+    { hiragana: 'つぃつぃみとるのだいざ', word: '擬似天体の台座' },
+    { hiragana: 'ぎじてんたいのだいざ', word: '擬似天体の台座' },
+    { hiragana: 'しんぎのにわ', word: '審議の庭' },
+    { hiragana: 'せいざんのこころ', word: '聖山の心' },
   ]
 } as DictBase;

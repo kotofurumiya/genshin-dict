@@ -22,6 +22,7 @@ export default {
     { hiragana: 'くらばれったさん', word: 'クラバレッタさん', note: 'フリーナのサロン・ソリティアのメンバー' },
     { hiragana: 'しゅゔるーず', word: 'シュヴルーズ' },
     { hiragana: 'えみりえ', word: 'エミリエ' },
+    { hiragana: 'えすこふぃえ', word: 'エスコフィエ' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'まるしらっく', word: 'マルシラック' },
