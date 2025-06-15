@@ -11,5 +11,8 @@ export default {
     // ナド・クライ
     { hiragana: 'などくらい', word: 'ナド・クライ' },
     { hiragana: 'など・くらい', word: 'ナド・クライ' },
+
+    // 古代
+    { hiragana: 'ひゅぺるぼれいあ', word: 'ヒュペルボレイア' },
   ]
 } as DictBase;

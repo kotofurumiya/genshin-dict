@@ -8,6 +8,7 @@ export default {
     // 実装済み・実装予定プレイアブル関係
 
     // ゲーム中や漫画に登場するキャラクター
+    { hiragana: 'こくおう', word: '黒王' },
     { hiragana: 'だいんすれいゔ', word: 'ダインスレイヴ' },
     { hiragana: 'はーるゔだん', word: 'ハールヴダン' },
     { hiragana: 'えるみん', word: 'エルミン' },

@@ -45,5 +45,9 @@ export default {
     { hiragana: 'やこんち', word: '夜魂値' },
     { hiragana: 'やこんばーすと', word: '夜魂バースト' },
     { hiragana: 'やこんとらんす', word: '夜魂トランス' },
+    { hiragana: 'じゃのしちへん', word: '蛇の七変' },
+    { hiragana: 'へびのしちへん', word: '蛇の七変' },
+    { hiragana: 'じゃのこうち', word: '蛇の狡知' },
+    { hiragana: 'へびのこうち', word: '蛇の狡知', note: '「じゃのこうち」読みが正式' },
   ]
 } as DictBase;

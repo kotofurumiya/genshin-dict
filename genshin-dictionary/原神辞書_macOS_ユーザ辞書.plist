@@ -838,6 +838,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ヴォイニッチ商会</string>
+  <key>shortcut</key>
+  <string>ゔぉいにっちしょうかい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヴォイニッチ商会</string>
+  <key>shortcut</key>
+  <string>ヴぉいにっちしょうかい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ウサギ伯爵</string>
   <key>shortcut</key>
   <string>うさぎはくしゃく</string>
@@ -2584,9 +2596,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>黒王</string>
+  <key>shortcut</key>
+  <string>こくおう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>黒災</string>
   <key>shortcut</key>
   <string>こくさい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>黒日王朝</string>
+  <key>shortcut</key>
+  <string>こくじつおうちょう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3211,6 +3235,18 @@
   <string>シャドウハスク</string>
   <key>shortcut</key>
   <string>しゃどうはすく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>蛇の狡知</string>
+  <key>shortcut</key>
+  <string>じゃのこうち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>蛇の七変</string>
+  <key>shortcut</key>
+  <string>じゃのしちへん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3985,6 +4021,12 @@
   <string>赤角石塵滅砕</string>
   <key>shortcut</key>
   <string>せきかくせきじんめっさい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>赤月王朝</string>
+  <key>shortcut</key>
+  <string>せきげつおうちょう</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5212,6 +5254,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ナベリウス</string>
+  <key>shortcut</key>
+  <string>なべりうす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>波しぶきのエラ</string>
   <key>shortcut</key>
   <string>なみしぶきのえら</string>
@@ -5413,6 +5461,12 @@
   <string>爆炎樹</string>
   <key>shortcut</key>
   <string>ばくえんじゅ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>白鵠騎士</string>
+  <key>shortcut</key>
+  <string>はくこくきし</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5713,6 +5767,12 @@
   <string>白狐の野</string>
   <key>shortcut</key>
   <string>びゃっこのや</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ヒュペルボレイア</string>
+  <key>shortcut</key>
+  <string>ひゅぺるぼれいあ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -6112,6 +6172,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>蛇の狡知</string>
+  <key>shortcut</key>
+  <string>へびのこうち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>蛇の七変</string>
+  <key>shortcut</key>
+  <string>へびのしちへん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ベリル地区</string>
   <key>shortcut</key>
   <string>べりるちく</string>
@@ -6463,6 +6535,12 @@
   <string>魔像レガトゥス</string>
   <key>shortcut</key>
   <string>まぞうれがとぅす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>末光の剣</string>
+  <key>shortcut</key>
+  <string>まっこうのつるぎ</string>
 </dict>
 <dict>
   <key>phrase</key>

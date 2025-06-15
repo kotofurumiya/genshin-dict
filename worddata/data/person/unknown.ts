@@ -18,8 +18,9 @@ export default {
     // 主に歴史・文献に登場
     { hiragana: 'げんしょのあのかた', word: '原初のあの方' },
     { hiragana: 'ぱねーす', word: 'パネース' },
-    { hiragana: 'いすたろと', word: 'イスタロト' },
-    { hiragana: 'ろのゔぁ', word: 'ロノヴァ' },
+    { hiragana: 'いすたろと', word: 'イスタロト', note: '時の執政' },
+    { hiragana: 'ろのゔぁ', word: 'ロノヴァ', note: '死の執政' },
+    { hiragana: 'なべりうす', word: 'ナベリウス', note: '生の執政' },
     { hiragana: 'にーべるんげん', word: 'ニーベルンゲン' },
   ]
 } as DictBase;

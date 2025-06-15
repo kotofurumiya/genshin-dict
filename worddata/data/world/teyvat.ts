@@ -149,7 +149,16 @@ export default {
     { hiragana: 'そうげつのこ', word: '霜月の子' },
     { hiragana: 'らいときーぱー', word: 'ライトキーパー' },
     { hiragana: 'わいるどはんと', word: 'ワイルドハント' },
+    { hiragana: 'ゔぉいにっちしょうかい', word: 'ヴォイニッチ商会' },
     { hiragana: 'かちゃかちゃくるむかけこうぼう', word: 'カチャカチャ・クルムカケ工房' },
     { hiragana: 'かちゃかちゃ・くるむかけこうぼう', word: 'カチャカチャ・クルムカケ工房' },
+
+    // カーンルイア
+    { hiragana: 'せきげつおうちょう', word: '赤月王朝' },
+    { hiragana: 'こくじつおうちょう', word: '黒日王朝' },
+    // { hiragana: 'こくじゃきし', word: '黒蛇騎士' },
+    { hiragana: 'はくこくきし', word: '白鵠騎士' },
+    { hiragana: 'まっこうのつるぎ', word: '末光の剣' },
+
   ]
 } as DictBase;
