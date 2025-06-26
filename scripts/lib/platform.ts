@@ -69,3 +69,15 @@ export const toUtf16BOM = (str: string): Buffer => {
   const u16leBuf = Buffer.from(`\ufeff${str}`, 'utf16le');
   return u16leBuf;
 };
+
+export const toSkkDict = (items: DictItem[]) => {
+  const head = `;; -*- fundamental -*- ; coding: utf-8 -*-
+;; okuri-ari entries.
+;; okuri-nasi entries.`;
+  const dicts = items
+    .map(({ hiragana, word }) => {
+      return `${hiragana} /${word}/`;
+    })
+    .join('\n');
+  return [head, dicts].join('\n');
+};
