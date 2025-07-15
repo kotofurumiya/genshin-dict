@@ -50,6 +50,7 @@ export default {
     { hiragana: 'しんおう', word: '神櫻' },
     { hiragana: 'しゅうまつばん', word: '終末番' },
     { hiragana: 'こまにや', word: '狛荷屋' },
+    { hiragana: 'せんじゅひゃくもくしんぞう', word: '千手百目神像' },
 
     // スメール
     { hiragana: 'きょうれいいん', word: '教令院' },
@@ -159,6 +160,6 @@ export default {
     // { hiragana: 'こくじゃきし', word: '黒蛇騎士' },
     { hiragana: 'はくこくきし', word: '白鵠騎士' },
     { hiragana: 'まっこうのつるぎ', word: '末光の剣' },
-
+    { hiragana: 'ごだいつみびと', word: '五大罪人' },
   ]
 } as DictBase;

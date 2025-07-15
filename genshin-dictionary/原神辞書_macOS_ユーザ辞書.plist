@@ -100,6 +100,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アスモダイ</string>
+  <key>shortcut</key>
+  <string>あすもだい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アゾス物質</string>
   <key>shortcut</key>
   <string>あぞすぶっしつ</string>
@@ -577,6 +583,12 @@
   <string>古の聖山</string>
   <key>shortcut</key>
   <string>いにしえのせいざん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>イネファ</string>
+  <key>shortcut</key>
+  <string>いねふぁ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2668,6 +2680,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>五大罪人</string>
+  <key>shortcut</key>
+  <string>ごだいつみびと</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>固体燃素</string>
   <key>shortcut</key>
   <string>こたいねんそ</string>
@@ -4138,6 +4156,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>千手百目神像</string>
+  <key>shortcut</key>
+  <string>せんじゅひゃくもくしんぞう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>千尋の砂漠</string>
   <key>shortcut</key>
   <string>せんじんのさばく</string>
@@ -5419,6 +5443,12 @@
   <string>バーティンの珍奇館</string>
   <key>shortcut</key>
   <string>ばーてぃんのちんきかん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ハーデン</string>
+  <key>shortcut</key>
+  <string>はーでん</string>
 </dict>
 <dict>
   <key>phrase</key>

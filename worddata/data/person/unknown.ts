@@ -21,6 +21,7 @@ export default {
     { hiragana: 'いすたろと', word: 'イスタロト', note: '時の執政' },
     { hiragana: 'ろのゔぁ', word: 'ロノヴァ', note: '死の執政' },
     { hiragana: 'なべりうす', word: 'ナベリウス', note: '生の執政' },
+    { hiragana: 'あすもだい', word: 'アスモダイ', note: '空の執政' },
     { hiragana: 'にーべるんげん', word: 'ニーベルンゲン' },
   ]
 } as DictBase;

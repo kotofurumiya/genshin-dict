@@ -11,12 +11,13 @@ export default {
     { hiragana: 'こくおう', word: '黒王' },
     { hiragana: 'だいんすれいゔ', word: 'ダインスレイヴ' },
     { hiragana: 'はーるゔだん', word: 'ハールヴダン' },
+    { hiragana: 'はーでん', word: 'ハーデン', note: 'ダインスレイヴの師' },
     { hiragana: 'えるみん', word: 'エルミン' },
-    { hiragana: 'ふろぷたちゅーる', word: 'フロプタチュール' },
-    { hiragana: 'するとろっち', word: 'スルトロッチ' },
-    { hiragana: 'ゔぇずるふぇるにる', word: 'ヴェズルフェルニル' },
-    { hiragana: 'れいんどっと', word: 'レインドット' },
-    { hiragana: 'れりる', word: 'レリル' },
+    { hiragana: 'ふろぷたちゅーる', word: 'フロプタチュール', note: '五大罪人の「賢者」' },
+    { hiragana: 'するとろっち', word: 'スルトロッチ', note: '五大罪人の「極悪騎」' },
+    { hiragana: 'ゔぇずるふぇるにる', word: 'ヴェズルフェルニル', note: '五大罪人の「予言者」' },
+    { hiragana: 'れいんどっと', word: 'レインドット', note: '五大罪人の「黄金」' },
+    { hiragana: 'れりる', word: 'レリル', note: '五大罪人の「月の狩人」' },
     { hiragana: 'ぐすれっど', word: 'グスレッド', note: '隊長の部下' },
 
     // 主に歴史・文献に登場
