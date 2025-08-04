@@ -124,6 +124,7 @@ export default {
 
     // ナタ
     { hiragana: 'むらたじん', word: 'ムラタ人' },
+    { hiragana: 'むーなたじん', word: 'ムーナタ人' },
     { hiragana: 'こめい', word: '古名' },
     { hiragana: 'きかせいや', word: '帰火聖夜' },
     { hiragana: 'きかせいやのじゅんれい', word: '帰火聖夜の巡礼' },
@@ -143,10 +144,13 @@ export default {
     { hiragana: 'りゅうじゅう', word: '龍従' },
     { hiragana: 'つぃつぃみとる', word: '擬似群星' },
     { hiragana: 'ぎじぐんせい', word: '擬似群星' },
+    { hiragana: 'しこうなるりょうしゅ', word: '至高なる領主' },
+    { hiragana: 'すいせきのほこ', word: '燧石の鉾' },
 
     // スネージナヤ
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
     { hiragana: 'ふぁとぅす', word: 'ファトゥス' },
+    { hiragana: 'つきのわ', word: '月の輪' },
     { hiragana: 'そうげつのこ', word: '霜月の子' },
     { hiragana: 'らいときーぱー', word: 'ライトキーパー' },
     { hiragana: 'わいるどはんと', word: 'ワイルドハント' },

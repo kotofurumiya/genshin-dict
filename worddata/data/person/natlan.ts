@@ -32,6 +32,8 @@ export default {
     { hiragana: 'あみな', word: 'アミナ', note:'流泉の衆の族長' },
     { hiragana: 'びらむ', word: 'ビラム', note:'謎煙の主の族長' },
     { hiragana: 'むとた', word: 'ムトタ', note:'花翼の集の族長' },
+    { hiragana: 'あろに', word: 'アロニ', note:'ベネットの母' },
+    { hiragana: 'まかんに', word: 'マカンニ', note:'ベネットの父' },
 
     // 主に歴史・文献に登場
     { hiragana: 'しゅばらんけ', word: 'シュバランケ' },
@@ -44,12 +46,29 @@ export default {
     { hiragana: 'ちゃあく', word: 'チャアク' },
     { hiragana: 'おちかん', word: 'オチカン' },
     { hiragana: 'てのっち', word: 'テノッチ' },
-    { hiragana: 'とぅぱっく', word: 'トゥパック' },
+    { hiragana: 'てのよろちん', word: 'テノヨロチン' },
+    { hiragana: 'とぅぱっく', word: 'トゥパック', note: '500年前の流泉の衆の英雄' },
+    { hiragana: 'めねりく', word: 'メネリク', note: '500年前の花翼の集の英雄' },
+    { hiragana: 'すんじゃた', word: 'スンジャタ', note: '500年前のこだまの子の英雄' },
+    { hiragana: 'わんじる', word: 'ワンジル', note: '500年前の豊穣の邦の英雄' },
+    { hiragana: 'さんはじ', word: 'サンハジ', note: '500年前の謎煙の主の英雄' },
+    { hiragana: 'さんはじこんぽれ', word: 'サンハジ・コンポレ', note: '500年前の謎煙の主の英雄' },
+    { hiragana: 'さんはじ・こんぽれ', word: 'サンハジ・コンポレ', note: '500年前の謎煙の主の英雄' },
+    { hiragana: 'ぶるきな', word: 'ブルキナ', note: '500年前の懸木の民の英雄' },
     { hiragana: 'うぃつぃりん', word: 'ウィツィリン' },
+    { hiragana: 'りあんか', word: 'リアンカ' },
+    { hiragana: 'いき', word: 'イキ' },
+    { hiragana: 'のちてぃ', word: 'ノチティ' },
 
     // 古名
-    { hiragana: 'うっさびーてぃ', word: 'ウッサビーティ' },
-    { hiragana: 'うもじゃ', word: 'ウモジャ' },
-    { hiragana: 'まりぽ', word: 'マリポ' },
+    { hiragana: 'きおんごずぃ', word: 'キオンゴズィ', note: '「指導者」の古名' },
+    { hiragana: 'うっさびーてぃ', word: 'ウッサビーティ', note: '「不屈」の古名' },
+    { hiragana: 'うもじゃ', word: 'ウモジャ', note: '「団結」の古名' },
+    { hiragana: 'まりぽ', word: 'マリポ', note: '「廻炎」の古名' },
+    { hiragana: 'ばれか', word: 'バレカ', note: '「祝福」の古名' },
+    { hiragana: 'ゔーか', word: 'ヴーカ', note: '「超越」の古名' },
+    { hiragana: 'びでぃー', word: 'ビディー', note: '「献身」の古名' },
+    { hiragana: 'ううぃーぞ', word: 'ウウィーゾ', note: '「力」の古名' },
+    { hiragana: 'とぅまいに', word: 'トゥマイニ', note: '「希望」の古名' },
   ]
 } as DictBase;

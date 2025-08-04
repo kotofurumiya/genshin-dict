@@ -33,6 +33,7 @@ export default {
     { hiragana: 'ろーれんす', word: 'ローレンス', note: 'ファミリーネーム' },
     { hiragana: 'みか', word: 'ミカ' },
     { hiragana: 'だりあ', word: 'ダリア' },
+    { hiragana: 'どぅりん', word: 'ドゥリン' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'でからびあん', word: 'デカラビアン' },

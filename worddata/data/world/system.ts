@@ -5,28 +5,39 @@ export default {
   title: 'システム',
   hinshi: '普通名詞',
   items: [
+    // 会社・製品
     { hiragana: 'みほよ', word: 'miHoYo' },
     { hiragana: 'こぐのすふぃあ', word: 'COGNOSPHERE' },
     { hiragana: 'ほよばーす', word: 'HoYoverse' },
     { hiragana: 'ほよゔぁーす', word: 'HoYoverse' },
     { hiragana: 'げんしん', word: '原神' },
+
+    // クエスト
     { hiragana: 'まじんにんむ', word: '魔神任務' },
     { hiragana: 'でんせつにんむ', word: '伝説任務' },
     { hiragana: 'せかいにんむ', word: '世界任務' },
     { hiragana: 'いらいにんむ', word: '依頼任務' },
+
+    // 消費アイテム
     { hiragana: 'てんねんじゅし', word: '天然樹脂' },
     { hiragana: 'ぜいじゃくじゅし', word: '脆弱樹脂' },
     { hiragana: 'のうしゅくじゅし', word: '濃縮樹脂' },
     { hiragana: 'せつなじゅし', word: '刹那樹脂' },
+
+    // 戦闘
     { hiragana: 'げんそじゅくち', word: '元素熟知' },
     { hiragana: 'げんそちゃーじ', word: '元素チャージ' },
     { hiragana: 'げんそすきる', word: '元素スキル' },
     { hiragana: 'げんそばくはつ', word: '元素爆発' },
     { hiragana: 'げんそはんのう', word: '元素反応' },
     { hiragana: 'げんそきょうめい', word: '元素共鳴' },
+
+    // 紀行
     { hiragana: 'だいちきこう', word: '大地紀行' },
     { hiragana: 'てんくうきこう', word: '天空紀行' },
     { hiragana: 'しんじゅのうた', word: '真珠の歌' },
+
+    // ガチャ
     { hiragana: 'げんせき', word: '原石' },
     { hiragana: 'そうせいけっしょう', word: '創世結晶' },
     { hiragana: 'しんちゅう', word: '神鋳' },
@@ -35,12 +46,19 @@ export default {
     { hiragana: 'しんちゅうめいてい', word: '神鋳命定' },
     { hiragana: 'めいていち', word: '命定値' },
     { hiragana: 'しゅうろくきがん', word: '集録祈願' },
+
+    // 元素反応
     { hiragana: 'そうげんかく', word: '草原核' },
     { hiragana: 'れつかいか', word: '烈開花' },
     { hiragana: 'げんげきか', word: '原激化' },
     { hiragana: 'ちょうげきか', word: '超激化' },
     { hiragana: 'そうげきか', word: '草激化' },
+    { hiragana: 'つきかんでん', word: '月感電' },
+
+    // 聖遺物
     { hiragana: 'かいせい', word: '廻聖' },
+
+    // 特殊システム
     { hiragana: 'やこん', word: '夜魂' },
     { hiragana: 'やこんち', word: '夜魂値' },
     { hiragana: 'やこんばーすと', word: '夜魂バースト' },

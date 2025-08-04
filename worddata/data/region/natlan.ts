@@ -59,6 +59,9 @@ export default {
     // オシカ・ナタ
     { hiragana: 'おしかなた', word: 'オシカ・ナタ' },
     { hiragana: 'おしか・なた', word: 'オシカ・ナタ' },
+    { hiragana: 'あっしゅふろーがい', word: 'アッシュフロー街' },
+    { hiragana: 'ゔくぶかきしゅのとう', word: 'ヴクブ・カキシュの塔' },
+    { hiragana: 'ゔくぶ・かきしゅのとう', word: 'ヴクブ・カキシュの塔' },
     { hiragana: 'げんむのくれいどる', word: '幻夢のクレイドル' },
     { hiragana: 'とぞずとう', word: 'トゾズ島' },
     { hiragana: 'じんかしょうじんのち', word: '燼火焼尽の地' },
@@ -92,5 +95,18 @@ export default {
     { hiragana: 'ぎじてんたいのだいざ', word: '擬似天体の台座' },
     { hiragana: 'しんぎのにわ', word: '審議の庭' },
     { hiragana: 'せいざんのこころ', word: '聖山の心' },
+
+    // のびのびリゾート
+    { hiragana: 'のびのびりぞーと', word: 'のびのびリゾート' },
+    { hiragana: 'てのちずとく', word: 'テノチズトク' },
+    { hiragana: 'てぃてぃとう', word: 'ティティ島' },
+    { hiragana: 'ぱいんとうげ', word: 'パイン峠' },
+    { hiragana: 'ぱいんのこみち', word: 'パインの小道' },
+    { hiragana: 'ちょこたすたうん', word: 'チョコタスタウン' },
+    { hiragana: 'ざぶざぶわん', word: 'ざぶざぶ湾' },
+    { hiragana: 'ひゅうひゅうおか', word: 'ひゅうひゅう丘' },
+    { hiragana: 'からふるがけ', word: 'カラフル崖' },
+    { hiragana: 'からふるどうくつ', word: 'カラフル洞窟' },
+    { hiragana: 'のびのびまーけっと', word: 'のびのびマーケット' },
   ]
 } as DictBase;
