@@ -1,7 +1,7 @@
 import path from 'node:path';
 import url from "node:url";
 import { globSync } from 'node:fs'
-import { Dict, DictBase } from './dict';
+import type { Dict, DictBase } from './dict.d.ts';
 
 const filename = url.fileURLToPath(import.meta.url);
 const dirname = path.dirname(filename);

@@ -1,11 +1,11 @@
 import fs from 'fs';
 import url from 'url';
 import path from 'path';
-import { loadDictList } from '../worddata/index.js';
-import { toKotoeriDict, toMacUserDict, toWindowsImeDict, expandVuHiragana, toUtf16BOM } from './lib/platform.js';
-import { generateDocs } from './lib/docgen.js';
-import { DictItem } from '../worddata/dict.js';
-import { findDuplicateItems, validateDictItemsYomigana } from './lib/validate.js';
+import { loadDictList } from '../worddata/index.ts';
+import { toKotoeriDict, toMacUserDict, toWindowsImeDict, expandVuHiragana, toUtf16BOM } from './lib/platform.ts';
+import { generateDocs } from './lib/docgen.ts';
+import type { DictItem } from '../worddata/dict.d.ts';
+import { findDuplicateItems, validateDictItemsYomigana } from './lib/validate.ts';
 
 const filename = url.fileURLToPath(import.meta.url);
 const dirname = path.dirname(filename);

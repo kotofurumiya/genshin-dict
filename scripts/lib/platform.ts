@@ -1,4 +1,4 @@
-import { DictItem, KotoeriHinshi, WindowsImeHinshi } from '../../worddata/dict';
+import type { DictItem, KotoeriHinshi, WindowsImeHinshi } from '../../worddata/dict.d.ts';
 
 export const expandVuHiragana = (items: DictItem[]) => {
   // "ゔ"が入力できず"ヴ"になるIMEがあるので

@@ -1,4 +1,4 @@
-import { Dict, DictItem } from '../../worddata/dict';
+import type { Dict, DictItem } from '../../worddata/dict.d.ts';
 
 const createMdTable = (items: DictItem[]): string => {
   const head = '|単語|読み|品詞|備考|';
