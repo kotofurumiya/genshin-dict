@@ -104,5 +104,8 @@ export default {
     { hiragana: 'しゅうこうのぶれいどらいの', word: '集光のブレイドライノ' },
     { hiragana: 'らせんだこ', word: '螺旋蛸' },
     { hiragana: 'しゅうこうのらせんだこ', word: '集光の螺旋蛸' },
+    { hiragana: 'りんろう', word: '凛狼' },
+    { hiragana: 'しゅうこうのりんろう', word: '集光の凛狼' },
+    { hiragana: 'やみのりょうし', word: '闇の漁師' },
   ]
 } as DictBase;

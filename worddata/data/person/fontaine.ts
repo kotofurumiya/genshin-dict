@@ -35,6 +35,8 @@ export default {
     { hiragana: 'ばざる', word: 'バザル' },
     { hiragana: 'るね', word: 'ルネ' },
     { hiragana: 'なるつぃっせんくろいつ', word: 'ナルツィッセンクロイツ' },
+    { hiragana: 'あらん', word: 'アラン' },
+    { hiragana: 'きかいこう', word: '奇械公', note: 'アラン・ギヨタンの異名' },
     { hiragana: 'まりあん', word: 'マリアン' },
     { hiragana: 'ぎよたん', word: 'ギヨタン' },
     { hiragana: 'かーたー', word: 'カーター' },

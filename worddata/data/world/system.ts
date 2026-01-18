@@ -56,7 +56,9 @@ export default {
     { hiragana: 'そうげきか', word: '草激化' },
     { hiragana: 'つきかんでん', word: '月感電' },
     { hiragana: 'つきかいか', word: '月開花' },
+    { hiragana: 'つきけっしょう', word: '月結晶' },
     { hiragana: 'そうろ', word: '草露' },
+    { hiragana: 'つきごもり', word: '月籠' },
 
     // 聖遺物
     { hiragana: 'かいせい', word: '廻聖' },

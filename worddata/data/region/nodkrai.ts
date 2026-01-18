@@ -48,5 +48,32 @@ export default {
     { hiragana: 'くーゔぁきじっけんせっけいきょく', word: 'クーヴァキ実験設計局' },
     { hiragana: 'えんしょくのどうくつ', word: '塩蝕の洞窟' },
     { hiragana: 'よあかしのはか', word: '夜明かしの墓' },
+
+    // 海を望めぬ峰
+    { hiragana: 'うみをのぞめぬみね', word: '海を望めぬ峰' },
+    { hiragana: 'ぴらみだ', word: 'ピラミダ' },
+    { hiragana: 'やくえいのぬまち', word: '厄影の沼地' },
+    { hiragana: 'まじょのはなぞの', word: '魔女の花園' },
+
+    // 波追いの峠
+    { hiragana: 'なみおいのとうげ', word: '波追いの峠' },
+    { hiragana: 'えんぶらのはしら', word: 'エンブラの柱' },
+    { hiragana: 'けーれすのつばさ', word: 'ケーレスの翼' },
+    { hiragana: 'せいふうのとりで', word: '西風の砦' },
+    { hiragana: 'せぴゅろすのとりで', word: '西風の砦' },
+    { hiragana: 'あーむすゔぁるとにるこ', word: 'アームスヴァルトニル湖' },
+    { hiragana: 'ざんしょうのがんくつ', word: '残照の岩窟' },
+
+    // 煙雲の山
+    { hiragana: 'えんうんのやま', word: '煙雲の山' },
+    { hiragana: 'くりふさいどきゃんぷ', word: 'クリフサイド・キャンプ' },
+    { hiragana: 'くりふさいど・きゃんぷ', word: 'クリフサイド・キャンプ' },
+    { hiragana: 'きぷまきのがけ', word: 'キプマキの崖' },
+    { hiragana: 'きぷまきのそこ', word: 'キプマキの底' },
+    { hiragana: 'くなんのみち', word: '苦難の道' },
+    { hiragana: 'はてなきしんこく', word: '果てなき深谷' },
+    { hiragana: 'えいれいのさいでん', word: '英霊の祭殿' },
+    { hiragana: 'とくべつかんかつくけんきゅうじょ', word: '特別管轄区研究所' },
+    { hiragana: 'ぎげつのけんきゅうじょ', word: '偽月の研究所' },
   ]
 } as DictBase;

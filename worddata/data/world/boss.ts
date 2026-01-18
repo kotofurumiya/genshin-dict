@@ -62,5 +62,7 @@ export default {
     { hiragana: 'しゅうこうのげんげつちょう', word: '集光の幻月蝶' },
     { hiragana: 'れいしゅ', word: '霊主' },
     { hiragana: 'しもよのそらをめぐるれいしゅ', word: '霜夜の空を巡る霊主' },
+    { hiragana: 'くらきえんむのあるじ', word: '昏き魘夢の主' },
+    { hiragana: 'くらきえんむのぬし', word: '昏き魘夢の主' },
   ]
 } as DictBase;

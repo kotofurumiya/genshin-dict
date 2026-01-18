@@ -29,6 +29,7 @@ export default {
     { hiragana: 'こうげつ', word: '虹月' },
     { hiragana: 'こうげつ', word: '恒月' },
     { hiragana: 'ごうげつ', word: '恒月' },
+    { hiragana: 'そうかのたたかい', word: '葬火の戦い', note: '天理とニーベルンゲンの戦い' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -177,6 +178,15 @@ export default {
     { hiragana: 'ゔぉいにっちしょうかい', word: 'ヴォイニッチ商会' },
     { hiragana: 'かちゃかちゃくるむかけこうぼう', word: 'カチャカチャ・クルムカケ工房' },
     { hiragana: 'かちゃかちゃ・くるむかけこうぼう', word: 'カチャカチャ・クルムカケ工房' },
+    { hiragana: 'しるばーらんぷのしん', word: 'シルバーランプの芯' },
+    { hiragana: 'てるぴけらうなすのや', word: 'テルピケラウナスの矢' },
+    { hiragana: 'すぱいらるそーど', word: 'スパイラルソード' },
+    { hiragana: 'げっかのみ', word: '月華の実' },
+    { hiragana: 'れいろうのはな', word: '玲瓏の花' },
+    { hiragana: 'げっしゅうばりあ', word: '月集バリア' },
+    { hiragana: 'れいいきのはな', word: '霊域の花' },
+    { hiragana: 'すぷりんぐこっとん', word: 'スプリングコットン' },
+    { hiragana: 'とがりばな', word: 'トガリバナ' },
 
     // スネージナヤ
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },

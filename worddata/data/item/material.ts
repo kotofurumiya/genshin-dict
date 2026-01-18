@@ -75,6 +75,8 @@ export default {
     { hiragana: 'そまるのみ', word: 'ソマルの実' },
     { hiragana: 'かんぱせき', word: '寒波石' },
     { hiragana: 'しゅくえいか', word: '宿影花' },
+    { hiragana: 'ゔぃんてるそう', word: 'ヴィンテル草' },
+    { hiragana: 'こはくこう', word: '琥珀香' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },
