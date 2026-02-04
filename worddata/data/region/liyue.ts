@@ -44,6 +44,7 @@ export default {
     { hiragana: 'ぎょくけいだい', word: '玉京台' },
     { hiragana: 'げつかいてい', word: '月海亭' },
     { hiragana: 'げっかいてい', word: '月海亭' },
+    { hiragana: 'はっくげきりょ', word: '白駒逆旅' },
 
     // 沈玉の谷
     { hiragana: 'ちんぎょくのたに', word: '沈玉の谷' },
@@ -63,5 +64,8 @@ export default {
     { hiragana: 'きんわくのにわ', word: '錦落の庭' },
     { hiragana: 'れいすうのにわ', word: '霊枢の庭' },
     { hiragana: 'ちんろうえん', word: '沈瓏淵' },
+
+    // 古代
+    { hiragana: 'ろうかん', word: '琅玕' },
   ]
 } as DictBase;

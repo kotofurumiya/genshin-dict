@@ -1930,6 +1930,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>岩主</string>
+  <key>shortcut</key>
+  <string>がんしゅ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>岩主天星</string>
+  <key>shortcut</key>
+  <string>がんしゅてんせい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ガンダ丘</string>
   <key>shortcut</key>
   <string>がんだおか</string>
@@ -2386,6 +2398,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>金目乗黄月駒</string>
+  <key>shortcut</key>
+  <string>きんもくじょうこうげっく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>金リンゴ群島</string>
   <key>shortcut</key>
   <string>きんりんごぐんとう</string>
@@ -2818,9 +2836,21 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>下尸神</string>
+  <key>shortcut</key>
+  <string>げししん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ゲシュタル塔</string>
   <key>shortcut</key>
   <string>げしゅたるとう</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>月翳</string>
+  <key>shortcut</key>
+  <string>げつえい</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3454,6 +3484,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>削月</string>
+  <key>shortcut</key>
+  <string>さくげつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>削月築陽真君</string>
   <key>shortcut</key>
   <string>さくげつちくようしんくん</string>
@@ -3577,6 +3613,12 @@
   <string>珊瑚宮心海</string>
   <key>shortcut</key>
   <string>さんごのみやここみ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>三尸神</string>
+  <key>shortcut</key>
+  <string>さんししん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3748,6 +3790,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>茲蹻</string>
+  <key>shortcut</key>
+  <string>しきゃく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>茲踞</string>
+  <key>shortcut</key>
+  <string>しきょ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>シグウィン</string>
   <key>shortcut</key>
   <string>しぐうぃん</string>
@@ -3766,6 +3820,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>尸神</string>
+  <key>shortcut</key>
+  <string>ししん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>志璇</string>
   <key>shortcut</key>
   <string>しせん</string>
@@ -3775,6 +3835,12 @@
   <string>自然哲学学院</string>
   <key>shortcut</key>
   <string>しぜんてつがくがくいん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>茲躓</string>
+  <key>shortcut</key>
+  <string>しち</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3841,6 +3907,12 @@
   <string>シニョーラ</string>
   <key>shortcut</key>
   <string>しにょーら</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>兹白</string>
+  <key>shortcut</key>
+  <string>しはく</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4165,6 +4237,12 @@
   <string>証悟材</string>
   <key>shortcut</key>
   <string>しょうござい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>上尸神</string>
+  <key>shortcut</key>
+  <string>じょうししん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5026,6 +5104,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>詹諸呑月</string>
+  <key>shortcut</key>
+  <string>せんしょどんげつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>千尋の砂漠</string>
   <key>shortcut</key>
   <string>せんじんのさばく</string>
@@ -5491,6 +5575,12 @@
   <string>中央実験室跡地</string>
   <key>shortcut</key>
   <string>ちゅうおうじっけんしつあとち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>中尸神</string>
+  <key>shortcut</key>
+  <string>ちゅうししん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5989,6 +6079,12 @@
   <string>洞天宝銭</string>
   <key>shortcut</key>
   <string>どうてんほうせん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>桃都</string>
+  <key>shortcut</key>
+  <string>とうと</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -6640,6 +6736,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>擘那</string>
+  <key>shortcut</key>
+  <string>はくな</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>バクナワ</string>
   <key>shortcut</key>
   <string>ばくなわ</string>
@@ -6667,6 +6769,12 @@
   <string>パタパタ氷マッシュロン</string>
   <key>shortcut</key>
   <string>ぱたぱたこおりまっしゅろん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>白駒逆旅</string>
+  <key>shortcut</key>
+  <string>はっくげきりょ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -8884,6 +8992,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>理水</string>
+  <key>shortcut</key>
+  <string>りすい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>理水畳山真君</string>
   <key>shortcut</key>
   <string>りすいじょうざんしんくん</string>
@@ -8935,6 +9049,12 @@
   <string>リフィー地区</string>
   <key>shortcut</key>
   <string>りふぃーちく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>留雲借</string>
+  <key>shortcut</key>
+  <string>りゅううん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -9256,6 +9376,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>琅玕</string>
+  <key>shortcut</key>
+  <string>ろうかん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>老茶樹の丘</string>
   <key>shortcut</key>
   <string>ろうちゃじゅのおか</string>
@@ -9316,6 +9442,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>盧香香</string>
+  <key>shortcut</key>
+  <string>ろこうこう</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ロサリア</string>
   <key>shortcut</key>
   <string>ろさりあ</string>
@@ -9331,6 +9463,12 @@
   <string>ロザリン・クルーズチカ・ローエファルタ</string>
   <key>shortcut</key>
   <string>ろざりん・くるーずちか・ろーえふぁるた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>盧じい</string>
+  <key>shortcut</key>
+  <string>ろじい</string>
 </dict>
 <dict>
   <key>phrase</key>

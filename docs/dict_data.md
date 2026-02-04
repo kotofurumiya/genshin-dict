@@ -8,13 +8,13 @@
 |[ワールド/エネミー](./dict/world/enemy.md)|102|
 |[ワールド/イベント](./dict/world/event.md)|12|
 |[ワールド/システム](./dict/world/system.md)|60|
-|[ワールド/テイワット](./dict/world/teyvat.md)|178|
+|[ワールド/テイワット](./dict/world/teyvat.md)|185|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|83|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
 |[地域/稲妻](./dict/region/inazuma.md)|53|
 |[地域/カーンルイア](./dict/region/khaenriah.md)|1|
-|[地域/璃月](./dict/region/liyue.md)|56|
+|[地域/璃月](./dict/region/liyue.md)|58|
 |[地域/モンド](./dict/region/mondstadt.md)|24|
 |[地域/ナタ](./dict/region/natlan.md)|81|
 |[地域/ナド・クライ](./dict/region/nodkrai.md)|56|
@@ -26,7 +26,7 @@
 |[人物/フォンテーヌ](./dict/person/fontaine.md)|38|
 |[人物/稲妻](./dict/person/inazuma.md)|50|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|18|
-|[人物/璃月](./dict/person/liyue.md)|52|
+|[人物/璃月](./dict/person/liyue.md)|66|
 |[人物/モンド](./dict/person/mondstadt.md)|50|
 |[人物/ナタ](./dict/person/natlan.md)|59|
 |[人物/ナド・クライ](./dict/person/nodkrai.md)|32|

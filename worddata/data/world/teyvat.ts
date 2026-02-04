@@ -30,6 +30,7 @@ export default {
     { hiragana: 'こうげつ', word: '恒月' },
     { hiragana: 'ごうげつ', word: '恒月' },
     { hiragana: 'そうかのたたかい', word: '葬火の戦い', note: '天理とニーベルンゲンの戦い' },
+    { hiragana: 'げつえい', word: '月翳' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -44,6 +45,12 @@ export default {
     { hiragana: 'そうせんぎしき', word: '送仙儀式' },
     { hiragana: 'うんかんしゃ', word: '雲翰社' },
     { hiragana: 'こかは', word: '古華派' },
+    { hiragana: 'せんしょどんげつ', word: '詹諸呑月' },
+    { hiragana: 'ししん', word: '尸神' },
+    { hiragana: 'さんししん', word: '三尸神' },
+    { hiragana: 'じょうししん', word: '上尸神' },
+    { hiragana: 'ちゅうししん', word: '中尸神' },
+    { hiragana: 'げししん', word: '下尸神' },
 
     // 稲妻
     { hiragana: 'あめのま', word: '天目' },
