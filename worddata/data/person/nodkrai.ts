@@ -28,6 +28,7 @@ export default {
     { hiragana: 'すーし', word: 'スーシ' },
     { hiragana: 'しぐるど', word: 'シグルド' },
     { hiragana: 'にきーた', word: 'ニキータ' },
+    { hiragana: 'くらいの', word: 'クライノ', note: 'リンネアの姉' },
     
     // 主に歴史・文献に登場
     { hiragana: 'れっどみらー', word: 'レッド・ミラー' },

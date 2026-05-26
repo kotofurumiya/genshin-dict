@@ -64,5 +64,7 @@ export default {
     { hiragana: 'しもよのそらをめぐるれいしゅ', word: '霜夜の空を巡る霊主' },
     { hiragana: 'くらきえんむのあるじ', word: '昏き魘夢の主' },
     { hiragana: 'くらきえんむのぬし', word: '昏き魘夢の主' },
+    { hiragana: 'あふぁーるのとり', word: 'アファールの鳥', note: '空の神殿のクエストボス' },
+    { hiragana: 'しゅうこうのつきやもり', word: '集光の月ヤモリ' },
   ]
 } as DictBase;

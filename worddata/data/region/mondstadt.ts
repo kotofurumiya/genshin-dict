@@ -29,5 +29,23 @@ export default {
     { hiragana: 'ちかいのみさき', word: '誓いの岬' },
     { hiragana: 'あかつきわいなりー', word: 'アカツキワイナリー' },
     { hiragana: 'ますくしょう', word: 'マスク礁' },
+
+    // ドーンマンポート
+    { hiragana: 'かぜやみのやま', word: '風止みの山' },
+    { hiragana: 'どーんまんぽーと', word: 'ドーンマンポート' },
+    { hiragana: 'みるはーゔぇん', word: 'ミルハーヴェン' },
+    { hiragana: 'りょうようじょあとち', word: '療養所跡地' },
+
+    // 空の神殿
+    { hiragana: 'くうのしんでん', word: '空の神殿' },
+    { hiragana: 'わすれられたせかいへのみち', word: '忘れられた世界への道' },
+    { hiragana: 'せんちゅうちゅうおうえりあ', word: '千柱中央エリア' },
+    { hiragana: 'ひゆうひむのおり', word: '非有非無の檻' },
+    { hiragana: 'むふくのま', word: '無覆の間' },
+    { hiragana: 'だいほうこう', word: '大方広' },
+    { hiragana: 'だいほうこうのま', word: '大方広の間' },
+    { hiragana: 'ろくようしょいん', word: '麓陽書院' },
+    { hiragana: 'さじょうのろうかく', word: '砂上の楼閣' },
+    { hiragana: 'むそうのま', word: '無想の間' },
   ]
 } as DictBase;
