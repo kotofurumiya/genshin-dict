@@ -3928,6 +3928,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>白音</string>
+  <key>shortcut</key>
+  <string>しおん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>鹿野院</string>
   <key>shortcut</key>
   <string>しかのいん</string>
@@ -4075,6 +4081,12 @@
   <string>兹白</string>
   <key>shortcut</key>
   <string>しはく</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>柴葉紫</string>
+  <key>shortcut</key>
+  <string>しばむらさき</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -7387,6 +7399,12 @@
   <string>秘聞の館</string>
   <key>shortcut</key>
   <string>ひぶんのやかた</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>百日白白音</string>
+  <key>shortcut</key>
+  <string>ひゃくじつはくしおん</string>
 </dict>
 <dict>
   <key>phrase</key>

@@ -46,6 +46,9 @@ export default {
     { hiragana: 'えんじょう', word: '淵上' },
     { hiragana: 'くにくずし', word: '国崩' },
     { hiragana: 'ざんひょう', word: '散兵' },
+    { hiragana: 'しおん', word: '白音' },
+    { hiragana: 'ひゃくじつはくしおん', word: '百日白白音' },
+    { hiragana: 'しばむらさき', word: '柴葉紫' },
 
     // 主に歴史・文献に登場
     { hiragana: 'らいでんまこと', word: '雷電眞' },
