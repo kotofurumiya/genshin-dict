@@ -29,7 +29,7 @@
 |[人物/璃月](./dict/person/liyue.md)|66|
 |[人物/モンド](./dict/person/mondstadt.md)|63|
 |[人物/ナタ](./dict/person/natlan.md)|59|
-|[人物/ナド・クライ](./dict/person/nodkrai.md)|33|
+|[人物/ナド・クライ](./dict/person/nodkrai.md)|34|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|32|
 |[人物/スメール](./dict/person/sumeru.md)|61|
 |[人物/不明](./dict/person/unknown.md)|17|

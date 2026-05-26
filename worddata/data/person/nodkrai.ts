@@ -20,6 +20,7 @@ export default {
     { hiragana: 'きりる・ちゅーどみろゔぃっち・ふりんず', word: 'キリル・チュードミロヴィッチ・フリンズ' },
     { hiragana: 'いるーが', word: 'イルーガ' },
     { hiragana: 'あどん', word: 'アドン' },
+    { hiragana: 'ぷるーね', word: 'プルーネ' },
 
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'りーりき', word: 'リーリキ' },
