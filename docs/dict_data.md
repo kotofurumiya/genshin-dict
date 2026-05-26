@@ -8,7 +8,7 @@
 |[ワールド/エネミー](./dict/world/enemy.md)|102|
 |[ワールド/イベント](./dict/world/event.md)|12|
 |[ワールド/システム](./dict/world/system.md)|60|
-|[ワールド/テイワット](./dict/world/teyvat.md)|200|
+|[ワールド/テイワット](./dict/world/teyvat.md)|201|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|83|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|

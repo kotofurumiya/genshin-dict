@@ -31,6 +31,7 @@ export default {
     { hiragana: 'ごうげつ', word: '恒月' },
     { hiragana: 'そうかのたたかい', word: '葬火の戦い', note: '天理とニーベルンゲンの戦い' },
     { hiragana: 'げつえい', word: '月翳' },
+    { hiragana: 'ほしのくさび', word: '星の楔' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },

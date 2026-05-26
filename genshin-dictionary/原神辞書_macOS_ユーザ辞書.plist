@@ -8176,6 +8176,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>星の楔</string>
+  <key>shortcut</key>
+  <string>ほしのくさび</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>星拾いの崖</string>
   <key>shortcut</key>
   <string>ほしひろいのがけ</string>
