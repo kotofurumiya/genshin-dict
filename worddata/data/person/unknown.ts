@@ -27,5 +27,8 @@ export default {
     { hiragana: 'そねっと', word: 'ソネット' },
     { hiragana: 'かのん', word: 'カノン' },
     { hiragana: 'ぱいかもんねん', word: 'パイカモンネン' },
+    { hiragana: 'こいたる', word: 'コイタル' },
+    { hiragana: 'されらいねん', word: 'サレライネン' },
+    { hiragana: 'せうてるゔぉいねん', word: 'セウテルヴォイネン' },
   ]
 } as DictBase;

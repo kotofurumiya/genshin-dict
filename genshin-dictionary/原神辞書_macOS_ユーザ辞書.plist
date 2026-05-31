@@ -424,6 +424,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>アラン・ギヨタン</string>
+  <key>shortcut</key>
+  <string>あらん・ぎよたん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>アラン・ギヨタン</string>
+  <key>shortcut</key>
+  <string>あらんぎよたん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>アランナラ</string>
   <key>shortcut</key>
   <string>あらんなら</string>
@@ -760,6 +772,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>イノシシプリンセス</string>
+  <key>shortcut</key>
+  <string>いのししぷりんせす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>命ノ星座</string>
   <key>shortcut</key>
   <string>いのちのせいざ</string>
@@ -829,6 +847,12 @@
   <string>遺瓏埠</string>
   <key>shortcut</key>
   <string>いろうふ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>インゴルド</string>
+  <key>shortcut</key>
+  <string>いんごるど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1264,6 +1288,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>映影</string>
+  <key>shortcut</key>
+  <string>えいえい</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>永遠のオアシス</string>
   <key>shortcut</key>
   <string>えいえんのおあしす</string>
@@ -1360,6 +1390,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>エマニュエル</string>
+  <key>shortcut</key>
+  <string>えまにゅえる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エマニュエル・ギヨタン</string>
+  <key>shortcut</key>
+  <string>えまにゅえるぎよたん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>エミリエ</string>
   <key>shortcut</key>
   <string>えみりえ</string>
@@ -1387,6 +1429,12 @@
   <string>エリン</string>
   <key>shortcut</key>
   <string>えりん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>エルトン</string>
+  <key>shortcut</key>
+  <string>えるとん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -1639,6 +1687,36 @@
   <string>カーター</string>
   <key>shortcut</key>
   <string>かーたー</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>カーター・シェルビウス</string>
+  <key>shortcut</key>
+  <string>かーたー・しぇるびうす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>カーター・シェルビウス</string>
+  <key>shortcut</key>
+  <string>かーたーしぇるびうす</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>カール</string>
+  <key>shortcut</key>
+  <string>かーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>カール・インゴルド</string>
+  <key>shortcut</key>
+  <string>かーる・いんごるど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>カール・インゴルド</string>
+  <key>shortcut</key>
+  <string>かーるいんごるど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -2203,6 +2281,12 @@
   <string>祈聖のオイル</string>
   <key>shortcut</key>
   <string>きせいのおいる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>北の果て、祈りの歌</string>
+  <key>shortcut</key>
+  <string>きたのはていのりのうた</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -3262,6 +3346,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>コイタル</string>
+  <key>shortcut</key>
+  <string>こいたる</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>業果材</string>
   <key>shortcut</key>
   <string>ごうかざい</string>
@@ -3724,6 +3814,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>サレライネン</string>
+  <key>shortcut</key>
+  <string>されらいねん</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>三運河の地</string>
   <key>shortcut</key>
   <string>さんうんがのち</string>
@@ -3898,15 +3994,39 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ジェイコブ・インゴルド</string>
+  <key>shortcut</key>
+  <string>じぇいこぶ・いんごるど</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ジェイコブ・インゴルド</string>
+  <key>shortcut</key>
+  <string>じぇいこぶいんごるど</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>シェセプアンク</string>
   <key>shortcut</key>
   <string>しぇせぷあんく</string>
 </dict>
 <dict>
   <key>phrase</key>
+  <string>シェルビウス</string>
+  <key>shortcut</key>
+  <string>しぇるびうす</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>シェロイ</string>
   <key>shortcut</key>
   <string>しぇろい</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>シェロイとシリンの物語</string>
+  <key>shortcut</key>
+  <string>しぇろいとしりんのものがたり</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4438,6 +4558,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>少女ヴィーラの憂鬱</string>
+  <key>shortcut</key>
+  <string>しょうじょゔぃーらのゆううつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>少女ヴィーラの憂鬱</string>
+  <key>shortcut</key>
+  <string>しょうじょヴぃーらのゆううつ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>紫曜石</string>
   <key>shortcut</key>
   <string>しようせき</string>
@@ -4495,6 +4627,12 @@
   <string>初諭の庭</string>
   <key>shortcut</key>
   <string>しょゆのにわ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>白姫と六人の小人</string>
+  <key>shortcut</key>
+  <string>しらひめとろくにんのこびと</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4567,6 +4705,12 @@
   <string>シロネン</string>
   <key>shortcut</key>
   <string>しろねん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>白姫と六人の小人</string>
+  <key>shortcut</key>
+  <string>しろひめとろくにんのこびと</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -4756,6 +4900,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>水仙十字</string>
+  <key>shortcut</key>
+  <string>すいせんじゅうじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>水仙十字院</string>
   <key>shortcut</key>
   <string>すいせんじゅうじいん</string>
@@ -4765,6 +4915,12 @@
   <string>水仙十字結社</string>
   <key>shortcut</key>
   <string>すいせんじゅうじけっしゃ</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>水仙の夢</string>
+  <key>shortcut</key>
+  <string>すいせんのゆめ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5155,6 +5311,18 @@
   <string>生論派</string>
   <key>shortcut</key>
   <string>せいろんは</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>セウテルヴォイネン</string>
+  <key>shortcut</key>
+  <string>せうてるゔぉいねん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>セウテルヴォイネン</string>
+  <key>shortcut</key>
+  <string>せうてるヴぉいねん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5938,6 +6106,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>沈秋拾剣録</string>
+  <key>shortcut</key>
+  <string>ちんしゅうしゅうけんろく</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>鎮守の森</string>
   <key>shortcut</key>
   <string>ちんしゅのもり</string>
@@ -6097,6 +6271,12 @@
   <string>テイワット</string>
   <key>shortcut</key>
   <string>ていわっと</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>テイワット観光ガイド</string>
+  <key>shortcut</key>
+  <string>ていわっとかんこうがいど</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -6790,6 +6970,12 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>日月前事</string>
+  <key>shortcut</key>
+  <string>にちげつぜんじ</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ニヒリット</string>
   <key>shortcut</key>
   <string>にひりっと</string>
@@ -7039,6 +7225,12 @@
   <string>バザル</string>
   <key>shortcut</key>
   <string>ばざる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>バザル・エルトン</string>
+  <key>shortcut</key>
+  <string>ばざる・えるとん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -7573,6 +7765,18 @@
   <string>フィッシュル</string>
   <key>shortcut</key>
   <string>ふぃっしゅる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フィッシュル皇女物語</string>
+  <key>shortcut</key>
+  <string>ふぃっしゅるおうじょものがたり</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>フィッシュル皇女物語</string>
+  <key>shortcut</key>
+  <string>ふぃっしゅるこうじょものがたり</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -8485,6 +8689,18 @@
   <string>マリアン</string>
   <key>shortcut</key>
   <string>まりあん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>マリアン・ギヨタン</string>
+  <key>shortcut</key>
+  <string>まりあん・ぎよたん</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>マリアン・ギヨタン</string>
+  <key>shortcut</key>
+  <string>まりあんぎよたん</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -9673,6 +9889,18 @@
   <string>ルネ</string>
   <key>shortcut</key>
   <string>るね</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ルネ・ド・ペトリコール</string>
+  <key>shortcut</key>
+  <string>るね・ど・ぺとりこーる</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ルネ・ド・ペトリコール</string>
+  <key>shortcut</key>
+  <string>るねどぺとりこーる</string>
 </dict>
 <dict>
   <key>phrase</key>

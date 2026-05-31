@@ -31,7 +31,6 @@ export default {
     { hiragana: 'ごうげつ', word: '恒月' },
     { hiragana: 'そうかのたたかい', word: '葬火の戦い', note: '天理とニーベルンゲンの戦い' },
     { hiragana: 'げつえい', word: '月翳' },
-    { hiragana: 'ほしのくさび', word: '星の楔' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -115,7 +114,9 @@ export default {
 
     // フォンテーヌ
     { hiragana: 'じゅんすいせん', word: '巡水船' },
+    { hiragana: 'えいえい', word: '映影' },
     { hiragana: 'すちーむばーどしんぶんしゃ', word: 'スチームバード新聞社' },
+    { hiragana: 'すいせんじゅうじ', word: '水仙十字' },
     { hiragana: 'すいせんじゅうじいん', word: '水仙十字院' },
     { hiragana: 'ふぉんてーぬかがくいん', word: 'フォンテーヌ科学院' },
     { hiragana: 'とげばらのかい', word: '棘薔薇の会' },

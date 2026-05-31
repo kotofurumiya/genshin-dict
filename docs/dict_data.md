@@ -5,10 +5,11 @@
 |[ワールド/ボスエネミー](./dict/world/boss.md)|61|
 |[ワールド/七聖召喚](./dict/world/cardgame.md)|20|
 |[ワールド/生き物](./dict/world/creature.md)|26|
+|[ワールド/資料](./dict/world/document.md)|11|
 |[ワールド/エネミー](./dict/world/enemy.md)|102|
 |[ワールド/イベント](./dict/world/event.md)|12|
-|[ワールド/システム](./dict/world/system.md)|60|
-|[ワールド/テイワット](./dict/world/teyvat.md)|201|
+|[ワールド/システム](./dict/world/system.md)|61|
+|[ワールド/テイワット](./dict/world/teyvat.md)|202|
 |[地域/ドラゴンスパイン](./dict/region/dragonspine.md)|9|
 |[地域/フォンテーヌ](./dict/region/fontaine.md)|83|
 |[地域/金リンゴ群島](./dict/region/golden_apple.md)|1|
@@ -23,7 +24,7 @@
 |[地域/スメール](./dict/region/sumeru.md)|78|
 |[地域/テイワット](./dict/region/teyvat.md)|7|
 |[地域/層岩巨淵](./dict/region/the_chasm.md)|14|
-|[人物/フォンテーヌ](./dict/person/fontaine.md)|38|
+|[人物/フォンテーヌ](./dict/person/fontaine.md)|57|
 |[人物/稲妻](./dict/person/inazuma.md)|53|
 |[人物/カーンルイア](./dict/person/khaenriah.md)|18|
 |[人物/璃月](./dict/person/liyue.md)|66|
@@ -32,8 +33,8 @@
 |[人物/ナド・クライ](./dict/person/nodkrai.md)|34|
 |[人物/スネージナヤ](./dict/person/snezhnaya.md)|32|
 |[人物/スメール](./dict/person/sumeru.md)|61|
-|[人物/不明](./dict/person/unknown.md)|17|
-|[アイテム/聖遺物](./dict/item/artifact.md)|12|
+|[人物/不明](./dict/person/unknown.md)|20|
+|[アイテム/聖遺物](./dict/item/artifact.md)|13|
 |[アイテム/食べ物](./dict/item/food.md)|3|
 |[アイテム/素材](./dict/item/material.md)|132|
 |[アイテム/道具](./dict/item/tool.md)|14|

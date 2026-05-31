@@ -84,5 +84,6 @@ export default {
     { hiragana: 'げっちょう', word: '月兆' },
     { hiragana: 'しょしょう', word: '初照' },
     { hiragana: 'まんしょう', word: '満照' },
+    { hiragana: 'ほしのくさび', word: '星の楔' },
   ]
 } as DictBase;
