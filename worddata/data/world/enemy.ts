@@ -55,7 +55,7 @@ export default {
     { hiragana: 'せいがいあかわし', word: '聖骸赤鷲' },
     { hiragana: 'せいがいさそり', word: '聖骸サソリ' },
     { hiragana: 'せいがいとびへび', word: '聖骸トビヘビ' },
-    { hiragana: 'せいがいとびへび', word: '聖骸ツノワニ' },
+    { hiragana: 'せいがいつのわに', word: '聖骸ツノワニ' },
     { hiragana: 'せいがいがじゅう', word: '聖骸牙獣' },
     { hiragana: 'ひるちゃーるれんじゃー', word: 'ヒルチャールレンジャー' },
     { hiragana: 'だくすいげんれい', word: '濁水幻霊' },

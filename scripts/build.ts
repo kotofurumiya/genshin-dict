@@ -27,9 +27,7 @@ for (const d of dictList) {
 
   if (invalids.length > 0) {
     includesInvalid = true;
-    const errors = invalids.map(
-      (e) => `  "${e.text}" includes invalid characters "${e.invalidCharacters.join(',')}"`
-    );
+    const errors = invalids.map((e) => `  "${e.text}" includes invalid characters "${e.invalidCharacters.join(',')}"`);
 
     console.error(`${d.path}`);
     console.error(errors.join('\n'));
@@ -60,9 +58,7 @@ if (duplicates.length > 0) {
 
 // 五十音順にソートする＆「ゔ」を扱えないIMEのために「ヴ」に変換する
 const words = expandVuHiragana(
-  dictList
-    .flatMap((d) => d.items)
-    .sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja'))
+  dictList.flatMap((d) => d.items).sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja'))
 );
 
 const winIme = toWindowsImeDict(words);

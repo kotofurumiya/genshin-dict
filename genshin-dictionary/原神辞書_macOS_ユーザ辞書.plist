@@ -4852,27 +4852,27 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>シルヴェスター・ペロトヴィッチ・ソロヴィ</string>
+  <string>シルヴェスター・ペトロヴィッチ・ソロヴィ</string>
   <key>shortcut</key>
-  <string>しるゔぇすたー・ぺろとゔぃっち・そろゔぃ</string>
+  <string>しるゔぇすたー・ぺとろゔぃっち・そろゔぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
-  <string>シルヴェスター・ペロトヴィッチ・ソロヴィ</string>
+  <string>シルヴェスター・ペトロヴィッチ・ソロヴィ</string>
   <key>shortcut</key>
-  <string>しるヴぇすたー・ぺろとヴぃっち・そろヴぃ</string>
+  <string>しるヴぇすたー・ぺとろヴぃっち・そろヴぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
-  <string>シルヴェスター・ペロトヴィッチ・ソロヴィ</string>
+  <string>シルヴェスター・ペトロヴィッチ・ソロヴィ</string>
   <key>shortcut</key>
-  <string>しるゔぇすたーぺろとゔぃっちそろゔぃ</string>
+  <string>しるゔぇすたーぺとろゔぃっちそろゔぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
-  <string>シルヴェスター・ペロトヴィッチ・ソロヴィ</string>
+  <string>シルヴェスター・ペトロヴィッチ・ソロヴィ</string>
   <key>shortcut</key>
-  <string>しるヴぇすたーぺろとヴぃっちそろヴぃ</string>
+  <string>しるヴぇすたーぺとろヴぃっちそろヴぃ</string>
 </dict>
 <dict>
   <key>phrase</key>
@@ -5374,13 +5374,13 @@
 </dict>
 <dict>
   <key>phrase</key>
-  <string>聖骸トビヘビ</string>
+  <string>聖骸ツノワニ</string>
   <key>shortcut</key>
-  <string>せいがいとびへび</string>
+  <string>せいがいつのわに</string>
 </dict>
 <dict>
   <key>phrase</key>
-  <string>聖骸ツノワニ</string>
+  <string>聖骸トビヘビ</string>
   <key>shortcut</key>
   <string>せいがいとびへび</string>
 </dict>
@@ -8506,6 +8506,18 @@
 </dict>
 <dict>
   <key>phrase</key>
+  <string>ペトロヴィッチ</string>
+  <key>shortcut</key>
+  <string>ぺとろゔぃっち</string>
+</dict>
+<dict>
+  <key>phrase</key>
+  <string>ペトロヴィッチ</string>
+  <key>shortcut</key>
+  <string>ぺとろヴぃっち</string>
+</dict>
+<dict>
+  <key>phrase</key>
   <string>ベネット</string>
   <key>shortcut</key>
   <string>べねっと</string>
@@ -8575,18 +8587,6 @@
   <string>ペルーシッド岩窟</string>
   <key>shortcut</key>
   <string>ぺるーしっどがんくつ</string>
-</dict>
-<dict>
-  <key>phrase</key>
-  <string>ペトロヴィッチ</string>
-  <key>shortcut</key>
-  <string>ぺろとゔぃっち</string>
-</dict>
-<dict>
-  <key>phrase</key>
-  <string>ペトロヴィッチ</string>
-  <key>shortcut</key>
-  <string>ぺろとヴぃっち</string>
 </dict>
 <dict>
   <key>phrase</key>
