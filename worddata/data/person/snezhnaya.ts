@@ -17,6 +17,7 @@ export default {
     { hiragana: 'ぺるゔぇーれ', word: 'ペルヴェーレ', note: 'アルレッキーノの本名' },
     { hiragana: 'ぺるゔぃ', word: 'ペルヴィ', note: 'アルレッキーノの本名の愛称' },
     { hiragana: 'さんどろーね', word: 'サンドローネ' },
+    { hiragana: 'まりあねって', word: 'マリアネッテ', note: 'サンドローネの本名' },
     { hiragana: 'ぷろんにあ', word: 'プロンニア' },
     { hiragana: 'ありょーしゃ', word: 'アリョーシャ' },
     { hiragana: 'おでっと', word: 'オデット' },
