@@ -34,6 +34,5 @@ export type Dict = {
   path: string;
   category: string;
   title: string;
-  slug: string;
   items: DictItem[];
 }

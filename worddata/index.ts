@@ -12,13 +12,12 @@ export const loadDictList = async() => {
   for(const dictPath of dictFilePathList) {
     const dict: DictBase = (await import(dictPath)).default;
     const items = dict.items.map((item) => ({...item, hinshi: dict.hinshi}));
-    const filePath = `dict/${path.dirname(dictPath).split('/').at(-1)}/${path.basename(dictPath, '.ts')}`;
-  
+    const filePath = `dict/${path.basename(path.dirname(dictPath))}/${path.basename(dictPath, '.ts')}`;
+
     dictList.push({
       path: filePath,
       category: dict.category,
       title: dict.title,
-      slug: filePath,
       items,
     });
   }

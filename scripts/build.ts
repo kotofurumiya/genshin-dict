@@ -4,7 +4,6 @@ import path from 'path';
 import { loadDictList } from '../worddata/index.ts';
 import { toKotoeriDict, toMacUserDict, toWindowsImeDict, expandVuHiragana, toUtf16BOM } from './lib/platform.ts';
 import { generateDocs } from './lib/docgen.ts';
-import type { DictItem } from '../worddata/dict.d.ts';
 import { findDuplicateItems, validateDictItemsYomigana } from './lib/validate.ts';
 
 const filename = url.fileURLToPath(import.meta.url);
@@ -18,77 +17,75 @@ const macUserDictFile = path.join(distDir, '原神辞書_macOS_ユーザ辞書.p
 
 console.log('辞書データを構築しています...');
 
-(async function main() {
-  const dictList = await loadDictList();
+const dictList = await loadDictList();
 
-  // よみがなに使用できない文字が含まれていないかチェックする。
-  let includesInvalid = false;
-  for (const d of dictList) {
-    const results = validateDictItemsYomigana(d);
-    const invalids = results.filter((r) => !r.ok);
+// よみがなに使用できない文字が含まれていないかチェックする。
+let includesInvalid = false;
+for (const d of dictList) {
+  const results = validateDictItemsYomigana(d);
+  const invalids = results.filter((r) => !r.ok);
 
-    if (invalids.length > 0) {
-      includesInvalid = true;
-      const errors = invalids.map(
-        (e) => `  "${e.text}" includes invalid characters "${e.invalidCharacters.join(',')}"`
-      );
+  if (invalids.length > 0) {
+    includesInvalid = true;
+    const errors = invalids.map(
+      (e) => `  "${e.text}" includes invalid characters "${e.invalidCharacters.join(',')}"`
+    );
 
-      console.error(`${d.path}`);
-      console.error(errors.join('\n'));
+    console.error(`${d.path}`);
+    console.error(errors.join('\n'));
+  }
+}
+
+// よみがなに使用できない文字があったらエラー終了する。
+if (includesInvalid) {
+  process.exit(1);
+}
+
+// 重複項目チェック。読み仮名と単語の両方が同一のものが複数あったら抽出する。
+const duplicates = findDuplicateItems(dictList);
+
+if (duplicates.length > 0) {
+  console.error(`Duplicated words:`);
+  for (const d of duplicates) {
+    const f = d.at(0);
+    if (!f) {
+      continue;
     }
+
+    console.error(`${f.hiragana}, ${f.word}`);
+    console.error(d.map((i) => `  ${i.path}`).join('\n'));
   }
+  process.exit(1);
+}
 
-  // よみがなに使用できない文字があったらエラー終了する。
-  if (includesInvalid) {
-    process.exit(1);
-  }
+// 五十音順にソートする＆「ゔ」を扱えないIMEのために「ヴ」に変換する
+const words = expandVuHiragana(
+  dictList
+    .flatMap((d) => d.items)
+    .sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja'))
+);
 
-  // 重複項目チェック。読み仮名と単語の両方が同一のものが複数あったら抽出する。
-  const duplicates = findDuplicateItems(dictList);
+const winIme = toWindowsImeDict(words);
+const kotoeri = toKotoeriDict(words);
+const plist = toMacUserDict(words);
 
-  if (duplicates.length > 0) {
-    console.error(`Duplicated words:`);
-    for (const d of duplicates) {
-      const f = d.at(0);
-      if (!f) {
-        continue;
-      }
+console.log('ドキュメントを生成しています...');
 
-      console.error(`${f.hiragana}, ${f.word}`);
-      console.error(d.map((i) => `  ${i.path}`).join('\n'));
-    }
-    process.exit(1);
-  }
+const docs = generateDocs(dictList);
 
-  // 五十音順にソートする＆「ゔ」を扱えないIMEのために「ヴ」に変換する
-  const words = expandVuHiragana(
-    dictList
-      .reduce<DictItem[]>((prev, curr) => [...prev, ...curr.items], [])
-      .sort((a, b) => a.hiragana.localeCompare(b.hiragana, 'ja'))
-  );
+for (const doc of docs) {
+  const filePath = path.join(docDir, doc.slug + '.md');
+  fs.mkdirSync(path.dirname(filePath), { recursive: true });
+  fs.writeFileSync(filePath, doc.content, 'utf8');
+}
 
-  const winIme = toWindowsImeDict(words);
-  const kotoeri = toKotoeriDict(words);
-  const plist = toMacUserDict(words);
+console.log('ファイルに書き出しています...');
 
-  console.log('ドキュメントを生成しています...');
+fs.writeFileSync(winDictFile, toUtf16BOM(winIme));
+fs.writeFileSync(macDictFile, kotoeri, 'utf8');
+fs.writeFileSync(macUserDictFile, plist, 'utf8');
 
-  const docs = generateDocs(dictList);
-
-  for (const doc of docs) {
-    const filePath = path.join(docDir, doc.slug + '.md');
-    fs.mkdirSync(path.dirname(filePath), { recursive: true });
-    fs.writeFileSync(filePath, doc.content, 'utf8');
-  }
-
-  console.log('ファイルに書き出しています...');
-
-  fs.writeFileSync(winDictFile, toUtf16BOM(winIme));
-  fs.writeFileSync(macDictFile, kotoeri, 'utf8');
-  fs.writeFileSync(macUserDictFile, plist, 'utf8');
-
-  console.log('完了しました');
-  console.log(winDictFile);
-  console.log(macDictFile);
-  console.log(macUserDictFile);
-})();
+console.log('完了しました');
+console.log(winDictFile);
+console.log(macDictFile);
+console.log(macUserDictFile);

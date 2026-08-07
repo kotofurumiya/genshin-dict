@@ -29,7 +29,7 @@ const createPage = (dict: Dict): Page => {
   return {
     category: dict.category,
     title: dict.title,
-    slug: dict.slug,
+    slug: dict.path,
     content,
     total,
   };

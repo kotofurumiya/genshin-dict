@@ -8,7 +8,6 @@ test('no duplicates', async (t) => {
     path: 'testpath',
     title: 'testtitle',
     category: 'testcategory',
-    slug: 'testslug',
     items: [
       {
         hinshi: '普通名詞',
@@ -47,7 +46,6 @@ test('partial duplicates', async (t) => {
     path: 'testpath',
     title: 'testtitle',
     category: 'testcategory',
-    slug: 'testslug',
     items: [
       {
         hinshi: '普通名詞',
