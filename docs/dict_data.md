@@ -31,7 +31,7 @@
 |[人物/モンド](./dict/person/mondstadt.md)|63|
 |[人物/ナタ](./dict/person/natlan.md)|59|
 |[人物/ナド・クライ](./dict/person/nodkrai.md)|44|
-|[人物/スネージナヤ](./dict/person/snezhnaya.md)|40|
+|[人物/スネージナヤ](./dict/person/snezhnaya.md)|41|
 |[人物/スメール](./dict/person/sumeru.md)|61|
 |[人物/不明](./dict/person/unknown.md)|20|
 |[アイテム/聖遺物](./dict/item/artifact.md)|13|
