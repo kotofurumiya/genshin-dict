@@ -107,5 +107,8 @@ export default {
     { hiragana: 'りんろう', word: '凛狼' },
     { hiragana: 'しゅうこうのりんろう', word: '集光の凛狼' },
     { hiragana: 'やみのりょうし', word: '闇の漁師' },
+    { hiragana: 'せんくひげん', word: '先駆秘源' },
+    { hiragana: 'こまんだーじんけい', word: 'コマンダー陣形' },
+    { hiragana: 'せんくひげんこまんだーじんけい', word: '先駆秘源コマンダー陣形' },
   ]
 } as DictBase;

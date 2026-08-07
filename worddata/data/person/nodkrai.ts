@@ -44,5 +44,15 @@ export default {
     { hiragana: 'しるゔぇすたー', word: 'シルヴェスター' },
     { hiragana: 'ぺろとゔぃっち', word: 'ペトロヴィッチ' },
     { hiragana: 'そろゔぃ', word: 'ソロヴィ', note: '初代マスターライトキーパー' },
+    { hiragana: 'いびにべるん', word: 'イビニベルン' },
+    { hiragana: 'うーじえん', word: 'ウージエン' },
+    { hiragana: 'うーじ', word: 'ウージ' },
+    { hiragana: 'まーごじぇてぃ', word: 'マーゴジェティ' },
+    { hiragana: 'まーご', word: 'マーゴ' },
+    { hiragana: 'るしゃりむ', word: 'ルシャリム' },
+    { hiragana: 'にんしじあ', word: 'ニンシジア' },
+    { hiragana: 'にんにん', word: 'ニンニン' },
+    { hiragana: 'いすなくれーる', word: 'イスナクレール' },
+    { hiragana: 'しっこくのはかいしゃ', word: '漆黒の破壊者' },
   ]
 } as DictBase;

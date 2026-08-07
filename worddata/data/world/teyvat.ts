@@ -29,6 +29,7 @@ export default {
     { hiragana: 'こうげつ', word: '虹月' },
     { hiragana: 'こうげつ', word: '恒月' },
     { hiragana: 'ごうげつ', word: '恒月' },
+    { hiragana: 'いつわりのそら', word: '偽りの空' },
     { hiragana: 'そうかのたたかい', word: '葬火の戦い', note: '天理とニーベルンゲンの戦い' },
     { hiragana: 'げつえい', word: '月翳' },
 
@@ -212,9 +213,24 @@ export default {
     { hiragana: 'すぷりんぐこっとん', word: 'スプリングコットン' },
     { hiragana: 'とがりばな', word: 'トガリバナ' },
 
+    // 霜月
+    { hiragana: 'かんげつしゃ', word: '観月者' },
+    { hiragana: 'かんげつしゃけいかく', word: '観月者計画' },
+    { hiragana: 'こくしょくぶっしつ', word: '黒色物質' },
+    { hiragana: 'ほしのこくしょくたい', word: '星の黒色体' },
+    { hiragana: 'こうそくいそうすてーしょん', word: '高速移送ステーション' },
+    { hiragana: 'げつまく', word: '月幕' },
+
     // スネージナヤ
     { hiragana: 'ふぁでゅい', word: 'ファデュイ' },
     { hiragana: 'ふぁとぅす', word: 'ファトゥス' },
+    { hiragana: 'とうけいぐん', word: '冬契軍' },
+    { hiragana: 'どるじーな', word: '冬契軍' },
+    { hiragana: 'どるじーな', word: 'ドルジーナ' },
+    { hiragana: 'ころれふすきーげきだん', word: 'コロレフスキー劇団' },
+    { hiragana: 'こうりつえねるぎーきょうかい', word: '皇立エネルギー協会' },
+    { hiragana: 'すねーじなやこうとひょうぎかい', word: 'スネージナヤ皇都評議会' },
+    { hiragana: 'こうとひょうぎかい', word: '皇都評議会' },
 
     // カーンルイア
     { hiragana: 'せきげつおうちょう', word: '赤月王朝' },

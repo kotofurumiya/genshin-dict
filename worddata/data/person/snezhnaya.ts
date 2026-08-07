@@ -9,20 +9,32 @@ export default {
     { hiragana: 'たるたりや', word: 'タルタリヤ' },
     { hiragana: 'あやっくす', word: 'アヤックス', note: 'タルタリヤの本名' },
     { hiragana: 'すからましゅ', word: 'スカラマシュ' },
-
-    // ゲーム中や漫画に登場するキャラクター
-    { hiragana: 'しにょーら', word: 'シニョーラ' },
-    { hiragana: 'ぴえろ', word: 'ピエロ' },
     { hiragana: 'ころんびーな', word: 'コロンビーナ' },
     { hiragana: 'はいぽせれにあ', word: 'ハイポセレニア' },
     { hiragana: 'ころんびーなはいぽせれにあ', word: 'コロンビーナ・ハイポセレニア' },
     { hiragana: 'ころんびーな・はいぽせれにあ', word: 'コロンビーナ・ハイポセレニア' },
-    { hiragana: 'ぷるちねっら', word: 'プルチネッラ' },
     { hiragana: 'あるれっきーの', word: 'アルレッキーノ' },
     { hiragana: 'ぺるゔぇーれ', word: 'ペルヴェーレ', note: 'アルレッキーノの本名' },
     { hiragana: 'ぺるゔぃ', word: 'ペルヴィ', note: 'アルレッキーノの本名の愛称' },
     { hiragana: 'さんどろーね', word: 'サンドローネ' },
     { hiragana: 'ぷろんにあ', word: 'プロンニア' },
+    { hiragana: 'ありょーしゃ', word: 'アリョーシャ' },
+    { hiragana: 'おでっと', word: 'オデット' },
+    { hiragana: 'ゔぉじゃにーつぁ', word: 'ヴォジャニーツァ' },
+    { hiragana: 'ばれりー', word: 'バレリー' },
+    { hiragana: 'だにか', word: 'ダニカ' },
+    { hiragana: 'ゔぇすな', word: 'ヴェスナ' },
+    { hiragana: 'みてぃや', word: 'ミティヤ' },
+    { hiragana: 'のい', word: 'ノイ' },
+    { hiragana: 'あなすたーしゃ', word: 'アナスターシャ' },
+    { hiragana: 'ふょーどろゔな', word: 'フョードロヴナ' },
+    { hiragana: 'あなすたーしゃふょーどろゔなすねーじなや', word: 'アナスターシャ・フョードロヴナ・スネージナヤ' },
+    { hiragana: 'あなすたーしゃ・ふょーどろゔな・すねーじなや', word: 'アナスターシャ・フョードロヴナ・スネージナヤ' },
+
+    // ゲーム中や漫画に登場するキャラクター
+    { hiragana: 'しにょーら', word: 'シニョーラ' },
+    { hiragana: 'ぴえろ', word: 'ピエロ' },
+    { hiragana: 'ぷるちねっら', word: 'プルチネッラ' },
     { hiragana: 'かぴたーの', word: 'カピターノ' },
     { hiragana: 'すらーいん', word: 'スラーイン', note: '隊長の本名' },
     { hiragana: 'どっとーれ', word: 'ドットーレ' },
@@ -38,9 +50,5 @@ export default {
     { hiragana: 'べーるい', word: 'ベールイ' },
     { hiragana: 'つぁーりべーるい', word: 'ツァーリ・ベールイ' }, // ツァーリ（皇帝）の意で名前ではないと思うが一応記載
     { hiragana: 'つぁーり・べーるい', word: 'ツァーリ・ベールイ' },
-    { hiragana: 'あなすたーしゃ', word: 'アナスターシャ' },
-    { hiragana: 'ふょーどろゔな', word: 'フョードロヴナ' },
-    { hiragana: 'あなすたーしゃふょーどろゔなすねーじなや', word: 'アナスターシャ・フョードロヴナ・スネージナヤ' },
-    { hiragana: 'あなすたーしゃ・ふょーどろゔな・すねーじなや', word: 'アナスターシャ・フョードロヴナ・スネージナヤ' },
   ]
 } as DictBase;

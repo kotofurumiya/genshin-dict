@@ -79,6 +79,7 @@ export default {
     { hiragana: 'こはくこう', word: '琥珀香' },
     { hiragana: 'ふぇざーもす', word: 'フェザーモス' },
     { hiragana: 'かぜやみのはな', word: '風止みの花' },
+    { hiragana: 'つきのなみだ', word: '月の涙' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

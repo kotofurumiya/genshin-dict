@@ -44,6 +44,7 @@ export default {
     { hiragana: 'ゔぁざーりかいろう', word: 'ヴァザーリ回廊' },
     { hiragana: 'さーんどるがわ', word: 'サーンドル河' },
     { hiragana: 'あんみんのち', word: '安眠の地' },
+    { hiragana: 'うぃんがれっとごう', word: 'ウィンガレット号' },
 
     // エリニュス島
     { hiragana: 'えりにゅすとう', word: 'エリニュス島' },
