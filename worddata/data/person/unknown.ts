@@ -30,5 +30,6 @@ export default {
     { hiragana: 'こいたる', word: 'コイタル' },
     { hiragana: 'されらいねん', word: 'サレライネン' },
     { hiragana: 'せうてるゔぉいねん', word: 'セウテルヴォイネン' },
+    { hiragana: 'あなかるしす', word: 'アナカルシス' },
   ]
 } as DictBase;

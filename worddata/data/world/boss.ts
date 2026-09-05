@@ -66,5 +66,7 @@ export default {
     { hiragana: 'くらきえんむのぬし', word: '昏き魘夢の主' },
     { hiragana: 'あふぁーるのとり', word: 'アファールの鳥', note: '空の神殿のクエストボス' },
     { hiragana: 'しゅうこうのつきやもり', word: '集光の月ヤモリ' },
+    { hiragana: 'ふりゅーげるれーゔぇ', word: 'フリューゲルレーヴェ' },
+    { hiragana: 'ふめつのふくさんぶつ', word: '不滅の副産物' },
   ]
 } as DictBase;

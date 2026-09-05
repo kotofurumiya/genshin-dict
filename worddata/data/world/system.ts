@@ -59,6 +59,10 @@ export default {
     { hiragana: 'つきけっしょう', word: '月結晶' },
     { hiragana: 'そうろ', word: '草露' },
     { hiragana: 'つきごもり', word: '月籠' },
+    { hiragana: 'ほしでんどう', word: '星電導' },
+    { hiragana: 'ほしかくさん', word: '星拡散' },
+    { hiragana: 'すたーらいとぷりずむ', word: 'スターライトプリズム' },
+    { hiragana: 'ほしのあらし', word: '星の嵐' },
 
     // 聖遺物
     { hiragana: 'かいせい', word: '廻聖' },

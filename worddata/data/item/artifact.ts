@@ -18,5 +18,7 @@ export default {
     { hiragana: 'おうごんのげきだん', word: '黄金の劇団' },
     { hiragana: 'しんろう', word: '深廊' },
     { hiragana: 'しんろうのしゅうきょく', word: '深廊の終局' },
+    { hiragana: 'かげにしずむまぼろし', word: '影に沈む幻' },
+    { hiragana: 'ろえんようれん', word: '炉炎溶錬' },
   ]
 } as DictBase;

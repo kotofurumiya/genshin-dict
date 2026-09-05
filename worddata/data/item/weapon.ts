@@ -42,5 +42,7 @@ export default {
     { hiragana: 'せいけんのかぎ', word: '聖顕の鍵' },
     { hiragana: 'さーんどる', word: 'サーンドル' },
     { hiragana: 'さーんどるのわたしもり', word: 'サーンドルの渡し守' },
+    { hiragana: 'せいほうのけん', word: '星峰の剣' },
+    { hiragana: 'せいほうのつるぎ', word: '星峰の剣' },
   ]
 } as DictBase;

@@ -80,6 +80,16 @@ export default {
     { hiragana: 'ふぇざーもす', word: 'フェザーモス' },
     { hiragana: 'かぜやみのはな', word: '風止みの花' },
     { hiragana: 'つきのなみだ', word: '月の涙' },
+    { hiragana: 'びーつ', word: 'ビーツ' },
+    { hiragana: 'ぐれいしあのみ', word: 'グレイシアの実' },
+    { hiragana: 'せつぎょくか', word: '雪玉花' },
+    { hiragana: 'ゆきだまはな', word: '雪玉花' },
+    { hiragana: 'ゆきだまばな', word: '雪玉花' },
+    { hiragana: 'あいすすぐり', word: 'アイススグリ' },
+    { hiragana: 'ゆうこうけいせき', word: '幽光蛍石' },
+    { hiragana: 'ふろすとふらわー', word: 'フロストフラワー' },
+    { hiragana: 'ふろっくそう', word: 'フロック草' },
+    { hiragana: 'ざらといありゃーく', word: 'ザラトイアリャーク' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

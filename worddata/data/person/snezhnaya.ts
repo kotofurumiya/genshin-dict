@@ -33,6 +33,9 @@ export default {
     { hiragana: 'あなすたーしゃ・ふょーどろゔな・すねーじなや', word: 'アナスターシャ・フョードロヴナ・スネージナヤ' },
 
     // ゲーム中や漫画に登場するキャラクター
+    { hiragana: 'てうせる', word: 'テウセル' },
+    { hiragana: 'あんとん', word: 'アントン' },
+    { hiragana: 'とーにゃ', word: 'トーニャ' },
     { hiragana: 'しにょーら', word: 'シニョーラ' },
     { hiragana: 'ぴえろ', word: 'ピエロ' },
     { hiragana: 'ぷるちねっら', word: 'プルチネッラ' },
@@ -46,10 +49,31 @@ export default {
     { hiragana: 'ゔぇくせる', word: 'ヴェクセル', note: '富者のファミリーネーム' },
     { hiragana: 'ふぇおふぁんせるげいぇゔぃっちゔぇくせる', word: 'フェオファン・セルゲイェヴィッチ・ヴェクセル', note: '富者のフルネーム' },
     { hiragana: 'ふぇおふぁん・せるげいぇゔぃっち・ゔぇくせる', word: 'フェオファン・セルゲイェヴィッチ・ヴェクセル', note: '富者のフルネーム' },
-    
+    { hiragana: 'れーれく', word: 'レーレク' },
+    { hiragana: 'ちゅぐのふ', word: 'チュグノフ' },
+    { hiragana: 'あくしーにゃ', word: 'アクシーニャ' },
+    { hiragana: 'こしちぇい', word: 'コシチェイ' },
+    { hiragana: 'もろー', word: 'モロー' },
+    { hiragana: 'ぱゔりな', word: 'パヴリナ' },
+    { hiragana: 'にこらい', word: 'ニコライ' },
+    { hiragana: 'ぱくはん', word: 'パクハン', note: 'イズマイールの父称' },
+    { hiragana: 'いずまいーる', word: 'イズマイール' },
+    { hiragana: 'にこらいぱくはんいずまいーる', word: 'ニコライ・パクハン・イズマイール' },
+    { hiragana: 'にこらい・ぱくはん・いずまいーる', word: 'ニコライ・パクハン・イズマイール' },
+    { hiragana: 'あるゔぃす', word: 'アルヴィス' },
+    { hiragana: 'ずゔぇーり', word: 'ズヴェーリ' },
+    { hiragana: 'どんすこい', word: 'ドンスコイ' },
+    { hiragana: 'なすちゃ', word: 'ナスチャ' },
+    { hiragana: 'おーゔぇ', word: 'オーヴェ' },
+    { hiragana: 'ふゅりおさ', word: 'フュリオサ' },
+
     // 主に歴史・文献に登場
     { hiragana: 'べーるい', word: 'ベールイ' },
     { hiragana: 'つぁーりべーるい', word: 'ツァーリ・ベールイ' }, // ツァーリ（皇帝）の意で名前ではないと思うが一応記載
     { hiragana: 'つぁーり・べーるい', word: 'ツァーリ・ベールイ' },
+    { hiragana: 'ものまふ', word: 'モノマフ' },
+    { hiragana: 'すねーじぬぃ', word: 'スネージヌィ' },
+    { hiragana: 'ものまふすねーじぬぃ', word: 'モノマフ・スネージヌィ' },
+    { hiragana: 'ものまふ・すねーじぬぃ', word: 'モノマフ・スネージヌィ' },
   ]
 } as DictBase;
