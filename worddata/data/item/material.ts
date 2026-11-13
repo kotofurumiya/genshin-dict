@@ -90,6 +90,9 @@ export default {
     { hiragana: 'ふろすとふらわー', word: 'フロストフラワー' },
     { hiragana: 'ふろっくそう', word: 'フロック草' },
     { hiragana: 'ざらといありゃーく', word: 'ザラトイアリャーク' },
+    { hiragana: 'ふぇいよもぎ', word: 'フェイヨモギ' },
+    { hiragana: 'しょうせきかさきのこ', word: '晶石カサキノコ' },
+    { hiragana: 'らんたんべりー', word: 'ランタンベリー' },
 
     // 雑魚素材/ボス素材
     { hiragana: 'まぐうのしん', word: '魔偶の芯' },

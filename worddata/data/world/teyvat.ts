@@ -33,6 +33,10 @@ export default {
     { hiragana: 'そうかのたたかい', word: '葬火の戦い', note: '天理とニーベルンゲンの戦い' },
     { hiragana: 'げつえい', word: '月翳' },
     { hiragana: 'げんしょのひと', word: '原初の人' },
+    { hiragana: 'しょうど', word: '聖土' },
+    { hiragana: 'しょうどか', word: '聖土化' },
+    { hiragana: 'ひかりのかがみ', word: '光の鏡' },
+    { hiragana: 'むこうじどうおうとうたんまつ', word: '無恒自動応答端末' },
 
     // モンド
     { hiragana: 'ばどるどー', word: 'バドルドー' },
@@ -290,6 +294,8 @@ export default {
     { hiragana: 'ごうせいじゅう', word: '合成獣' },
     { hiragana: 'かんぜんじゅ', word: '完全樹' },
     { hiragana: 'ちげんのはい', word: '地源の胚' },
+    { hiragana: 'しょうぼたる', word: '晶蛍' },
+    { hiragana: 'けいとうしょう', word: '蛍灯晶' },
 
     // カーンルイア
     { hiragana: 'せきげつおうちょう', word: '赤月王朝' },

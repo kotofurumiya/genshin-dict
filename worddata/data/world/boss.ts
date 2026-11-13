@@ -68,5 +68,7 @@ export default {
     { hiragana: 'しゅうこうのつきやもり', word: '集光の月ヤモリ' },
     { hiragana: 'ふりゅーげるれーゔぇ', word: 'フリューゲルレーヴェ' },
     { hiragana: 'ふめつのふくさんぶつ', word: '不滅の副産物' },
+    { hiragana: 'とうびょうしゃ', word: '投錨者' },
+    { hiragana: 'はとうのとうびょうしゃ', word: '波濤の投錨者' },
   ]
 } as DictBase;

@@ -7,13 +7,17 @@ export default {
   items: [
     // 実装済み・実装予定プレイアブル関係
     { hiragana: 'すかーく', word: 'スカーク' },
-    
+    { hiragana: 'にこ', word: 'ニコ' },
+    { hiragana: 'にこ・りやん', word: 'ニコ・リヤン' },
+
     // ゲーム中や漫画に登場するキャラクター
     { hiragana: 'ばーべろす', word: 'バーベロス' },
     { hiragana: 'あすとろまんさー・ばーべろす・とりすめぎすとす', word: 'アストロマンサー・バーベロス・トリスメギストス' },
-    { hiragana: 'にこ', word: 'ニコ' },
-    { hiragana: 'にこ・りやん', word: 'ニコ・リヤン' },
     { hiragana: 'あんでしゅどってる', word: 'アンデシュドッテル' },
+    { hiragana: 'じょあんな', word: 'ジョアンナ' },
+    { hiragana: 'いゔぁのゔな', word: 'イヴァノヴナ' },
+    { hiragana: 'じょあんないゔぁのゔな', word: 'ジョアンナ・イヴァノヴナ' },
+    { hiragana: 'じょあんな・いゔぁのゔな', word: 'ジョアンナ・イヴァノヴナ' },
 
     // 主に歴史・文献に登場
     { hiragana: 'げんしょのあのかた', word: '原初のあの方' },
@@ -22,6 +26,7 @@ export default {
     { hiragana: 'ろのゔぁ', word: 'ロノヴァ', note: '死の執政' },
     { hiragana: 'なべりうす', word: 'ナベリウス', note: '生の執政' },
     { hiragana: 'あすもだい', word: 'アスモダイ', note: '空の執政' },
+    { hiragana: 'ぬくゔぁ', word: 'ヌクヴァ' },
     { hiragana: 'にーべるんげん', word: 'ニーベルンゲン' },
     { hiragana: 'ありあ', word: 'アリア', note: '恒月の女神' },
     { hiragana: 'そねっと', word: 'ソネット' },

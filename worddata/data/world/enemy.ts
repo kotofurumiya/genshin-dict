@@ -110,5 +110,6 @@ export default {
     { hiragana: 'せんくひげん', word: '先駆秘源' },
     { hiragana: 'こまんだーじんけい', word: 'コマンダー陣形' },
     { hiragana: 'せんくひげんこまんだーじんけい', word: '先駆秘源コマンダー陣形' },
+    { hiragana: 'ひょうけつきょうえいたい', word: '氷結鏡映体' },
   ]
 } as DictBase;
